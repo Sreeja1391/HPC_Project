@@ -1,0 +1,15 @@
+---
+title: "STAT605 - Project Proposal"
+author: "Niharika Chunduru"
+date: "`r Sys.Date()`"
+# output: html_document
+output: rmdformats::readthedown
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Question
+
+Write a one-page proposal (4 points) including code to read data; descriptions of the variables, statistical methods, and computational steps you will use; and a link to your github repository. Turn in a `proposal.html` (knitted from `proposal.Rmd` or from some other source) or a `proposal.pdf`, one per group.
