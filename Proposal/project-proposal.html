@@ -1335,6 +1335,75 @@ border: 0;
 </style>
     
     
+        <style type="text/css">code{white-space: pre;}</style>
+    <style type="text/css">
+pre > code.sourceCode { white-space: pre; position: relative; }
+pre > code.sourceCode > span { display: inline-block; line-height: 1.25; }
+pre > code.sourceCode > span:empty { height: 1.2em; }
+.sourceCode { overflow: visible; }
+code.sourceCode > span { color: inherit; text-decoration: inherit; }
+div.sourceCode { margin: 1em 0; }
+pre.sourceCode { margin: 0; }
+@media screen {
+div.sourceCode { overflow: auto; }
+}
+@media print {
+pre > code.sourceCode { white-space: pre-wrap; }
+pre > code.sourceCode > span { text-indent: -5em; padding-left: 5em; }
+}
+pre.numberSource code
+{ counter-reset: source-line 0; }
+pre.numberSource code > span
+{ position: relative; left: -4em; counter-increment: source-line; }
+pre.numberSource code > span > a:first-child::before
+{ content: counter(source-line);
+position: relative; left: -1em; text-align: right; vertical-align: baseline;
+border: none; display: inline-block;
+-webkit-touch-callout: none; -webkit-user-select: none;
+-khtml-user-select: none; -moz-user-select: none;
+-ms-user-select: none; user-select: none;
+padding: 0 4px; width: 4em;
+background-color: #ffffff;
+color: #a0a0a0;
+}
+pre.numberSource { margin-left: 3em; border-left: 1px solid #a0a0a0; padding-left: 4px; }
+div.sourceCode
+{ color: #1f1c1b; background-color: #ffffff; }
+@media screen {
+pre > code.sourceCode > span > a:first-child::before { text-decoration: underline; }
+}
+code span { color: #1f1c1b; } 
+code span.al { color: #bf0303; background-color: #f7e6e6; font-weight: bold; } 
+code span.an { color: #ca60ca; } 
+code span.at { color: #0057ae; } 
+code span.bn { color: #b08000; } 
+code span.bu { color: #644a9b; font-weight: bold; } 
+code span.cf { color: #1f1c1b; font-weight: bold; } 
+code span.ch { color: #924c9d; } 
+code span.cn { color: #aa5500; } 
+code span.co { color: #898887; } 
+code span.cv { color: #0095ff; } 
+code span.do { color: #607880; } 
+code span.dt { color: #0057ae; } 
+code span.dv { color: #b08000; } 
+code span.er { color: #bf0303; text-decoration: underline; } 
+code span.ex { color: #0095ff; font-weight: bold; } 
+code span.fl { color: #b08000; } 
+code span.fu { color: #644a9b; } 
+code span.im { color: #ff5500; } 
+code span.in { color: #b08000; } 
+code span.kw { color: #1f1c1b; font-weight: bold; } 
+code span.op { color: #1f1c1b; } 
+code span.ot { color: #006e28; } 
+code span.pp { color: #006e28; } 
+code span.re { color: #0057ae; background-color: #e0e9f8; } 
+code span.sc { color: #3daee9; } 
+code span.ss { color: #ff5500; } 
+code span.st { color: #bf0303; } 
+code span.va { color: #0057ae; } 
+code span.vs { color: #bf0303; } 
+code span.wa { color: #bf0303; } 
+</style>
     
         <style type="text/css">#content {
 max-width: 100%;
@@ -1464,6 +1533,27 @@ group.</p>
 </div>
 <div id="code-to-read-the-data" class="section level1">
 <h1>Code to read the data</h1>
+<div class="sourceCode" id="cb1"><pre class="sourceCode r"><code class="sourceCode r"><span id="cb1-1"><a href="#cb1-1" tabindex="-1"></a>main_data <span class="ot">=</span> <span class="fu">read_csv</span>(<span class="st">&quot;../main_dataset.csv&quot;</span>)</span>
+<span id="cb1-2"><a href="#cb1-2" tabindex="-1"></a><span class="fu">head</span>(main_data, <span class="dv">10</span>)</span></code></pre></div>
+<pre><code>## # A tibble: 10 × 26
+##    track_uri  name  artists_names popularity album_type is_playable release_date
+##    &lt;chr&gt;      &lt;chr&gt; &lt;chr&gt;              &lt;dbl&gt; &lt;chr&gt;      &lt;lgl&gt;       &lt;chr&gt;       
+##  1 spotify:t… Way … [&#39;Floduxe&#39;]            0 single     TRUE        11/20/2015  
+##  2 spotify:t… Fant… [&#39;Alina Bara…         33 album      TRUE        9/4/2015    
+##  3 spotify:t… Try … [&#39;DeJ Loaf&#39;]          52 single     TRUE        10/15/2014  
+##  4 spotify:t… Walk… [&#39;Noosa&#39;]              0 single     TRUE        7/10/2014   
+##  5 spotify:t… Pret… [&#39;Zak Waters…          0 single     TRUE        6/17/2014   
+##  6 spotify:t… The … [&#39;Men Withou…         37 album      TRUE        1982        
+##  7 spotify:t… Idle… [&#39;EXGF&#39;]              29 single     TRUE        5/27/2014   
+##  8 spotify:t… Reli… [&#39;Tongues.&#39;]          15 single     TRUE        7/27/2015   
+##  9 spotify:t… Sask… [&#39;Data Roman…         27 album      TRUE        1/11/2011   
+## 10 spotify:t… Whir… [&#39;Sea Wolf&#39;]          33 album      TRUE        9/11/2012   
+## # ℹ 19 more variables: artists_uris &lt;chr&gt;, playlist_uris &lt;chr&gt;,
+## #   danceability &lt;dbl&gt;, energy &lt;dbl&gt;, key &lt;dbl&gt;, loudness &lt;dbl&gt;, mode &lt;dbl&gt;,
+## #   speechiness &lt;dbl&gt;, acousticness &lt;dbl&gt;, instrumentalness &lt;dbl&gt;,
+## #   liveness &lt;dbl&gt;, valence &lt;dbl&gt;, tempo &lt;dbl&gt;, analysis_url &lt;chr&gt;,
+## #   duration_ms &lt;dbl&gt;, time_signature &lt;dbl&gt;, artists_popularities &lt;chr&gt;,
+## #   artists_genres &lt;chr&gt;, artists_followers &lt;chr&gt;</code></pre>
 </div>
 <div id="description-of-variables" class="section level1">
 <h1>Description of Variables</h1>
@@ -1503,7 +1593,7 @@ group.</p>
 <thead>
 <tr>
 <th style="text-align:left;">
-Variable
+﻿Variable
 </th>
 <th style="text-align:left;">
 Data Type
