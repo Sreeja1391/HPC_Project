@@ -1,0 +1,14 @@
+﻿Variable,Data Type,Description
+ track_uri ,STRING,Track's URI
+ name ,STRING,Name of the track
+ artist_names ,LIST OF STRINGS,Names of the artists involved in the song
+ popularity ,NUMERIC,Popularity of the track on a scale of 0 (lowest) - 100 (highest)
+ album_type ,STRING,"Format of song release (album, single, or compilation)"
+ release_date ,DATE,The date the track was released on
+ artist_uris ,LIST OF STRINGS,URIs of the artists involved
+ playlist_uris ,LIST OF STRINGS,URIs of the playlists the track is in
+ tempo ,NUMERIC,The tempo of the sound track
+ duration_ms ,FLOAT,The duration of the track in milliseconds
+ artists_popularities ,LIST OF NUMERIC,Popularities of the artists involved on a scale of 0 (lowest) - 100 (highest)
+ artist_genres ,LIST OF STRINGS,Genres tagged to each artist involved in the track
+ artists_followers ,LIST OF NUMERIC,Number of followers of each artist involved in the track
