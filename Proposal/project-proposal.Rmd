@@ -19,12 +19,9 @@ Write a one-page proposal (4 points) including code to read data; descriptions o
 
 # Code to read the data
 ```{r}
-<<<<<<< HEAD
 # df = read_csv("../main_dataset.csv")
 # head(df, 10)
-=======
 
->>>>>>> 47b98b2355965b5861d993bc43e2a0c580cb586c
 
 
 ```
