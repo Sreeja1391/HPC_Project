@@ -1,3 +1,11 @@
-#content {
-    max-width: 100%;
+.header-panel {
+  background-color: #189b46;
+}
+
+.pages h1 {
+  color: #46189B;
+}
+
+a, a:focus, a:hover {
+  color: #9B4618;
 }
