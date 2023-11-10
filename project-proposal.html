@@ -7,9 +7,9 @@
 
         <meta name="author" content="Group #10" />
     
-        <meta name="date" content="2023-11-09" />
+        <meta name="date" content="2023-11-10" />
     
-    <title>STAT605 - Project Proposal</title>
+    <title>Project Proposal</title>
     <!-- Material Design fonts -->
     <style type="text/css">@font-face {
 font-family: 'Roboto';
@@ -925,14 +925,40 @@ code span.wa { color: #bf0303; }
         <style type="text/css">.header-panel {
 background-color: #189b46;
 }
+.header-panel h1.title {
+color: #000;
+padding-left: 10px;
+font-size: 45px;
+text-align: left;
+font-weight: bold;
+}
+.header-panel h4.author,.header-panel h4.date {
+color: #000;
+padding-left: 10px;
+font-size: 20px;
+}
+body {
+background-color: #f3f3f3;
+}
 .pages h1 {
 color: #46189B;
 }
 a, a:focus, a:hover {
 color: #9B4618;
 }
-p {
+.h1, .h2, .h3, .h4, body, h1, h2, h3, h4, h5, h6, li, p {
 text-align: justify;
+font-family: 'Trebuchet MS', Arial, sans-serif;
+}
+li, p {
+font-size: large;
+}
+p {
+margin: 0 0 15px;
+}
+pre {
+border: none;
+font-size: inherit;
 }</style>
     
     <!-- tabsets -->
@@ -1018,9 +1044,9 @@ display: none;
       <div class="row">
         <div class="col-xs-3">
 	  	  <div id="header">
-	    <h1 class="title">STAT605 - Project Proposal</h1>
+	    <h1 class="title">Project Proposal</h1>
 	    	    	    	    <h4 class="author">Group #10</h4>
-	    	    	    	    <h4 class="date">2023-11-09</h4>
+	    	    	    	    <h4 class="date">2023-11-10</h4>
 	    	  </div>
 	  	</div>
       </div>
@@ -1036,8 +1062,8 @@ display: none;
 <li><a href="#project-description" id="toc-project-description">Project
 Description</a></li>
 <li><a href="#description-of-variables" id="toc-description-of-variables">Description of Variables</a></li>
-<li><a href="#code-to-read-the-data" id="toc-code-to-read-the-data">Code
-to read the data</a></li>
+<li><a href="#how-to-read-the-data" id="toc-how-to-read-the-data">How to
+read the data</a></li>
 <li><a href="#statistical-methods" id="toc-statistical-methods">Statistical Methods</a></li>
 <li><a href="#computational-steps" id="toc-computational-steps">Computational Steps</a></li>
 </ul>
@@ -1083,6 +1109,9 @@ chances of their songs being included in a playlist for that genre?</li>
 artist? (Figuring out factors that are statistically significant?)</li>
 <li>Given a combination of music genres, can we predict the popularity
 of a track?</li>
+<li>Can the genre of a song be calculated based on the audio features
+listed? - Compare the algorithm’s predition with Spotify’s existing
+classification</li>
 </ul>
 </div>
 </div>
@@ -1090,7 +1119,8 @@ of a track?</li>
 <h1>Description of Variables</h1>
 <div id="data-source" class="section level3">
 <h3>Data Source:</h3>
-<p><a href="https://www.kaggle.com/datasets/viktoriiashkurenko/278k-spotify-songs">Kaggle</a></p>
+<p><a href="https://www.kaggle.com/datasets/viktoriiashkurenko/278k-spotify-songs"><strong>Kaggle
+- 6K Spotify Playlists</strong></a></p>
 </div>
 <div id="overview" class="section level3">
 <h3>Overview:</h3>
@@ -1128,11 +1158,12 @@ tags associated with different songs.</li>
 is in the next section.</p>
 </div>
 </div>
-<div id="code-to-read-the-data" class="section level1">
-<h1>Code to read the data</h1>
-<p>Our main data set is located <a href="https://media.githubusercontent.com/media/NiharikaCNR/STAT605-Project/main/data/main_dataset.csv">here</a>
+<div id="how-to-read-the-data" class="section level1">
+<h1>How to read the data</h1>
+<p>Our main data set is located <a href="https://media.githubusercontent.com/media/NiharikaCNR/STAT605-Project/main/data/main_dataset.csv"><strong>here</strong></a>
 on GitHub. It has 26 unique variables as seen below.</p>
-<div class="sourceCode" id="cb1"><pre class="sourceCode r"><code class="sourceCode r"><span id="cb1-1"><a href="#cb1-1" tabindex="-1"></a><span class="fu">glimpse</span>(main_data)</span></code></pre></div>
+<div class="sourceCode" id="cb1"><pre class="sourceCode r"><code class="sourceCode r"><span id="cb1-1"><a href="#cb1-1" tabindex="-1"></a>main_data <span class="ot">=</span> <span class="fu">read_csv</span>(<span class="st">&quot;../data/main_dataset.csv&quot;</span>)</span>
+<span id="cb1-2"><a href="#cb1-2" tabindex="-1"></a><span class="fu">glimpse</span>(main_data)</span></code></pre></div>
 <pre><code>## Rows: 277,938
 ## Columns: 26
 ## $ track_uri            &lt;chr&gt; &quot;spotify:track:3v6sBj3swihU8pXQQHhDZo&quot;, &quot;spotify:…
@@ -1164,6 +1195,42 @@ on GitHub. It has 26 unique variables as seen below.</p>
 </div>
 <div id="statistical-methods" class="section level1">
 <h1>Statistical Methods</h1>
+<p>In our analysis of the Spotify data set, we will employ a range of
+statistical methods to uncover insights into the popularity dynamics of
+songs and artists across genres.</p>
+<p><strong>For analysis questions, </strong></p>
+<ul>
+<li>Descriptive statistics will be utilized. Measures like mean, median,
+mode, and standard deviation will enable us to understand the central
+tendency and variation of popularity and other audio features.</li>
+<li>Text analysis methods including frequency analysis can be applied to
+reveal patterns in song names.</li>
+</ul>
+<p><strong>For modeling questions, </strong></p>
+<ul>
+<li>Multiple regression analysis will be key to identifying significant
+factors influencing an artist’s popularity. This will involve fitting a
+regression model where the response variable is the popularity score,
+and the predictors could be various audio features and other relevant
+metadata.</li>
+<li>In predicting the popularity of new songs given a combination of
+genres, we could use classification models if the popularity is binned
+into categories, or regression models for a continuous popularity score.
+Machine learning techniques such as Random Forests or Gradient Boosting
+Machines could be employed to handle the high dimensionality of the
+data.</li>
+<li>To examine the relationship between an artist’s popularity and their
+presence in Spotify-generated playlists, logistic regression or
+chi-square tests of independence may be useful, depending on whether the
+features are continuous or categorical.</li>
+<li>Finally, the classification of songs into categories based on audio
+features can be approached through supervised learning methods, where
+algorithms like Support Vector Machines (SVM) or Neural Networks might
+be employed.</li>
+</ul>
+<p>These methods will be refined as we delve deeper into the data
+exploration phase, ensuring that our statistical approach aligns with
+the patterns and characteristics inherent to the data set.</p>
 </div>
 <div id="computational-steps" class="section level1">
 <h1>Computational Steps</h1>

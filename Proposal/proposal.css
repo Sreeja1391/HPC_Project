@@ -2,6 +2,24 @@
   background-color: #189b46;
 }
 
+.header-panel h1.title {
+  color: #000;
+  padding-left: 10px;
+  font-size: 45px;
+  text-align: left;
+  font-weight: bold;
+}
+
+.header-panel h4.author,.header-panel h4.date  {
+  color: #000;
+  padding-left: 10px;
+  font-size: 20px;
+}
+
+body {
+  background-color: #f3f3f3;
+}
+
 .pages h1 {
   color: #46189B;
 }
@@ -10,6 +28,21 @@ a, a:focus, a:hover {
   color: #9B4618;
 }
 
-p {
+
+.h1, .h2, .h3, .h4, body, h1, h2, h3, h4, h5, h6, li, p {
   text-align: justify;
+  font-family: 'Trebuchet MS', Arial, sans-serif;
+}
+
+li, p {
+  font-size: large;
+}
+
+p {
+  margin: 0 0 15px;
+}
+
+pre {
+  border: none;
+  font-size: inherit;
 }

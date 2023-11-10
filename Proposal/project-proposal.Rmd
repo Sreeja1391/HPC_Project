@@ -1,5 +1,5 @@
 ---
-title: "STAT605 - Project Proposal"
+title: "Project Proposal"
 author: "Group #10"
 date: "`r Sys.Date()`"
 css: proposal.css
@@ -16,29 +16,31 @@ library(tidyverse)
 
 ## Problem Statement
 
-+ Providing artist/track popularity analysis to business owners (entertainment label representatives in this case).
-+ The analysis could help them market new artists they plan on launching.
+- Providing artist/track popularity analysis to business owners (entertainment label representatives in this case).
+- The analysis could help them market new artists they plan on launching.
 
 ## Questions
 We are hoping to answer some of these questions through our analysis
 
 __Analysis Questions:__
 
-+ Who is the most popular artist per genre every year? (summary analysis)
-+ Top 5 search queries associated with an a track/artist (user input)
-+ The top 5 genres of (top 10?) artists on a given year (user input)
-+ Is there any correlation between the popularity of an artist and the chances of their songs being included in a playlist for that genre?
+- Who is the most popular artist per genre every year? (summary analysis)
+- Top 5 search queries associated with an a track/artist (user input)
+- The top 5 genres of (top 10?) artists on a given year (user input)
+- Is there any correlation between the popularity of an artist and the chances of their songs being included in a playlist for that genre?
 
 __Modeling Questions:__
 
-+ What are the significant factors that influence the popularity of an artist? (Figuring out factors that are statistically significant?)
-+ Given a combination of music genres, can we predict the popularity of a track?
+- What are the significant factors that influence the popularity of an artist? (Figuring out factors that are statistically significant?)
+- Given a combination of music genres, can we predict the popularity of a track?
+- Can the genre of a song be calculated based on the audio features listed? - Compare the algorithm's predition with Spotify's existing classification
+
 
 
 # Description of Variables
 
 ### Data Source: 
-[Kaggle](https://www.kaggle.com/datasets/viktoriiashkurenko/278k-spotify-songs)
+[__Kaggle - 6K Spotify Playlists__](https://www.kaggle.com/datasets/viktoriiashkurenko/278k-spotify-songs)
 
 ### Overview:
 The data set being used for the analysis contains information from over 6000 Spotify playlists, with a total of 278,000 songs. The data was collected using __Spotipy__ python library and includes details about artists, playlists and tracks. Besides the basic information (names, popularities and release dates, etc.), there are Spotify-generated audio features such as `danceability`, `energy`, `acousticness` and `speechiness` of each song. The data set also has audio analysis of each song by its URI (Uniform Resource Indicator) information represented as Python dictionaries and are saved in separate pickle files.
@@ -57,21 +59,34 @@ The dataset has been divided into 4 different CSV files and two text files.
 A sample overview of the `main_dataset.csv` data set is in the next section.
 
 
-# Code to read the data
+# How to read the data
 
-Our main data set is located [here](https://media.githubusercontent.com/media/NiharikaCNR/STAT605-Project/main/data/main_dataset.csv) on GitHub. It has 26 unique variables as seen below.
-
-```{r, echo=FALSE}
-main_data = read_csv("../data/main_dataset.csv")
-```
+Our main data set is located [__here__](https://media.githubusercontent.com/media/NiharikaCNR/STAT605-Project/main/data/main_dataset.csv) on GitHub. It has 26 unique variables as seen below.
 
 ```{r}
+main_data = read_csv("../data/main_dataset.csv")
 glimpse(main_data)
 ```
 
+
 # Statistical Methods
-```{r}
-```
+In our analysis of the Spotify data set, we will employ a range of statistical methods to uncover insights into the popularity dynamics of songs and artists across genres. 
+
+__For analysis questions, __
+
+- Descriptive statistics will be utilized. Measures like mean, median, mode, and standard deviation will enable us to understand the central tendency and variation of popularity and other audio features.
+- Text analysis methods including frequency analysis can be applied to reveal patterns in song names.
+
+
+__For modeling questions, __
+
+- Multiple regression analysis will be key to identifying significant factors influencing an artist's popularity. This will involve fitting a regression model where the response variable is the popularity score, and the predictors could be various audio features and other relevant metadata.
+- In predicting the popularity of new songs given a combination of genres, we could use classification models if the popularity is binned into categories, or regression models for a continuous popularity score. Machine learning techniques such as Random Forests or Gradient Boosting Machines could be employed to handle the high dimensionality of the data.
+- To examine the relationship between an artist's popularity and their presence in Spotify-generated playlists, logistic regression or chi-square tests of independence may be useful, depending on whether the features are continuous or categorical.
+- Finally, the classification of songs into categories based on audio features can be approached through supervised learning methods, where algorithms like Support Vector Machines (SVM) or Neural Networks might be employed.
+
+These methods will be refined as we delve deeper into the data exploration phase, ensuring that our statistical approach aligns with the patterns and characteristics inherent to the data set.
+
 
 # Computational Steps
 
@@ -79,9 +94,9 @@ glimpse(main_data)
     + Handle any missing values in the data set.
     + Remove any duplicate entries.
 2. Exploratory Data Analysis:
-    + Descriptive Statistics - Generate summary statistics for key variables.
-    + Explore the correlation between song popularity, artist popularity and other relevant features.
-    + Create visualizations (histograms, bar-plots, etc) to visualize the distribution of data(popularity, genre, etc).
+    * Descriptive Statistics - Generate summary statistics for key variables.
+    * Explore the correlation between song popularity, artist popularity and other relevant features.
+    * Create visualizations (histograms, bar-plots, etc) to visualize the distribution of data(popularity, genre, etc).
 3. Implementation of data models based on the statistical methods discussed.
 4. Model Interpretation and Visualizations
 5. Summarize findings 
