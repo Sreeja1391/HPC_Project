@@ -10,7 +10,6 @@ output: rmdformats::material
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE, message = FALSE, warning = FALSE)
 library(tidyverse)
-library(kableExtra)
 ```
 
 # Project Description
@@ -36,6 +35,27 @@ __Modeling Questions:__
 + Given a combination of music genres, can we predict the popularity of a track?
 
 
+# Description of Variables
+
+### Data Source: 
+[Kaggle](https://www.kaggle.com/datasets/viktoriiashkurenko/278k-spotify-songs)
+
+### Overview:
+The data set being used for the analysis contains information from over 6000 Spotify playlists, with a total of 278,000 songs. The data was collected using __Spotipy__ python library and includes details about artists, playlists and tracks. Besides the basic information (names, popularities and release dates, etc.), there are Spotify-generated audio features such as `danceability`, `energy`, `acousticness` and `speechiness` of each song. The data set also has audio analysis of each song by its URI (Uniform Resource Indicator) information represented as Python dictionaries and are saved in separate pickle files.
+
+### Data files:
+The dataset has been divided into 4 different CSV files and two text files.
+
+- artists.csv: contains artist information
+- final_playlists.csv: provides details on playlists, including name, author, and number of tracks.
+- final_tracks.csv: has individual track details like name, popularity, and release date.
+- main_dataset.csv: includes various audio features for each track, such as danceability, energy, and tempo, as well as artist-related information.
+- Music_genres.txt: list of types of music on the app.
+- im_getting_these_vibes_ul.txt: a text file with tags associated with different songs.
+
+<br>
+A sample overview of the data set is in the next section.
+
 
 # Code to read the data
 
@@ -47,16 +67,6 @@ main_data = read_csv("../data/main_dataset.csv")
 
 ```{r}
 glimpse(main_data)
-```
-
-# Description of Variables
-
-## main_dataset.csv
-
-```{r, echo=FALSE}
-description_of_variables = read_csv("../data/description_of_variables.csv")
-kable(description_of_variables, format = "html") %>%
-  kable_styling(full_width = F, bootstrap_options = c("condensed"))
 ```
 
 # Statistical Methods

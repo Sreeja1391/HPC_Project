@@ -9,3 +9,7 @@
 a, a:focus, a:hover {
   color: #9B4618;
 }
+
+p {
+  text-align: justify;
+}
