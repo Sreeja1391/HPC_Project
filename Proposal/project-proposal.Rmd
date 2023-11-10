@@ -46,15 +46,15 @@ The data set being used for the analysis contains information from over 6000 Spo
 ### Data files:
 The dataset has been divided into 4 different CSV files and two text files.
 
-- artists.csv: contains artist information
-- final_playlists.csv: provides details on playlists, including name, author, and number of tracks.
-- final_tracks.csv: has individual track details like name, popularity, and release date.
-- main_dataset.csv: includes various audio features for each track, such as danceability, energy, and tempo, as well as artist-related information.
-- Music_genres.txt: list of types of music on the app.
-- im_getting_these_vibes_ul.txt: a text file with tags associated with different songs.
+- __artists.csv__: contains artist information
+- __final_playlists.csv__: provides details on playlists, including name, author, and number of tracks.
+- __final_tracks.csv__: has individual track details like name, popularity, and release date.
+- __main_dataset.csv__: includes various audio features for each track, such as danceability, energy, and tempo, as well as artist-related information.
+- __Music_genres.txt__: list of types of music on the app.
+- __im_getting_these_vibes_ul.txt__: a text file with tags associated with different songs.
 
 <br>
-A sample overview of the data set is in the next section.
+A sample overview of the `main_dataset.csv` data set is in the next section.
 
 
 # Code to read the data
