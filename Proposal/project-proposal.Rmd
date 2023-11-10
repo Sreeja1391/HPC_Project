@@ -54,7 +54,7 @@ glimpse(main_data)
 ## main_dataset.csv
 
 ```{r, echo=FALSE}
-description_of_variables = read_csv("description_of_variables.csv")
+description_of_variables = read_csv("../data/description_of_variables.csv")
 kable(description_of_variables, format = "html") %>%
   kable_styling(full_width = F, bootstrap_options = c("condensed"))
 ```
