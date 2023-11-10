@@ -1533,60 +1533,41 @@ group.</p>
 </div>
 <div id="code-to-read-the-data" class="section level1">
 <h1>Code to read the data</h1>
-<div class="sourceCode" id="cb1"><pre class="sourceCode r"><code class="sourceCode r"><span id="cb1-1"><a href="#cb1-1" tabindex="-1"></a>main_data <span class="ot">=</span> <span class="fu">read_csv</span>(<span class="st">&quot;../main_dataset.csv&quot;</span>)</span>
-<span id="cb1-2"><a href="#cb1-2" tabindex="-1"></a><span class="fu">head</span>(main_data, <span class="dv">10</span>)</span></code></pre></div>
-<pre><code>## # A tibble: 10 × 26
-##    track_uri  name  artists_names popularity album_type is_playable release_date
-##    &lt;chr&gt;      &lt;chr&gt; &lt;chr&gt;              &lt;dbl&gt; &lt;chr&gt;      &lt;lgl&gt;       &lt;chr&gt;       
-##  1 spotify:t… Way … [&#39;Floduxe&#39;]            0 single     TRUE        11/20/2015  
-##  2 spotify:t… Fant… [&#39;Alina Bara…         33 album      TRUE        9/4/2015    
-##  3 spotify:t… Try … [&#39;DeJ Loaf&#39;]          52 single     TRUE        10/15/2014  
-##  4 spotify:t… Walk… [&#39;Noosa&#39;]              0 single     TRUE        7/10/2014   
-##  5 spotify:t… Pret… [&#39;Zak Waters…          0 single     TRUE        6/17/2014   
-##  6 spotify:t… The … [&#39;Men Withou…         37 album      TRUE        1982        
-##  7 spotify:t… Idle… [&#39;EXGF&#39;]              29 single     TRUE        5/27/2014   
-##  8 spotify:t… Reli… [&#39;Tongues.&#39;]          15 single     TRUE        7/27/2015   
-##  9 spotify:t… Sask… [&#39;Data Roman…         27 album      TRUE        1/11/2011   
-## 10 spotify:t… Whir… [&#39;Sea Wolf&#39;]          33 album      TRUE        9/11/2012   
-## # ℹ 19 more variables: artists_uris &lt;chr&gt;, playlist_uris &lt;chr&gt;,
-## #   danceability &lt;dbl&gt;, energy &lt;dbl&gt;, key &lt;dbl&gt;, loudness &lt;dbl&gt;, mode &lt;dbl&gt;,
-## #   speechiness &lt;dbl&gt;, acousticness &lt;dbl&gt;, instrumentalness &lt;dbl&gt;,
-## #   liveness &lt;dbl&gt;, valence &lt;dbl&gt;, tempo &lt;dbl&gt;, analysis_url &lt;chr&gt;,
-## #   duration_ms &lt;dbl&gt;, time_signature &lt;dbl&gt;, artists_popularities &lt;chr&gt;,
-## #   artists_genres &lt;chr&gt;, artists_followers &lt;chr&gt;</code></pre>
+<p>Our main data set is located <a href="https://media.githubusercontent.com/media/NiharikaCNR/STAT605-Project/main/main_dataset.csv">here</a>
+on GitHub.</p>
+<p>Our main data set has 26 unique variables as seen below.</p>
+<div class="sourceCode" id="cb1"><pre class="sourceCode r"><code class="sourceCode r"><span id="cb1-1"><a href="#cb1-1" tabindex="-1"></a><span class="fu">glimpse</span>(main_data)</span></code></pre></div>
+<pre><code>## Rows: 277,938
+## Columns: 26
+## $ track_uri            &lt;chr&gt; &quot;spotify:track:3v6sBj3swihU8pXQQHhDZo&quot;, &quot;spotify:…
+## $ name                 &lt;chr&gt; &quot;Way Up (feat. Ava Re)&quot;, &quot;Fantasy - Felix Jaehn R…
+## $ artists_names        &lt;chr&gt; &quot;[&#39;Floduxe&#39;]&quot;, &quot;[&#39;Alina Baraz&#39;, &#39;Galimatias&#39;]&quot;, &quot;…
+## $ popularity           &lt;dbl&gt; 0, 33, 52, 0, 0, 37, 29, 15, 27, 33, 0, 0, 36, 20…
+## $ album_type           &lt;chr&gt; &quot;single&quot;, &quot;album&quot;, &quot;single&quot;, &quot;single&quot;, &quot;single&quot;, …
+## $ is_playable          &lt;lgl&gt; TRUE, TRUE, TRUE, TRUE, TRUE, TRUE, TRUE, TRUE, T…
+## $ release_date         &lt;chr&gt; &quot;11/20/2015&quot;, &quot;9/4/2015&quot;, &quot;10/15/2014&quot;, &quot;7/10/201…
+## $ artists_uris         &lt;chr&gt; &quot;[&#39;spotify:artist:4B7SI5PsnEgeMQd6gSIrbn&#39;]&quot;, &quot;[&#39;s…
+## $ playlist_uris        &lt;chr&gt; &quot;[&#39;spotify:playlist:5JJZvA3VR9RZ5XIr0reWiM&#39;]&quot;, &quot;[…
+## $ danceability         &lt;dbl&gt; 0.611, 0.638, 0.560, 0.525, 0.367, 0.572, 0.725, …
+## $ energy               &lt;dbl&gt; 0.614, 0.781, 0.810, 0.699, 0.771, 0.837, 0.687, …
+## $ key                  &lt;dbl&gt; 5, 4, 0, 9, 9, 5, 3, 0, 7, 9, 7, 8, 1, 7, 10, 10,…
+## $ loudness             &lt;dbl&gt; -8.815, -6.848, -8.029, -4.571, -5.863, -7.876, -…
+## $ mode                 &lt;dbl&gt; 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 0, 1, 0, 1, 0, 1, 1…
+## $ speechiness          &lt;dbl&gt; 0.0672, 0.0285, 0.0872, 0.0353, 0.1060, 0.0367, 0…
+## $ acousticness         &lt;dbl&gt; 0.016900, 0.011800, 0.007100, 0.017800, 0.365000,…
+## $ instrumentalness     &lt;dbl&gt; 7.94e-04, 9.53e-03, 7.93e-06, 8.80e-05, 1.47e-06,…
+## $ liveness             &lt;dbl&gt; 0.7530, 0.3490, 0.2410, 0.0888, 0.0965, 0.1630, 0…
+## $ valence              &lt;dbl&gt; 0.5200, 0.2500, 0.2470, 0.1990, 0.1630, 0.6270, 0…
+## $ tempo                &lt;dbl&gt; 128.050, 122.985, 170.044, 92.011, 115.917, 100.3…
+## $ analysis_url         &lt;chr&gt; &quot;https://api.spotify.com/v1/audio-analysis/3v6sBj…
+## $ duration_ms          &lt;dbl&gt; 195000, 194641, 217573, 443478, 225862, 166920, 1…
+## $ time_signature       &lt;dbl&gt; 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4…
+## $ artists_popularities &lt;chr&gt; &quot;[9]&quot;, &quot;[68, 56]&quot;, &quot;[65]&quot;, &quot;[32]&quot;, &quot;[30, 39]&quot;, &quot;[…
+## $ artists_genres       &lt;chr&gt; &quot;[[]]&quot;, &quot;[[&#39;etherpop&#39;, &#39;pop&#39;, &#39;r&amp;b&#39;], [&#39;chillstep…
+## $ artists_followers    &lt;chr&gt; &quot;[765]&quot;, &quot;[1283665, 138396]&quot;, &quot;[1544981]&quot;, &quot;[1824…</code></pre>
 </div>
 <div id="description-of-variables" class="section level1">
 <h1>Description of Variables</h1>
-<!-- We have multiple connected data sets in out data file. We will be joining and utilizing all of them for our statistical analysis.  -->
-<!-- ## artists.csv
-1. artist_uri: Artist's URI (in some rare cases can change with time)
-2. artist_popularity: Popularity of the artists on a scale of 0 (lowest) - 100 (highest)
-3. artist_genres: Genres associated with the artist (generated by Spotify)
-4. artist_followers: Number of followers the artist has on Spotify
-
-## final_playlists.csv
-1. uri: Playlists' IDs. The contents of playlists may differ drastically from those in the dataset, especially if those playlists have been updated since
-2. name: Name of the playlist
-3. description: Playlist description
-4. query: All of the playlists were found by search in Spotify. From each search roughly 20 playlists were taken. Queries were generated by ChatGPT and are listed in music_genres.txt file.
-5. author: Author of the playlist
-6. n_tracks: Number of tracks (although for each playlist in this data set only first one hundred of tracks were taken)
-7. playlist_followers: Number of followers to the playlist at the time of data collection
-
-## main_dataset.csv
-1. track_uri [STRING]: Track's URI
-2. name [STRING]: Name of the track
-3. artist_names [LIST OF STRINGS]: Names of the artists involved in the song
-4. popularity [NUMERIC]: Popularity of the track on a scale of 0 (lowest) - 100 (highest)
-5. album_type [STRING]: Format of song release (album, single, or compilation)
-6. release_date [DATE]: The date the track was released on
-7. artist_uris [LIST OF STRINGS]: URIs of the artists involved
-8. playlist_uris [LIST OF STRINGS]: URIs of the playlists the track is in
-9. tempo [NUMERIC]: The tempo of the sound track
-10. duration_ms [FLOAT]: The duration of the track in milliseconds
-11. artists_popularities [LIST OF NUMERIC]: Popularities of the artists involved on a scale of 0 (lowest) - 100 (highest)
-12. artist_genres [LIST OF STRINGS]: Genres tagged to each artist involved in the track
-13. artists_followers [LIST OF NUMERIC]: Number of followers of each artist involved in the track -->
 <div id="main_dataset.csv" class="section level2">
 <h2>main_dataset.csv</h2>
 <table class="table table-condensed" style="width: auto !important; margin-left: auto; margin-right: auto;">
