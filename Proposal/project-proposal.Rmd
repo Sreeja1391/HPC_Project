@@ -69,5 +69,15 @@ kable(description_of_variables, format = "html") %>%
 ```
 
 # Computational Steps
-```{r}
-```
+
+1. Data Pre-processing:
+    + Handle any missing values in the data set.
+    + Remove any duplicate entries.
+2. Exploratory Data Analysis:
+    + Descriptive Statistics - Generate summary statistics for key variables.
+    + Explore the correlation between song popularity, artist popularity and other relevant features.
+    + Create visualizations (histograms, bar-plots, etc) to visualize the distribution of data(popularity, genre, etc).
+3. Implementation of data models based on the statistical methods discussed.
+4. Model Interpretation and Visualizations
+5. Summarize findings 
+
