@@ -9,3 +9,4 @@ https://niharikacnr.github.io/STAT605-Project/project-proposal
 2. Vaishnavi Borwankar
 3. Sreeja Kodati
 4. Osama Kheshaifaty
+5. Kaiwalya Shukla
