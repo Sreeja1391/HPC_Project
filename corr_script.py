@@ -97,7 +97,7 @@ cmap = sns.diverging_palette(230, 20, as_cmap=True)
 sns.heatmap(corr, mask=mask, cmap=cmap, vmax=.3, center=0,
             square=True, linewidths=.5, cbar_kws={"shrink": .5}, annot=True)
 
-plt.title('Correlation Matrix Visualization for Jazz Genre')
+plt.title(f'Correlation Matrix Visualization for {genre_name} Genre')
 plt.xticks(rotation=90)
 plt.yticks(rotation=0)
 plt.show()
