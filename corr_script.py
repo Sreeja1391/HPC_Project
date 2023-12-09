@@ -101,7 +101,7 @@ plt.title(f'Correlation Matrix Visualization for {genre_name} Genre')
 plt.xticks(rotation=90)
 plt.yticks(rotation=0)
 plt.show()
-img_path = os.path.join(output_dir, 'coefficient_plot_Jazz.png')
+img_path = os.path.join(output_dir, f'coefficient_plot_{genre_name}.png')
 plt.savefig(img_path, bbox_inches="tight")  # Save instead of show
 plt.close()  # Close the plot
 
