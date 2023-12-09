@@ -3,15 +3,15 @@ log = interactive.log
 
 executable = ./genres.sh
 
-arguments = STAT605-Project/data/main_dataset_Jazz.csv
+arguments = STAT605-Project/data/main_dataset_$(genre).csv
 
 should_transfer_files = YES
 when_to_transfer_output = ON_EXIT
 
-transfer_input_files = http://proxy.chtc.wisc.edu/SQUID/chtc/el8/python310.tar.gz, python_packages.tar.gz, ./STAT605-Project/corr_script.py, STAT605-Project/data/main_dataset_Jazz.csv
+transfer_input_files = http://proxy.chtc.wisc.edu/SQUID/chtc/el8/python310.tar.gz, python_packages.tar.gz, ./STAT605-Project/corr_script.py, STAT605-Project/data/main_dataset_$(genre).csv
 
 request_cpus = 1
 request_memory = 1GB
 request_disk = 1GB
 
-queue 1
+queue genre in all_genres
