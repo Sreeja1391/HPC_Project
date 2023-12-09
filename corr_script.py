@@ -61,8 +61,8 @@ merged_data = pd.merge(main_dataset, genre_data, on='track_uri', how='inner')
 
 # Process and merge track data from pickle files
 tracks_df = pd.DataFrame(columns=['track_uri','loudness','tempo'])
-
-genre_dir = f"https://github.com/NiharikaCNR/STAT605-Project/raw/main/data/tracks/{genre_name.replace(" ","%20")}"
+genre_dir_name = genre_name.replace(" ","%20")
+genre_dir = f"https://github.com/NiharikaCNR/STAT605-Project/raw/main/data/tracks/{genre_dir_name}"
 
 for track_uri in merged_data[merged_data['genre_query_tag'] == genre]['track_uri']:
     pickle_path = f"{genre_dir}/{track_uri}.pickle"
@@ -80,6 +80,7 @@ final_data = final_data[['popularity', 'energy', 'acousticness', 'valence', 'lou
 
 # Compute the correlation matrix for the selected columns
 corr = final_data.corr()
+corr.to_csv(f"corr_{genre_name}.csv", index=False)
 
 # Generate a mask for the upper triangle
 mask = np.triu(np.ones_like(corr, dtype=bool))
@@ -92,7 +93,7 @@ cmap = sns.diverging_palette(230, 20, as_cmap=True)
 
 # Draw the heatmap with the mask and correct aspect ratio
 sns.heatmap(corr, mask=mask, cmap=cmap, vmax=.3, center=0,
-            square=True, linewidths=.5, cbar_kws={"shrink": .5}, annot=True)
+#            square=True, linewidths=.5, cbar_kws={"shrink": .5}, annot=True)
 
 plt.title(f'Correlation Matrix Visualization for {genre_name} Genre')
 plt.xticks(rotation=90)
