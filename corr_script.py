@@ -20,9 +20,6 @@ main_dataset_url = args.main_dataset_url
 
 # Function to load a pickle file from a URL
 def load_pickle_from_url(raw_url):
-    # Convert GitHub URL to raw content URL
-    # raw_url = url.replace('github.com', 'raw.githubusercontent.com').replace('/blob/', '/')
-    
     response = requests.get(raw_url, stream=True)
     if response.status_code == 200:
         file = io.BytesIO(response.content)
@@ -102,8 +99,8 @@ plt.xticks(rotation=90)
 plt.yticks(rotation=0)
 plt.show()
 img_path = os.path.join(output_dir, f'coefficient_plot_{genre_name}.png')
-plt.savefig(img_path, bbox_inches="tight")  # Save instead of show
-plt.close()  # Close the plot
+plt.savefig(img_path, bbox_inches="tight")
+plt.close()
 
 # Reset stdout to its default value and close the output file
 sys.stdout.close()
