@@ -1,0 +1,883 @@
+track_uri,name,popularity,valence,acousticness,energy,analysis_url
+27ViQppP3LZPCJl2A0w9kp,Destiny,58,0.471,0.217,0.576,https://api.spotify.com/v1/audio-analysis/27ViQppP3LZPCJl2A0w9kp
+3NYCaxkggl0Hh8vQptSUvV,Enola Gay - Remastered 2003,67,0.932,0.00441,0.764,https://api.spotify.com/v1/audio-analysis/3NYCaxkggl0Hh8vQptSUvV
+21T9lWigjSIMg9uD6ZfRnQ,Eighties - 2007 Digital Remaster,55,0.352,0.000735,0.964,https://api.spotify.com/v1/audio-analysis/21T9lWigjSIMg9uD6ZfRnQ
+0wwbxSLnXXws3sD0AKMfUT,Oscillations,35,0.431,0.406,0.553,https://api.spotify.com/v1/audio-analysis/0wwbxSLnXXws3sD0AKMfUT
+3QMmsuQyB2m4XAkM3VkKTR,Right Now,24,0.789,0.195,0.49,https://api.spotify.com/v1/audio-analysis/3QMmsuQyB2m4XAkM3VkKTR
+1zkQJfNo2KpqqCKOOvWPF4,Love Like Blood,53,0.433,0.0319,0.645,https://api.spotify.com/v1/audio-analysis/1zkQJfNo2KpqqCKOOvWPF4
+6amZm52SfS7d6oCEu9NDMl,So Alive,0,0.924,0.00545,0.569,https://api.spotify.com/v1/audio-analysis/6amZm52SfS7d6oCEu9NDMl
+2x8cSAQR0u70MXiZhm4h5g,Eardrum Buzz,0,0.926,0.0535,0.85,https://api.spotify.com/v1/audio-analysis/2x8cSAQR0u70MXiZhm4h5g
+6nFdjV1Ko66O111x74K2kn,Dear God - Remastered 2001,49,0.346,0.0979,0.464,https://api.spotify.com/v1/audio-analysis/6nFdjV1Ko66O111x74K2kn
+4tPFEWRuNQhibDQSGB2PVE,Don't Want to Know If You Are Lonely,50,0.644,0.00128,0.965,https://api.spotify.com/v1/audio-analysis/4tPFEWRuNQhibDQSGB2PVE
+0XDv7SLyMkGcAnb12fMHa1,Senses Working Overtime - Remastered 2001,49,0.862,0.0289,0.665,https://api.spotify.com/v1/audio-analysis/0XDv7SLyMkGcAnb12fMHa1
+1Duyl7gGd4rqPuUZrlsdCO,Back of Love,36,0.697,0.00654,0.908,https://api.spotify.com/v1/audio-analysis/1Duyl7gGd4rqPuUZrlsdCO
+4B9lC39ZaRFEku3aneRmAE,Desire,37,0.687,1.9e-05,0.866,https://api.spotify.com/v1/audio-analysis/4B9lC39ZaRFEku3aneRmAE
+5Nb2FhpX5DjmvybICaqDoU,Release The Bats,35,0.495,0.00674,0.972,https://api.spotify.com/v1/audio-analysis/5Nb2FhpX5DjmvybICaqDoU
+17NTyKH575Q3QWrRq64MfX,Program,37,0.45,0.201,0.751,https://api.spotify.com/v1/audio-analysis/17NTyKH575Q3QWrRq64MfX
+1TzO5EpM43HmjrLjraXj89,Hero,28,0.19,0.000106,0.98,https://api.spotify.com/v1/audio-analysis/1TzO5EpM43HmjrLjraXj89
+6ACXIPu0jhLDriV5sjrWtb,Moonshake,39,0.862,0.0992,0.651,https://api.spotify.com/v1/audio-analysis/6ACXIPu0jhLDriV5sjrWtb
+2nJJfroVKMkz2aIGCU2QK4,Seeland,28,0.0886,0.252,0.254,https://api.spotify.com/v1/audio-analysis/2nJJfroVKMkz2aIGCU2QK4
+0J3bnjae0jkfUpbdHr81Sr,Hunter,30,0.157,0.896,0.408,https://api.spotify.com/v1/audio-analysis/0J3bnjae0jkfUpbdHr81Sr
+3tuaOXGEQ8FigsBxCVs6ym,Dark Entries,0,0.354,0.000326,0.928,https://api.spotify.com/v1/audio-analysis/3tuaOXGEQ8FigsBxCVs6ym
+1KDB5DROHzxkOtCdxaDt2N,"Hex - 12"" version",32,0.411,0.0161,0.621,https://api.spotify.com/v1/audio-analysis/1KDB5DROHzxkOtCdxaDt2N
+0sAVYHgKRKG7k9akb7xnjE,Black Planet,47,0.551,0.0851,0.799,https://api.spotify.com/v1/audio-analysis/0sAVYHgKRKG7k9akb7xnjE
+6vUD4r17csixgwR84VhpCF,Telegram Sam,0,0.825,0.0591,0.668,https://api.spotify.com/v1/audio-analysis/6vUD4r17csixgwR84VhpCF
+0oU1wL8FqgKwTPa50nACdd,Happy House,0,0.36,0.0171,0.706,https://api.spotify.com/v1/audio-analysis/0oU1wL8FqgKwTPa50nACdd
+5t2HOfJViZZxp0B7u6lXvV,Gentlemen Take Polaroids - Remastered 2003,35,0.763,0.31,0.75,https://api.spotify.com/v1/audio-analysis/5t2HOfJViZZxp0B7u6lXvV
+0LKgxubluBkE5kEbyGlKLB,Cry Wolf,15,0.363,0.00504,0.834,https://api.spotify.com/v1/audio-analysis/0LKgxubluBkE5kEbyGlKLB
+20CMNatKGvGsH9H1WjSYYZ,Snake Dance,44,0.55,0.000851,0.902,https://api.spotify.com/v1/audio-analysis/20CMNatKGvGsH9H1WjSYYZ
+6AqzHdj8Wlokm62tmFwG1D,Somewhere,0,0.509,0.000374,0.799,https://api.spotify.com/v1/audio-analysis/6AqzHdj8Wlokm62tmFwG1D
+29QxWOqd1z0HynG72mAEqn,Requiem - 2005 Digital Remaster,41,0.743,0.0435,0.685,https://api.spotify.com/v1/audio-analysis/29QxWOqd1z0HynG72mAEqn
+2vULfNEAOjjRyjj6hs0kBm,Reward,47,0.899,0.000637,0.746,https://api.spotify.com/v1/audio-analysis/2vULfNEAOjjRyjj6hs0kBm
+4ijNab1GM0JSZoe0I2KCOd,Cuts You Up,0,0.802,0.0228,0.806,https://api.spotify.com/v1/audio-analysis/4ijNab1GM0JSZoe0I2KCOd
+02RkunUrCBLE5J6jY56QH3,Never Say Never,46,0.923,0.000596,0.789,https://api.spotify.com/v1/audio-analysis/02RkunUrCBLE5J6jY56QH3
+2Zfo8pTcTuxMlzcNZhtfUC,From Her to Eternity - 2009 Remastered Version,30,0.162,0.0416,0.462,https://api.spotify.com/v1/audio-analysis/2Zfo8pTcTuxMlzcNZhtfUC
+4pNDusZhcM2Cl0gMtSzGgn,Collapsing New People,26,0.557,0.0315,0.865,https://api.spotify.com/v1/audio-analysis/4pNDusZhcM2Cl0gMtSzGgn
+6oGmvO8bgRMLjD7y3F2IUY,Mental Hopscotch,39,0.847,0.0014,0.824,https://api.spotify.com/v1/audio-analysis/6oGmvO8bgRMLjD7y3F2IUY
+5uDu2qOoDou7cFXsipAo8l,Peaches En Regalia,51,0.777,0.262,0.689,https://api.spotify.com/v1/audio-analysis/5uDu2qOoDou7cFXsipAo8l
+5ygfRsuvxriEa1e8FPLxlx,Pantagruel's Nativity,28,0.218,0.205,0.355,https://api.spotify.com/v1/audio-analysis/5ygfRsuvxriEa1e8FPLxlx
+0jFxflfnQGqqZKKgo2KE1R,Crime and Laughter,1,0.354,0.129,0.723,https://api.spotify.com/v1/audio-analysis/0jFxflfnQGqqZKKgo2KE1R
+5uMjUPBdhtjqXOQq8NU4LF,It Was Only Yesterday,0,0.543,0.004,0.46,https://api.spotify.com/v1/audio-analysis/5uMjUPBdhtjqXOQq8NU4LF
+6UASWjbZWrPDxEkr6UFXB1,Requiem of Confusion,0,0.471,0.0149,0.48,https://api.spotify.com/v1/audio-analysis/6UASWjbZWrPDxEkr6UFXB1
+6Dv23ECX3PxZXzxFKGOVDc,SNIFFIN' & SNORTIN' Pt.1 (VITAMINE C) [2017 Remaster],12,0.75,0.000465,0.854,https://api.spotify.com/v1/audio-analysis/6Dv23ECX3PxZXzxFKGOVDc
+5FgQkEcqMXCqFdcsEx143b,The Four Horsemen,48,0.185,0.0612,0.653,https://api.spotify.com/v1/audio-analysis/5FgQkEcqMXCqFdcsEx143b
+2N0bUYn3p2m5zOYTMi4lFv,Out Demons Out - 2001 Remaster,21,0.588,0.041,0.755,https://api.spotify.com/v1/audio-analysis/2N0bUYn3p2m5zOYTMi4lFv
+41Z86N3KhVdJWLa3qkNTH6,Sex Beat,0,0.577,0.287,0.864,https://api.spotify.com/v1/audio-analysis/41Z86N3KhVdJWLa3qkNTH6
+16Qx51VB5FSwSK78d1THKC,The Blessing Song,0,0.654,0.797,0.351,https://api.spotify.com/v1/audio-analysis/16Qx51VB5FSwSK78d1THKC
+3fWFlmEPPN28xYlKqd7abt,Astral Traveling,0,0.49,0.247,0.413,https://api.spotify.com/v1/audio-analysis/3fWFlmEPPN28xYlKqd7abt
+7IE6uE2NqL9SI5gOSeNi3r,Body & Soul (feat. Biig Piig),0,0.783,0.213,0.505,https://api.spotify.com/v1/audio-analysis/7IE6uE2NqL9SI5gOSeNi3r
+5AHSYSrni7xVCzlanStMRf,Bonafide (feat. Chiiild),0,0.569,0.516,0.439,https://api.spotify.com/v1/audio-analysis/5AHSYSrni7xVCzlanStMRf
+2yj8xbWxfrW8azD7VDQBER,Sundays,56,0.416,0.225,0.558,https://api.spotify.com/v1/audio-analysis/2yj8xbWxfrW8azD7VDQBER
+1WiO3xraIqjeYgugojWgqQ,Down To Miami (feat. Becky G),0,0.316,0.283,0.607,https://api.spotify.com/v1/audio-analysis/1WiO3xraIqjeYgugojWgqQ
+7gmU1NyIbLNh3MgccLVx4x,BLUSH,28,0.141,0.814,0.323,https://api.spotify.com/v1/audio-analysis/7gmU1NyIbLNh3MgccLVx4x
+41lTvxC9pJkF8oeEw7OVcN,DAFFODIL,25,0.418,0.25,0.288,https://api.spotify.com/v1/audio-analysis/41lTvxC9pJkF8oeEw7OVcN
+5DHbdBObeYTJrjd2qRSGnL,GOLD,34,0.463,0.167,0.659,https://api.spotify.com/v1/audio-analysis/5DHbdBObeYTJrjd2qRSGnL
+5KwlAzpJRnCoj1MZk15p8a,IVORY,33,0.0877,0.507,0.44,https://api.spotify.com/v1/audio-analysis/5KwlAzpJRnCoj1MZk15p8a
+2tWWiYOQ5bqMAeT6Wbbc0X,Hold On Till We Get There,30,0.857,0.0307,0.678,https://api.spotify.com/v1/audio-analysis/2tWWiYOQ5bqMAeT6Wbbc0X
+39ctmPVTtAMKeVJhMq5dS5,Weightless,54,0.445,0.503,0.556,https://api.spotify.com/v1/audio-analysis/39ctmPVTtAMKeVJhMq5dS5
+16ISIfafspiGHjPH7EZmJe,13 Months of Sunshine,29,0.343,0.0961,0.438,https://api.spotify.com/v1/audio-analysis/16ISIfafspiGHjPH7EZmJe
+3TGGENjrxEOwl1zBZZqKGc,Lotus,27,0.0604,0.792,0.2,https://api.spotify.com/v1/audio-analysis/3TGGENjrxEOwl1zBZZqKGc
+5bKVgdkF1rcrHlWnlphL3P,Wasting Time,28,0.185,0.00774,0.783,https://api.spotify.com/v1/audio-analysis/5bKVgdkF1rcrHlWnlphL3P
+3EPeF9pQC1fypfCrgUPUmj,The Best Ain't Happened Yet,29,0.131,0.397,0.728,https://api.spotify.com/v1/audio-analysis/3EPeF9pQC1fypfCrgUPUmj
+6bwTJ1pTQYl72MoJFkrVfq,Vanta,0,0.764,0.0114,0.796,https://api.spotify.com/v1/audio-analysis/6bwTJ1pTQYl72MoJFkrVfq
+4r2dg3p484bp0XUoB88P3b,Gone (with Jensen McRae),0,0.586,0.118,0.539,https://api.spotify.com/v1/audio-analysis/4r2dg3p484bp0XUoB88P3b
+6clyEvI0vWeNuc2wWUqNLo,hey! - Spotify Singles,40,0.49,0.0552,0.661,https://api.spotify.com/v1/audio-analysis/6clyEvI0vWeNuc2wWUqNLo
+4g9pJvaoIVrj89XWQ6HRqr,Back & Forth (feat. Vince Staples),42,0.538,0.0356,0.545,https://api.spotify.com/v1/audio-analysis/4g9pJvaoIVrj89XWQ6HRqr
+7M54dxUoajr92rRyEDTJqj,Lock It Up (feat. THEY.),41,0.906,0.527,0.744,https://api.spotify.com/v1/audio-analysis/7M54dxUoajr92rRyEDTJqj
+2lLOg2VvPBMoCUOvhJ2ILe,No Words (feat. Yendry),33,0.212,0.445,0.538,https://api.spotify.com/v1/audio-analysis/2lLOg2VvPBMoCUOvhJ2ILe
+1Is5a1JEPmZXpi7tvbB0WB,Give Me Up (feat. Kiana Ledé),34,0.491,0.239,0.681,https://api.spotify.com/v1/audio-analysis/1Is5a1JEPmZXpi7tvbB0WB
+4IwbqQGvPYSJBSK5HhuPnF,Eventually,0,0.804,0.107,0.625,https://api.spotify.com/v1/audio-analysis/4IwbqQGvPYSJBSK5HhuPnF
+5UlnmiQjzjn7b8apqL79J3,Amber (Stripped),20,0.458,0.551,0.285,https://api.spotify.com/v1/audio-analysis/5UlnmiQjzjn7b8apqL79J3
+0KZWXucjRxwQaXkpbv4iqI,favorable colours,28,0.784,0.0925,0.634,https://api.spotify.com/v1/audio-analysis/0KZWXucjRxwQaXkpbv4iqI
+30QjyKKIU7j3CxIsZSqniP,mirror,26,0.296,0.23,0.595,https://api.spotify.com/v1/audio-analysis/30QjyKKIU7j3CxIsZSqniP
+3zKqyQt23HwRagv612M1A6,lime ocean paradise,32,0.834,0.567,0.621,https://api.spotify.com/v1/audio-analysis/3zKqyQt23HwRagv612M1A6
+0z0k9PnInK6VnQBTFmripL,summer lost,23,0.346,0.297,0.59,https://api.spotify.com/v1/audio-analysis/0z0k9PnInK6VnQBTFmripL
+7bhbFVnaGPjX1i2gdFnZoc,easier (with Joey Pecoraro),31,0.8,0.54,0.478,https://api.spotify.com/v1/audio-analysis/7bhbFVnaGPjX1i2gdFnZoc
+7eRaK8LJUUgStuF29HpNsQ,Gone,0,0.637,0.654,0.438,https://api.spotify.com/v1/audio-analysis/7eRaK8LJUUgStuF29HpNsQ
+0FrZlv2YeaeNoegY6ZwWJ3,Purple,0,0.454,0.0501,0.449,https://api.spotify.com/v1/audio-analysis/0FrZlv2YeaeNoegY6ZwWJ3
+07GzxQi0rMpoiIkglhP9pT,heartbeat,0,0.523,0.273,0.627,https://api.spotify.com/v1/audio-analysis/07GzxQi0rMpoiIkglhP9pT
+3frxCmYzfGb21jmovl7QwD,Sleepwalking,0,0.782,0.0277,0.71,https://api.spotify.com/v1/audio-analysis/3frxCmYzfGb21jmovl7QwD
+47fF4J7xnRhR7KYRgyuosa,focus (with Tim Atlas),0,0.498,0.446,0.373,https://api.spotify.com/v1/audio-analysis/47fF4J7xnRhR7KYRgyuosa
+2zLLUKyL10JBXPqUS7e7Ne,Count Me In (with Kiana Ledé),41,0.409,0.362,0.676,https://api.spotify.com/v1/audio-analysis/2zLLUKyL10JBXPqUS7e7Ne
+1xTrwHzhHuNb5URVfuBp0f,Pine,0,0.694,0.0434,0.63,https://api.spotify.com/v1/audio-analysis/1xTrwHzhHuNb5URVfuBp0f
+21EaUSWwMQInuWOvH2t4gI,superpowerful (with Crooked Colours),0,0.682,0.289,0.551,https://api.spotify.com/v1/audio-analysis/21EaUSWwMQInuWOvH2t4gI
+3TZ1wHauKG6dMcn7LcQq6G,Amber,0,0.784,0.326,0.756,https://api.spotify.com/v1/audio-analysis/3TZ1wHauKG6dMcn7LcQq6G
+44xUqPXksQ2MNtuF2AuRBN,cherry blossom,0,0.646,0.6,0.57,https://api.spotify.com/v1/audio-analysis/44xUqPXksQ2MNtuF2AuRBN
+4SzsM9m2DRmh1PrDstow8Y,On and On,37,0.492,0.239,0.821,https://api.spotify.com/v1/audio-analysis/4SzsM9m2DRmh1PrDstow8Y
+4QknFsLdkaC1otNfrEkN4z,Mood Swings,35,0.902,0.253,0.911,https://api.spotify.com/v1/audio-analysis/4QknFsLdkaC1otNfrEkN4z
+1zrpHdi2ErqTtoErjiByAo,FWM,41,0.951,0.0527,0.707,https://api.spotify.com/v1/audio-analysis/1zrpHdi2ErqTtoErjiByAo
+7bjNmIrstK9rUA5oYzabv8,The Moment,40,0.336,0.181,0.64,https://api.spotify.com/v1/audio-analysis/7bjNmIrstK9rUA5oYzabv8
+5ruOqrRWsk5pT9WpXZPAh2,Conclude,33,0.863,0.175,0.652,https://api.spotify.com/v1/audio-analysis/5ruOqrRWsk5pT9WpXZPAh2
+1rDRBVSqKgs3K9HiX5OTrL,All That (feat. Channel Tres),0,0.864,0.0444,0.724,https://api.spotify.com/v1/audio-analysis/1rDRBVSqKgs3K9HiX5OTrL
+5SDM3OveGbW62sJUJRwXqx,Losing Focus (with Wale),37,0.727,0.261,0.873,https://api.spotify.com/v1/audio-analysis/5SDM3OveGbW62sJUJRwXqx
+2Vy3cIUeNvOeCDigC2JKze,STCU (with Juicy J),34,0.541,0.804,0.773,https://api.spotify.com/v1/audio-analysis/2Vy3cIUeNvOeCDigC2JKze
+3yFwdxTgEIeFVDiYaJtbhN,All Mine,38,0.572,0.231,0.528,https://api.spotify.com/v1/audio-analysis/3yFwdxTgEIeFVDiYaJtbhN
+27dWFD7SwK0YAk1WrfjNlN,Pirouette - Stripped,39,0.273,0.896,0.0952,https://api.spotify.com/v1/audio-analysis/27dWFD7SwK0YAk1WrfjNlN
+1bzHZRL513pHVC9oEwQ0aL,Play Fight (with Tinashe),42,0.667,0.161,0.744,https://api.spotify.com/v1/audio-analysis/1bzHZRL513pHVC9oEwQ0aL
+3PlzW6Y96xvzjeXbyXaIqA,Count Me In,43,0.438,0.399,0.703,https://api.spotify.com/v1/audio-analysis/3PlzW6Y96xvzjeXbyXaIqA
+3LTEI8KMbUcJwyjHgyu8OJ,Halo (feat. Ebenezer) - Emerald Lake Remix,23,0.543,0.0319,0.704,https://api.spotify.com/v1/audio-analysis/3LTEI8KMbUcJwyjHgyu8OJ
+5itdalOWFWbF6aVdWJ3ega,Hold On (feat. Drew Love) - So Dope Remix,22,0.549,0.0257,0.787,https://api.spotify.com/v1/audio-analysis/5itdalOWFWbF6aVdWJ3ega
+59CyMzShL2n9g7wA3mw0aj,I'm Alright (feat. Jimi Ono) - Maliboux Remix,26,0.314,0.373,0.876,https://api.spotify.com/v1/audio-analysis/59CyMzShL2n9g7wA3mw0aj
+6nEQsNbJlfQhgRFCsmKtwj,Want You (feat. Miranda Glory) - Highlnd Remix,22,0.479,0.36,0.782,https://api.spotify.com/v1/audio-analysis/6nEQsNbJlfQhgRFCsmKtwj
+3vj1vTVUiabQN1BWeLo41g,All For You (feat. Kiesza) - Blanke Remix,0,0.36,0.129,0.758,https://api.spotify.com/v1/audio-analysis/3vj1vTVUiabQN1BWeLo41g
+1wYRCmimaMDrkJqCyHTlgq,Burn It Up - Eliminate Remix,0,0.22,0.0152,0.939,https://api.spotify.com/v1/audio-analysis/1wYRCmimaMDrkJqCyHTlgq
+0JmvCxrYdHSkobOTpaoJR2,Perfect - Thomas Gold Remix,17,0.277,0.0465,0.908,https://api.spotify.com/v1/audio-analysis/0JmvCxrYdHSkobOTpaoJR2
+2BGZKmkM32LxBaVDnMkron,Afterlife - Michael Calfan Remix,21,0.674,0.0269,0.483,https://api.spotify.com/v1/audio-analysis/2BGZKmkM32LxBaVDnMkron
+1L7AL7nmq7h81hRvremOUp,Iconic - Rejuiced,30,0.492,0.0301,0.614,https://api.spotify.com/v1/audio-analysis/1L7AL7nmq7h81hRvremOUp
+5BfvUt5ztFuAyhWjgWzjr1,Pirouette,48,0.629,0.146,0.598,https://api.spotify.com/v1/audio-analysis/5BfvUt5ztFuAyhWjgWzjr1
+0LMECRhJzJLyxURkiWHWY4,Sunday Morning,32,0.666,0.136,0.724,https://api.spotify.com/v1/audio-analysis/0LMECRhJzJLyxURkiWHWY4
+1wM9bvjd3i9pbH0gpq7aYj,Easy On Yourself,24,0.0753,0.821,0.345,https://api.spotify.com/v1/audio-analysis/1wM9bvjd3i9pbH0gpq7aYj
+3od9Fr5nTcM3BfSQx6wnXw,Addict,22,0.5,0.0369,0.795,https://api.spotify.com/v1/audio-analysis/3od9Fr5nTcM3BfSQx6wnXw
+7Ixny6pkcZi2oNh4r9sY0l,Right Now,25,0.724,0.0265,0.595,https://api.spotify.com/v1/audio-analysis/7Ixny6pkcZi2oNh4r9sY0l
+4XPvNlkZerBbd3FHHevLuz,Perfect,0,0.307,0.205,0.537,https://api.spotify.com/v1/audio-analysis/4XPvNlkZerBbd3FHHevLuz
+3HMRTkNsXXiyILXL2jgyH2,Darling,0,0.403,0.116,0.815,https://api.spotify.com/v1/audio-analysis/3HMRTkNsXXiyILXL2jgyH2
+4ywfuHVfB8wvm8tHWHK5QI,Back To You,0,0.706,0.0431,0.62,https://api.spotify.com/v1/audio-analysis/4ywfuHVfB8wvm8tHWHK5QI
+6KyuLCxXDQ7jyVMtMZJZI6,Iconic,37,0.694,0.225,0.709,https://api.spotify.com/v1/audio-analysis/6KyuLCxXDQ7jyVMtMZJZI6
+0eSx5b1VuqB8ncSmXdhCpV,Not Worth It,44,0.525,0.0937,0.53,https://api.spotify.com/v1/audio-analysis/0eSx5b1VuqB8ncSmXdhCpV
+3vBhSzUg5d9PbOWcF86ucQ,Heal My Desires,38,0.664,0.519,0.68,https://api.spotify.com/v1/audio-analysis/3vBhSzUg5d9PbOWcF86ucQ
+4mcGzXuu6XuyOHPXIRUv30,Security,0,0.408,0.042,0.542,https://api.spotify.com/v1/audio-analysis/4mcGzXuu6XuyOHPXIRUv30
+3mQRkeRLmccmDwXnvL6Ct7,Halo (feat. Ebenezer),36,0.177,0.0249,0.805,https://api.spotify.com/v1/audio-analysis/3mQRkeRLmccmDwXnvL6Ct7
+5wPJ3nG4mJve8LsmEaixgi,Engine,33,0.266,3.89e-05,0.944,https://api.spotify.com/v1/audio-analysis/5wPJ3nG4mJve8LsmEaixgi
+6FTcUcWYquQbDgChaHPD4T,Burn It Up,38,0.179,0.00024,0.886,https://api.spotify.com/v1/audio-analysis/6FTcUcWYquQbDgChaHPD4T
+1ZGEV0cWSM7fzHrLtaQ2nH,Pleased To Meet You (feat. Minke),33,0.268,0.108,0.647,https://api.spotify.com/v1/audio-analysis/1ZGEV0cWSM7fzHrLtaQ2nH
+7uhYCzp6c1GVN7WlAg5QBL,Your Best Friend Is A Hater,42,0.563,0.341,0.461,https://api.spotify.com/v1/audio-analysis/7uhYCzp6c1GVN7WlAg5QBL
+5P0akv5sOt042xlwdZ4Eoe,Back to Life,0,0.405,0.0374,0.575,https://api.spotify.com/v1/audio-analysis/5P0akv5sOt042xlwdZ4Eoe
+3vztxOnUSdUUv7WQRW9OqL,Afterlife,0,0.526,0.129,0.556,https://api.spotify.com/v1/audio-analysis/3vztxOnUSdUUv7WQRW9OqL
+0X6ngx7N5GdF1qlILkljen,arrival,0,0.618,0.615,0.664,https://api.spotify.com/v1/audio-analysis/0X6ngx7N5GdF1qlILkljen
+5GA7lb2ezcO3K8YAuJ2eq6,ruminate,38,0.592,0.461,0.541,https://api.spotify.com/v1/audio-analysis/5GA7lb2ezcO3K8YAuJ2eq6
+6ZTe7vfChxYbSADSKoAOa7,nothing,27,0.641,0.377,0.632,https://api.spotify.com/v1/audio-analysis/6ZTe7vfChxYbSADSKoAOa7
+1Pb7yIfJYA934l8SzwwY9t,moods,45,0.5,0.889,0.742,https://api.spotify.com/v1/audio-analysis/1Pb7yIfJYA934l8SzwwY9t
+5R9TWqXOVzHfRjpZQd8Dc0,senses,38,0.572,0.229,0.634,https://api.spotify.com/v1/audio-analysis/5R9TWqXOVzHfRjpZQd8Dc0
+66TCAaecR6tU6aUuqz2Uz2,tangled up,26,0.476,0.624,0.582,https://api.spotify.com/v1/audio-analysis/66TCAaecR6tU6aUuqz2Uz2
+3vsyezJSu2IDmAlgCkFTuh,departure,26,0.773,0.557,0.682,https://api.spotify.com/v1/audio-analysis/3vsyezJSu2IDmAlgCkFTuh
+59TVQz3vHOWL03tcPVNJdq,hearth,33,0.38,0.925,0.271,https://api.spotify.com/v1/audio-analysis/59TVQz3vHOWL03tcPVNJdq
+5rTcQ0Mw0YxGEMLVlwzOdm,Til I Die,48,0.357,0.00532,0.637,https://api.spotify.com/v1/audio-analysis/5rTcQ0Mw0YxGEMLVlwzOdm
+0hW6UzdP6HdPS1ZT8Qf2zG,Count Me Out,0,0.297,0.155,0.59,https://api.spotify.com/v1/audio-analysis/0hW6UzdP6HdPS1ZT8Qf2zG
+6arIkRYjnK8iO7wsSl0VW2,All For You,0,0.473,0.0709,0.863,https://api.spotify.com/v1/audio-analysis/6arIkRYjnK8iO7wsSl0VW2
+4wuOyQvMC3DZIWuMkpjq3M,Don't Be Lazy,0,0.365,0.0222,0.592,https://api.spotify.com/v1/audio-analysis/4wuOyQvMC3DZIWuMkpjq3M
+78ckCJUDPnrdNq6UIjDKs8,Someone Else - Rejuiced,26,0.168,0.246,0.242,https://api.spotify.com/v1/audio-analysis/78ckCJUDPnrdNq6UIjDKs8
+3JqTK7LnmyzamG49iptG4h,away from you,0,0.576,0.297,0.669,https://api.spotify.com/v1/audio-analysis/3JqTK7LnmyzamG49iptG4h
+7s0Pkj8Px5Ul70DLZQ3m9Y,Club Poor,0,0.57,0.0141,0.818,https://api.spotify.com/v1/audio-analysis/7s0Pkj8Px5Ul70DLZQ3m9Y
+3Sz3qzk5dnXJKJXuENT2fi,Read My Mind (feat. Mainland) - Acoustic,29,0.45,0.619,0.383,https://api.spotify.com/v1/audio-analysis/3Sz3qzk5dnXJKJXuENT2fi
+16D7xsQ4W81KLuPJieTBCq,belong,0,0.833,0.868,0.567,https://api.spotify.com/v1/audio-analysis/16D7xsQ4W81KLuPJieTBCq
+75Mp1U7vZ04ST1xpsx3MjM,Read My Mind (feat. Mainland),0,0.307,0.0841,0.671,https://api.spotify.com/v1/audio-analysis/75Mp1U7vZ04ST1xpsx3MjM
+7xZfavtpefcExFwZK99bjz,Rational Anthemn - Original,0,0.566,0.562,0.466,https://api.spotify.com/v1/audio-analysis/7xZfavtpefcExFwZK99bjz
+4Qb5hiBI3gGjHbAdIyeCrZ,Oily Way - 2004 Digital Remaster,0,0.272,0.765,0.328,https://api.spotify.com/v1/audio-analysis/4Qb5hiBI3gGjHbAdIyeCrZ
+2OUYESFPTTrCF6TRuKsOxF,Riding In The Rain,0,0.726,0.0989,0.924,https://api.spotify.com/v1/audio-analysis/2OUYESFPTTrCF6TRuKsOxF
+5mUzh4oK6tf2Jn1v7bAyK8,Luzifers Ghilom,0,0.619,0.238,0.464,https://api.spotify.com/v1/audio-analysis/5mUzh4oK6tf2Jn1v7bAyK8
+0h2R6FLbRwIxttDAPOhYNF,Mushroom,0,0.251,0.00892,0.533,https://api.spotify.com/v1/audio-analysis/0h2R6FLbRwIxttDAPOhYNF
+3DUoPXTDwsK71rQXiDkWRo,Halleluhwah,0,0.658,0.0674,0.953,https://api.spotify.com/v1/audio-analysis/3DUoPXTDwsK71rQXiDkWRo
+7FzusRAmuZVpLIV9WA7UwX,Femmes-Fleurs,20,0.96,5.22e-05,0.467,https://api.spotify.com/v1/audio-analysis/7FzusRAmuZVpLIV9WA7UwX
+741KQX9BobWT2bV5s5nO2D,Hollywood,31,0.509,0.155,0.326,https://api.spotify.com/v1/audio-analysis/741KQX9BobWT2bV5s5nO2D
+4ehFjZMyGIkjv3t35zutCc,Kekse,0,0.342,0.945,0.304,https://api.spotify.com/v1/audio-analysis/4ehFjZMyGIkjv3t35zutCc
+66HBCMDaMjMHfCPIVa3ey2,Hallogallo,0,0.754,0.122,0.775,https://api.spotify.com/v1/audio-analysis/66HBCMDaMjMHfCPIVa3ey2
+2tKidB2peNYQBe0G2O3XRA,Für immer,0,0.205,0.000297,0.95,https://api.spotify.com/v1/audio-analysis/2tKidB2peNYQBe0G2O3XRA
+58WBRN3iUuZU1aDMHgDOvA,ISI,0,0.284,0.0461,0.934,https://api.spotify.com/v1/audio-analysis/58WBRN3iUuZU1aDMHgDOvA
+0IpSdEeVrbPbuvKWkdC7HM,Neuschnee,0,0.684,0.00152,0.807,https://api.spotify.com/v1/audio-analysis/0IpSdEeVrbPbuvKWkdC7HM
+2085jEazWAHIpN3HquimcS,Mother Sky,0,0.377,0.00498,0.67,https://api.spotify.com/v1/audio-analysis/2085jEazWAHIpN3HquimcS
+31gtYnKwl8naWGzSnENynC,You Doo Right,0,0.386,0.0315,0.696,https://api.spotify.com/v1/audio-analysis/31gtYnKwl8naWGzSnENynC
+0yXXAD2XBB5iXweoUiJ3n1,Vitamin C,0,0.842,0.0211,0.398,https://api.spotify.com/v1/audio-analysis/0yXXAD2XBB5iXweoUiJ3n1
+5yRJC0oMZYLqAHCjwKigGn,Wie Der Wind Am Ende Einer Strasse,0,0.349,0.0104,0.621,https://api.spotify.com/v1/audio-analysis/5yRJC0oMZYLqAHCjwKigGn
+6ubPjgwyUt3xVisnQa3QQy,De Futura - Original,0,0.435,0.0304,0.615,https://api.spotify.com/v1/audio-analysis/6ubPjgwyUt3xVisnQa3QQy
+4yeDkuer7BbZe49T2m2wrS,Kobaia,3,0.537,0.00414,0.568,https://api.spotify.com/v1/audio-analysis/4yeDkuer7BbZe49T2m2wrS
+7Kq5AG2KcObtmKlPeayUqy,Eye Shaking King,0,0.459,0.000549,0.568,https://api.spotify.com/v1/audio-analysis/7Kq5AG2KcObtmKlPeayUqy
+74f8k4sJdIRCQKuqv6AXG8,Prelude - Nightmare,12,0.28,0.143,0.689,https://api.spotify.com/v1/audio-analysis/74f8k4sJdIRCQKuqv6AXG8
+6cVdoWiwNGbmE6tcpZ2GSc,Fire,41,0.317,0.541,0.882,https://api.spotify.com/v1/audio-analysis/6cVdoWiwNGbmE6tcpZ2GSc
+35kU8iYfDDTMII4rgrFHSt,Sierra Nirvana,0,0.796,0.467,0.438,https://api.spotify.com/v1/audio-analysis/35kU8iYfDDTMII4rgrFHSt
+10VH7UmhotAdusUPc1KAsH,Små lätta moln,33,0.333,0.796,0.318,https://api.spotify.com/v1/audio-analysis/10VH7UmhotAdusUPc1KAsH
+06pCe1Y6j7kTi6tt2qeMP1,"Love, Love, Love",21,0.687,0.469,0.823,https://api.spotify.com/v1/audio-analysis/06pCe1Y6j7kTi6tt2qeMP1
+2EuQBSblnuy06YntsvpjJ2,Lovefingers,0,0.323,0.319,0.619,https://api.spotify.com/v1/audio-analysis/2EuQBSblnuy06YntsvpjJ2
+0Op852iGzkqJ9Xq0eR2W27,China,8,0.653,0.179,0.819,https://api.spotify.com/v1/audio-analysis/0Op852iGzkqJ9Xq0eR2W27
+49RjlpNbgxylf0Lxn2zZF0,Gloomy Reflections,0,0.298,0.00336,0.409,https://api.spotify.com/v1/audio-analysis/49RjlpNbgxylf0Lxn2zZF0
+49RjlpNbgxylf0Lxn2zZF0,Gloomy Reflections,0,0.298,0.00336,0.409,https://api.spotify.com/v1/audio-analysis/49RjlpNbgxylf0Lxn2zZF0
+4LaPluZHZtStTjXJY07lCY,Dags För Stordåd,0,0.111,0.579,0.376,https://api.spotify.com/v1/audio-analysis/4LaPluZHZtStTjXJY07lCY
+6jyqyTIEa2XXnXr17LTJ6O,Super,0,0.879,6.18e-05,0.802,https://api.spotify.com/v1/audio-analysis/6jyqyTIEa2XXnXr17LTJ6O
+1IQmZ2Hz0HEtb8rwXNci4i,(BALLAD OF) THE HIP DEATH GODDESS,33,0.464,0.00999,0.718,https://api.spotify.com/v1/audio-analysis/1IQmZ2Hz0HEtb8rwXNci4i
+6zip6fqC3ovOa1ZiujjUsx,EGO TRIP,24,0.299,0.299,0.851,https://api.spotify.com/v1/audio-analysis/6zip6fqC3ovOa1ZiujjUsx
+1xKoikbf7wtFbi2NGBI7WE,Flammende Herzen,0,0.121,0.257,0.356,https://api.spotify.com/v1/audio-analysis/1xKoikbf7wtFbi2NGBI7WE
+2Lwex0lDxUkUhTZ0jg2RKR,Brandung,0,0.545,0.114,0.4,https://api.spotify.com/v1/audio-analysis/2Lwex0lDxUkUhTZ0jg2RKR
+1V7dpf74ft56Ws6KIe9uSR,Tausendfüßler,8,0.668,0.227,0.761,https://api.spotify.com/v1/audio-analysis/1V7dpf74ft56Ws6KIe9uSR
+7xrtYFSpcy2fT6xuyVZzFV,Sunrain,27,0.0681,0.0151,0.317,https://api.spotify.com/v1/audio-analysis/7xrtYFSpcy2fT6xuyVZzFV
+6poYscuLQG8hvpxNnyeMUV,Get Thy Bearings,50,0.557,0.383,0.267,https://api.spotify.com/v1/audio-analysis/6poYscuLQG8hvpxNnyeMUV
+2d7u3uocplYTBCfr9s1VVk,Clown,1,0.69,0.572,0.787,https://api.spotify.com/v1/audio-analysis/2d7u3uocplYTBCfr9s1VVk
+3QQYqowcply59lhojFwkLb,Mother Writes,0,0.736,0.00336,0.65,https://api.spotify.com/v1/audio-analysis/3QQYqowcply59lhojFwkLb
+4fIShFFiT8I5qB23FQWAKQ,"Laila, Part 2",0,0.708,0.00636,0.552,https://api.spotify.com/v1/audio-analysis/4fIShFFiT8I5qB23FQWAKQ
+0YeWmMRQw208ruS8DPS9rK,All Things Are Fading,0,0.309,0.306,0.77,https://api.spotify.com/v1/audio-analysis/0YeWmMRQw208ruS8DPS9rK
+1wB3VtE2ZI12y8oU1Wudme,Lookout For Lucy,0,0.324,0.603,0.734,https://api.spotify.com/v1/audio-analysis/1wB3VtE2ZI12y8oU1Wudme
+58ld9nKbXWNKB0kc01bKii,YOUR HEAD IS REELING,24,0.469,0.757,0.508,https://api.spotify.com/v1/audio-analysis/58ld9nKbXWNKB0kc01bKii
+1pL7DUM7RcZbqGGeMOwKNX,Je m’appelle geraldine - Mid-Tempo Version,0,0.547,0.0842,0.574,https://api.spotify.com/v1/audio-analysis/1pL7DUM7RcZbqGGeMOwKNX
+5zp9NBVNm34DF8cHfspE8Z,Les Garde Volent Au Secours Du Roi,0,0.247,0.113,0.664,https://api.spotify.com/v1/audio-analysis/5zp9NBVNm34DF8cHfspE8Z
+6V6Ldaq75x6kmP2ktr0TXh,"L'hôtel particulier - BOF ""Melody Nelson""",0,0.456,0.0439,0.273,https://api.spotify.com/v1/audio-analysis/6V6Ldaq75x6kmP2ktr0TXh
+4YFLi42CeCljqZ4VzvRTwa,En Melody,0,0.571,8.3e-05,0.778,https://api.spotify.com/v1/audio-analysis/4YFLi42CeCljqZ4VzvRTwa
+7MeFV4HLkVIguCG0FqwnL2,Cargo culte,0,0.39,0.0506,0.435,https://api.spotify.com/v1/audio-analysis/7MeFV4HLkVIguCG0FqwnL2
+161v0jFYUhailRdBDpme42,Brief Candles - Mono Version,0,0.199,0.717,0.392,https://api.spotify.com/v1/audio-analysis/161v0jFYUhailRdBDpme42
+5Lc1uQAvtbvn3bl2CYmJan,Changes,0,0.255,0.936,0.432,https://api.spotify.com/v1/audio-analysis/5Lc1uQAvtbvn3bl2CYmJan
+2UQq2Q9PCATLXlDAc4HtoO,Future Days,0,0.643,0.261,0.661,https://api.spotify.com/v1/audio-analysis/2UQq2Q9PCATLXlDAc4HtoO
+0IJAj6HwhE5rIFfSrFzWCx,Uphill,0,0.837,0.00655,0.761,https://api.spotify.com/v1/audio-analysis/0IJAj6HwhE5rIFfSrFzWCx
+7FnDGx0WvtSE1y3E6VrKja,Candle Of Life - Full Version,0,0.642,0.355,0.648,https://api.spotify.com/v1/audio-analysis/7FnDGx0WvtSE1y3E6VrKja
+01AKqR9zmVkmPkUCZWpL5o,The Seventh Day,3,0.354,0.0911,0.355,https://api.spotify.com/v1/audio-analysis/01AKqR9zmVkmPkUCZWpL5o
+0PlufZ1ghFMGgDGAJYRySI,Private Sorrow,0,0.416,0.615,0.508,https://api.spotify.com/v1/audio-analysis/0PlufZ1ghFMGgDGAJYRySI
+1TkWyg7FB2ZAiRTdEeoOrt,Rhubarb!,0,0.375,0.571,0.645,https://api.spotify.com/v1/audio-analysis/1TkWyg7FB2ZAiRTdEeoOrt
+6F2dUPJ1AJaLWCfVPmntgX,Where Will You Go,0,0.717,0.00518,0.88,https://api.spotify.com/v1/audio-analysis/6F2dUPJ1AJaLWCfVPmntgX
+15cu31gNIhAKsbjPqjTqzZ,Reactions Of A Young Man,0,0.406,0.53,0.481,https://api.spotify.com/v1/audio-analysis/15cu31gNIhAKsbjPqjTqzZ
+4dFCswl9BuBDw82zfIsLFA,Eat A Pebble,0,0.733,0.0971,0.719,https://api.spotify.com/v1/audio-analysis/4dFCswl9BuBDw82zfIsLFA
+6sVOWB4BTWdOCOQGSM1aS9,Dondai (To An Eternal Love) - Original,0,0.668,0.203,0.39,https://api.spotify.com/v1/audio-analysis/6sVOWB4BTWdOCOQGSM1aS9
+5Em2AxqmENAdmvWlZMHdTp,The Great Banana Hoax,17,0.51,0.04,0.559,https://api.spotify.com/v1/audio-analysis/5Em2AxqmENAdmvWlZMHdTp
+48zQvHXQLwAThqGiS36h0J,Trust,0,0.477,0.114,0.51,https://api.spotify.com/v1/audio-analysis/48zQvHXQLwAThqGiS36h0J
+2Zk1YHAVkX85hREoZ39s0t,Babylon,0,0.396,0.00655,0.878,https://api.spotify.com/v1/audio-analysis/2Zk1YHAVkX85hREoZ39s0t
+4H9f3Oye4Qv3tw40FufclN,Tropical Hot Dog Night,27,0.85,0.651,0.732,https://api.spotify.com/v1/audio-analysis/4H9f3Oye4Qv3tw40FufclN
+75meN30VtuGWNYIkOgtaVz,Fragments Of Light,1,0.628,0.64,0.636,https://api.spotify.com/v1/audio-analysis/75meN30VtuGWNYIkOgtaVz
+6UZipqSMamNtONEnVYRN88,Black Sand,21,0.429,0.106,0.54,https://api.spotify.com/v1/audio-analysis/6UZipqSMamNtONEnVYRN88
+2LhUXGEwgRN8PmKuO78Lmh,Crying Is for Writers,8,0.535,0.0795,0.721,https://api.spotify.com/v1/audio-analysis/2LhUXGEwgRN8PmKuO78Lmh
+7AziCrfYF6XA2H9Bv76S8F,Prelude,37,0.688,0.548,0.818,https://api.spotify.com/v1/audio-analysis/7AziCrfYF6XA2H9Bv76S8F
+3yl9SyxcfwvDNSSQsyXexq,Weissensee,0,0.0604,0.406,0.173,https://api.spotify.com/v1/audio-analysis/3yl9SyxcfwvDNSSQsyXexq
+4JoN6fdHDMGCkqi2UVOYHG,De Svarta Ryttarna - Flykten Från Vadstället,0,0.383,0.0102,0.911,https://api.spotify.com/v1/audio-analysis/4JoN6fdHDMGCkqi2UVOYHG
+3AsxgQ6F5UCApx8a1lFAQ9,Funderingar På Vinden,0,0.245,0.133,0.576,https://api.spotify.com/v1/audio-analysis/3AsxgQ6F5UCApx8a1lFAQ9
+18xjwBeNN9n8oyQv5xnbBM,Triplets,2,0.182,0.567,0.234,https://api.spotify.com/v1/audio-analysis/18xjwBeNN9n8oyQv5xnbBM
+5v3qtS7tWLydQD7qbvkGXk,Tax Free,4,0.412,0.111,0.433,https://api.spotify.com/v1/audio-analysis/5v3qtS7tWLydQD7qbvkGXk
+0DcxmsMUGPhe94DEH2ifnR,Deutsch Nepal,0,0.161,0.0175,0.698,https://api.spotify.com/v1/audio-analysis/0DcxmsMUGPhe94DEH2ifnR
+4uu4GZ7elu2N4pcFQSP3Y8,A Morning Excuse,0,0.612,0.379,0.65,https://api.spotify.com/v1/audio-analysis/4uu4GZ7elu2N4pcFQSP3Y8
+2IuwEVtYnkxBAF6nh6Ftuu,The Trial,9,0.355,0.000325,0.759,https://api.spotify.com/v1/audio-analysis/2IuwEVtYnkxBAF6nh6Ftuu
+1U0JgQRSufNmWPvD9aklZt,A Child of a Few Hours Is Burning to Death,36,0.819,0.201,0.474,https://api.spotify.com/v1/audio-analysis/1U0JgQRSufNmWPvD9aklZt
+7CdjCr8kf9ryfAJm5b9qCa,Ogdens’ Nut Gone Flake (Stereo),30,0.24,0.016,0.747,https://api.spotify.com/v1/audio-analysis/7CdjCr8kf9ryfAJm5b9qCa
+3toxxSU3TcvzgmeR8LLUiX,Willie The Pimp,46,0.831,0.347,0.787,https://api.spotify.com/v1/audio-analysis/3toxxSU3TcvzgmeR8LLUiX
+5qFHGMAdwIsXnEtd3jIqUF,Ms. Pinky,0,0.594,0.052,0.804,https://api.spotify.com/v1/audio-analysis/5qFHGMAdwIsXnEtd3jIqUF
+78M81RIxqUdS8XU4YRXLej,Apostrophe',0,0.625,0.347,0.87,https://api.spotify.com/v1/audio-analysis/78M81RIxqUdS8XU4YRXLej
+6VODND2uywT5CNNZ7EenO7,Gilded Lamp of the Cosmos (Behold & See) [Original Mono Mix],26,0.702,0.741,0.418,https://api.spotify.com/v1/audio-analysis/6VODND2uywT5CNNZ7EenO7
+6mijC0XnmVro2VJEXjSqEh,Visions of Your Reality (Original Mono Mix),6,0.415,0.809,0.289,https://api.spotify.com/v1/audio-analysis/6mijC0XnmVro2VJEXjSqEh
+5BUVQ2dhO8zF3zUpaNh2ON,The Wall,0,0.455,0.507,0.728,https://api.spotify.com/v1/audio-analysis/5BUVQ2dhO8zF3zUpaNh2ON
+3BH6u6B46hKG8yYyPEIWPE,Zorongo,0,0.84,0.0323,0.76,https://api.spotify.com/v1/audio-analysis/3BH6u6B46hKG8yYyPEIWPE
+323v7m7MKYtLNiod3orNAF,Kinetic,16,0.181,0.000335,0.904,https://api.spotify.com/v1/audio-analysis/323v7m7MKYtLNiod3orNAF
+2qMpYGOhHgbuUM6YzsACne,The Ferryman,16,0.0521,0.000699,0.76,https://api.spotify.com/v1/audio-analysis/2qMpYGOhHgbuUM6YzsACne
+3CxPrDDaaF0WMsUHwEFQNs,The Black Stone,0,0.0806,0.0431,0.844,https://api.spotify.com/v1/audio-analysis/3CxPrDDaaF0WMsUHwEFQNs
+4u3eYOVVFV9rBC3PCZwI4x,Scarlet Dream,0,0.456,0.0123,0.932,https://api.spotify.com/v1/audio-analysis/4u3eYOVVFV9rBC3PCZwI4x
+6ExtKbeSIXmeYBZgfBoJYK,Rosemary's Baby,0,0.163,0.0258,0.604,https://api.spotify.com/v1/audio-analysis/6ExtKbeSIXmeYBZgfBoJYK
+7bfXYsl7dfCXhJ8kYdpivw,Plastic Surgeons,5,0.717,2.25e-05,0.899,https://api.spotify.com/v1/audio-analysis/7bfXYsl7dfCXhJ8kYdpivw
+7JnDtkFOmrdyMjOANyvc7f,Molekuláis Gépezetek,0,0.0705,0.343,0.887,https://api.spotify.com/v1/audio-analysis/7JnDtkFOmrdyMjOANyvc7f
+0GGGA9uuZ5LFLwh2RCuHYG,Neath Waters (Minden Vízbe Mártott Test),0,0.0354,0.11,0.879,https://api.spotify.com/v1/audio-analysis/0GGGA9uuZ5LFLwh2RCuHYG
+6GppZAou19lILKUfHbCGlI,Nutrisco Et Extinguo,0,0.183,0.000194,0.885,https://api.spotify.com/v1/audio-analysis/6GppZAou19lILKUfHbCGlI
+6Igm1Jef9P6VcDCr5cSHmd,Sleep Is Wrong,20,0.191,0.0379,0.905,https://api.spotify.com/v1/audio-analysis/6Igm1Jef9P6VcDCr5cSHmd
+0zwZCbuo5HbVjUt6badBR9,Cockroach,12,0.387,0.477,0.546,https://api.spotify.com/v1/audio-analysis/0zwZCbuo5HbVjUt6badBR9
+660GcVi8TdDeQmYD5CHh91,I,10,0.274,0.00123,0.686,https://api.spotify.com/v1/audio-analysis/660GcVi8TdDeQmYD5CHh91
+4iJgjDorR7q6pDmeJobTcx,Friedrichs Wahnbriefe - (feat. Fredrik Thordendal),3,0.383,0.0202,0.798,https://api.spotify.com/v1/audio-analysis/4iJgjDorR7q6pDmeJobTcx
+76bPv9XRko7WJ45B37vQ4q,Okachimachi Station - For Fredrik Thordendal,0,0.646,0.0263,0.8,https://api.spotify.com/v1/audio-analysis/76bPv9XRko7WJ45B37vQ4q
+7qFfGFidCFZeNpzmmnLXTr,Parasite My Heart,0,0.0386,0.302,0.283,https://api.spotify.com/v1/audio-analysis/7qFfGFidCFZeNpzmmnLXTr
+6MVmn8tzyyOdltilvX9s2S,Praise The Lowered,0,0.394,0.0586,0.589,https://api.spotify.com/v1/audio-analysis/6MVmn8tzyyOdltilvX9s2S
+2HsvlvybQp5I2mrqvW0pPw,Chromatic Chimera,14,0.14,0.919,0.293,https://api.spotify.com/v1/audio-analysis/2HsvlvybQp5I2mrqvW0pPw
+0KHJSHnN5S0SNE3WufUkEq,Feathers Under My Skin,4,0.354,0.000314,0.937,https://api.spotify.com/v1/audio-analysis/0KHJSHnN5S0SNE3WufUkEq
+71oukCqwzyzk7qEebQO9Tr,The Passage (Pearl Grey),17,0.48,0.000407,0.928,https://api.spotify.com/v1/audio-analysis/71oukCqwzyzk7qEebQO9Tr
+1oZID5LuV0hA50cp2Spmst,Un druide est giboyeux lorsqu'il se prend pour un neutrino,0,0.298,0.000224,0.79,https://api.spotify.com/v1/audio-analysis/1oZID5LuV0hA50cp2Spmst
+64tiKBvaNg0l8YtWgLriSq,Schwarz Schaut Tiefsten Lichterglanz,0,0.399,0.000364,0.899,https://api.spotify.com/v1/audio-analysis/64tiKBvaNg0l8YtWgLriSq
+3WZgJtiP5YFNprjVLxPN6g,Filistata,0,0.835,0.000162,0.931,https://api.spotify.com/v1/audio-analysis/3WZgJtiP5YFNprjVLxPN6g
+7rHyHbmsYPLONnBCYjUjId,The Final Thrill,4,0.252,7.42e-06,0.968,https://api.spotify.com/v1/audio-analysis/7rHyHbmsYPLONnBCYjUjId
+5Le0EEhPovuUGEbz8NOinf,Ruin,1,0.477,0.00107,0.807,https://api.spotify.com/v1/audio-analysis/5Le0EEhPovuUGEbz8NOinf
+0bzPSY1ubiIVZv3PUHURUW,"Yes, We Have No Bananas",2,0.505,0.00078,0.722,https://api.spotify.com/v1/audio-analysis/0bzPSY1ubiIVZv3PUHURUW
+2hMCAuYrbmz8m0Nvu5upX9,Helsinki,0,0.325,0.000174,0.883,https://api.spotify.com/v1/audio-analysis/2hMCAuYrbmz8m0Nvu5upX9
+4SFMLOvlJhzTwdZrRopQWs,In The Kingdom Of Kitsch You Will Be A Monster,0,0.185,0.000924,0.941,https://api.spotify.com/v1/audio-analysis/4SFMLOvlJhzTwdZrRopQWs
+4M6XV4NmwiDy6qoFV2YCCp,Dance Macabre,2,0.0389,0.00046,0.794,https://api.spotify.com/v1/audio-analysis/4M6XV4NmwiDy6qoFV2YCCp
+3fBaiPF1bg02TMaoMiFTM6,Acceleration,1,0.281,0.000464,0.912,https://api.spotify.com/v1/audio-analysis/3fBaiPF1bg02TMaoMiFTM6
+6ONmqUX0hunf4P7PD7TNGT,Axiom,17,0.0971,0.0418,0.95,https://api.spotify.com/v1/audio-analysis/6ONmqUX0hunf4P7PD7TNGT
+0MJe2rsl5SxdFeld4jLclf,Wrong Hole,0,0.237,0.000224,0.982,https://api.spotify.com/v1/audio-analysis/0MJe2rsl5SxdFeld4jLclf
+2XypzoyselLV9YuXJGHwJd,Mad Air Punch,0,0.144,0.107,0.699,https://api.spotify.com/v1/audio-analysis/2XypzoyselLV9YuXJGHwJd
+2Wx32RF0HnROEEi0CLDo4B,Path Finders,2,0.0338,0.000171,0.943,https://api.spotify.com/v1/audio-analysis/2Wx32RF0HnROEEi0CLDo4B
+2bsu5GPl6DbRqcy3XAxKLK,In The Flesh,0,0.24,0.0481,0.956,https://api.spotify.com/v1/audio-analysis/2bsu5GPl6DbRqcy3XAxKLK
+6Ixcz8dIeShwkcCKIXP89o,Englers Piler Har Ingen Brodd,0,0.076,1.95e-05,0.991,https://api.spotify.com/v1/audio-analysis/6Ixcz8dIeShwkcCKIXP89o
+1ZFP8YgeBeXF7e9ccZBY0y,Cirqvs L.,3,0.483,0.00075,0.941,https://api.spotify.com/v1/audio-analysis/1ZFP8YgeBeXF7e9ccZBY0y
+2CavsQay3YIKCkj7V9VEMu,The Little Things,0,0.371,0.00479,0.912,https://api.spotify.com/v1/audio-analysis/2CavsQay3YIKCkj7V9VEMu
+5gGOGOsgurapBMAJ72sSUW,Vulgar Display of Sauerkraut,0,0.343,0.000124,0.87,https://api.spotify.com/v1/audio-analysis/5gGOGOsgurapBMAJ72sSUW
+7APPF40RCth2Mn9JrqIyZZ,Esthete Piggie,0,0.369,0.000244,0.905,https://api.spotify.com/v1/audio-analysis/7APPF40RCth2Mn9JrqIyZZ
+0lfHxx5pMhaYbYb2ScQtYs,Diapositive,0,0.209,0.00354,0.935,https://api.spotify.com/v1/audio-analysis/0lfHxx5pMhaYbYb2ScQtYs
+7BDKAlheWVd83z0WPbavHI,Oil And Water,3,0.0396,2.45e-06,0.967,https://api.spotify.com/v1/audio-analysis/7BDKAlheWVd83z0WPbavHI
+5Qm8x2jLTBmU9pWt8hwlk9,Scorpieau,0,0.209,5.13e-06,0.981,https://api.spotify.com/v1/audio-analysis/5Qm8x2jLTBmU9pWt8hwlk9
+5UK2VGqwRfG5QniOk2y7ZU,Freezing Moon including Terzo Incontro and Tubular Bells - NORMAL,0,0.14,0.000457,0.913,https://api.spotify.com/v1/audio-analysis/5UK2VGqwRfG5QniOk2y7ZU
+2TMmTNnfH6n9sf08trQpgt,Acid Mist Tomorrow,18,0.159,0.00466,0.909,https://api.spotify.com/v1/audio-analysis/2TMmTNnfH6n9sf08trQpgt
+6fZJdzrqvya0EUJfgtwHaa,The First Art,0,0.0578,0.0018,0.727,https://api.spotify.com/v1/audio-analysis/6fZJdzrqvya0EUJfgtwHaa
+4HD3vQ8v87lhZVnpgDsufa,"Weird, imperfect symmetry of creation",0,0.273,0.000225,0.882,https://api.spotify.com/v1/audio-analysis/4HD3vQ8v87lhZVnpgDsufa
+0BDsgVT9FSnoYne6nnYIwY,Algae,0,0.0348,0.000298,0.963,https://api.spotify.com/v1/audio-analysis/0BDsgVT9FSnoYne6nnYIwY
+4ozP2rq0UPXL3wER1jZQWf,I are you,0,0.207,0.688,0.62,https://api.spotify.com/v1/audio-analysis/4ozP2rq0UPXL3wER1jZQWf
+06HJKBIlM85I1CzRQTKhzb,The Drill-Tower,0,0.0579,0.0224,0.867,https://api.spotify.com/v1/audio-analysis/06HJKBIlM85I1CzRQTKhzb
+72tq9Pr4ZUhqRVcjQ1Uj72,Lyrae,1,0.0493,0.0106,0.978,https://api.spotify.com/v1/audio-analysis/72tq9Pr4ZUhqRVcjQ1Uj72
+04X9rHdufZOZ9ahTb739kd,Myspys,41,0.0486,9.2e-05,0.968,https://api.spotify.com/v1/audio-analysis/04X9rHdufZOZ9ahTb739kd
+36RlZgXwb5gqbzgs3UKR2U,Le trône de la tragédie (Ulver tribute),0,0.272,0.0013,0.87,https://api.spotify.com/v1/audio-analysis/36RlZgXwb5gqbzgs3UKR2U
+3OUPCD3hqjelfFbleDAMqZ,Im dunklen Tann,0,0.181,0.0984,0.785,https://api.spotify.com/v1/audio-analysis/3OUPCD3hqjelfFbleDAMqZ
+521Ub1ozGBuVUQKZ6LcYqc,Random Jean Vigo,0,0.172,0.00267,0.816,https://api.spotify.com/v1/audio-analysis/521Ub1ozGBuVUQKZ6LcYqc
+4VBRGiTjxV2S9AKeLXpwvV,La notion de chiralité de spin et d'oscillation de saveur des particules supersymetriques,0,0.195,0.00193,0.861,https://api.spotify.com/v1/audio-analysis/4VBRGiTjxV2S9AKeLXpwvV
+0n2YHd6jPB5HLYmujvNi8b,16061978,4,0.229,6.38e-05,0.2,https://api.spotify.com/v1/audio-analysis/0n2YHd6jPB5HLYmujvNi8b
+0VxYTgpNwReWL9U4HLoQh2,Metal Music Machine,0,0.0296,4.12e-05,0.99,https://api.spotify.com/v1/audio-analysis/0VxYTgpNwReWL9U4HLoQh2
+0YwElJvhzfM1wNGWPsmm9j,Ωlow,0,0.265,0.00248,0.831,https://api.spotify.com/v1/audio-analysis/0YwElJvhzfM1wNGWPsmm9j
+45e9t5wSjxpv8opM3g2WCV,King Cockroach,0,0.285,9.02e-05,0.809,https://api.spotify.com/v1/audio-analysis/45e9t5wSjxpv8opM3g2WCV
+6xh2freujMDo3wBPBuDln0,(I Should Have Known) Her Name Was Boogie,0,0.196,0.00228,0.902,https://api.spotify.com/v1/audio-analysis/6xh2freujMDo3wBPBuDln0
+5XIJuA8OIPimeVCOYPjzqo,After the Fruits of Ephemeral Pulchritude - Remixed Version,0,0.0362,9.78e-05,0.998,https://api.spotify.com/v1/audio-analysis/5XIJuA8OIPimeVCOYPjzqo
+1gOnhQX02XxjfEZ5rF2sla,The Other I,2,0.126,0.0034,0.967,https://api.spotify.com/v1/audio-analysis/1gOnhQX02XxjfEZ5rF2sla
+6FUVTPn5gurtxmrnXM3x0R,The Chaos Path,0,0.398,1.51e-05,0.876,https://api.spotify.com/v1/audio-analysis/6FUVTPn5gurtxmrnXM3x0R
+0jyWEnE4LfXBximppGWZ7v,Master of Disguise,0,0.0919,0.00156,0.897,https://api.spotify.com/v1/audio-analysis/0jyWEnE4LfXBximppGWZ7v
+1KvaPYZnDpWJc0JKsmkR4e,"Giggles, Garlands & Gallows, Pt. 2 - M.i.d.g.e.t.s.",0,0.151,0.0242,0.834,https://api.spotify.com/v1/audio-analysis/1KvaPYZnDpWJc0JKsmkR4e
+0WiwgBT7qewQ7TtpToA5ZT,Sum Vicis,0,0.0366,0.00414,0.963,https://api.spotify.com/v1/audio-analysis/0WiwgBT7qewQ7TtpToA5ZT
+3XJ9AnEiupxjmX76u7TFzf,The Idea Of Independence And The Reason Why It's Austere,3,0.377,0.000328,0.893,https://api.spotify.com/v1/audio-analysis/3XJ9AnEiupxjmX76u7TFzf
+0gfvo1gpUYE07gLFYVigQ1,My Apterous Angel,9,0.11,0.0384,0.947,https://api.spotify.com/v1/audio-analysis/0gfvo1gpUYE07gLFYVigQ1
+4gUm7JfKvJJbJsyu1OoVXq,Panta Rei / Gather in Me No More,1,0.262,0.000251,0.817,https://api.spotify.com/v1/audio-analysis/4gUm7JfKvJJbJsyu1OoVXq
+2FXaEa8NYCYrEgOLIp8mqL,Fucking Hostile,5,0.76,0.135,0.699,https://api.spotify.com/v1/audio-analysis/2FXaEa8NYCYrEgOLIp8mqL
+2EMjxjuu0dBRkKZoPkCOdU,"Don't Be Happy, Worry",3,0.471,0.00354,0.926,https://api.spotify.com/v1/audio-analysis/2EMjxjuu0dBRkKZoPkCOdU
+2cdqcEC7vBVZZG2in1ZdRI,Thirst For Hunger,0,0.146,0.012,0.958,https://api.spotify.com/v1/audio-analysis/2cdqcEC7vBVZZG2in1ZdRI
+6zsDArn9So3KVQ9bUUcKCI,Damn You All I Told You So,0,0.331,0.366,0.708,https://api.spotify.com/v1/audio-analysis/6zsDArn9So3KVQ9bUUcKCI
+1yAO6Ovhblf0nQuurkRMeF,Kalahari,0,0.0941,0.00229,0.97,https://api.spotify.com/v1/audio-analysis/1yAO6Ovhblf0nQuurkRMeF
+1fwHSjkMGCnICHh5Ixsbot,Seul,0,0.0914,0.0753,0.915,https://api.spotify.com/v1/audio-analysis/1fwHSjkMGCnICHh5Ixsbot
+0FDzWfXlf5sgqGq8itIN9F,Falling… - 1998 Demo,0,0.198,0.000112,0.872,https://api.spotify.com/v1/audio-analysis/0FDzWfXlf5sgqGq8itIN9F
+7dlGSFk11VHyzurFDcqTmX,Desert Urbania,9,0.241,0.0101,0.89,https://api.spotify.com/v1/audio-analysis/7dlGSFk11VHyzurFDcqTmX
+2idhR69aRVjoCw8ro3GszK,Psychic Juggle,4,0.138,0.00229,0.914,https://api.spotify.com/v1/audio-analysis/2idhR69aRVjoCw8ro3GszK
+2ANEtCGjJN6NaTad0fGg5c,JERNLOV,0,0.207,0.00604,0.825,https://api.spotify.com/v1/audio-analysis/2ANEtCGjJN6NaTad0fGg5c
+1pIuCjRoXB8LD4KYzhiVyT,Dionysify This Night Of Spring,0,0.11,0.000106,0.858,https://api.spotify.com/v1/audio-analysis/1pIuCjRoXB8LD4KYzhiVyT
+635ZMxUC1tnD1vPpgtdtRm,Gallimarufry,0,0.173,0.0222,0.818,https://api.spotify.com/v1/audio-analysis/635ZMxUC1tnD1vPpgtdtRm
+2WdDiIAN9kZkgfcWWuFjUK,Fire,0,0.16,0.0335,0.433,https://api.spotify.com/v1/audio-analysis/2WdDiIAN9kZkgfcWWuFjUK
+41smFLL25Vi5uyeiPo3Sfm,Nietzschean Conspiracy,2,0.0688,0.000716,0.641,https://api.spotify.com/v1/audio-analysis/41smFLL25Vi5uyeiPo3Sfm
+38AdfOHcj52ZnrrZDsE7v8,The Fall of Pop,1,0.437,0.0032,0.92,https://api.spotify.com/v1/audio-analysis/38AdfOHcj52ZnrrZDsE7v8
+0897EhSrwAFZWNOhyjPZB7,Verum Pro Totus,0,0.159,0.00369,0.882,https://api.spotify.com/v1/audio-analysis/0897EhSrwAFZWNOhyjPZB7
+5IbyWZLDaZZ5792PDoUo32,Le Temps Donne Naissance A Tout,0,0.104,0.00719,0.857,https://api.spotify.com/v1/audio-analysis/5IbyWZLDaZZ5792PDoUo32
+3JQlJynGSCYVZew4nek2PI,Truten,0,0.0814,0.351,0.467,https://api.spotify.com/v1/audio-analysis/3JQlJynGSCYVZew4nek2PI
+3ZLLwWviHz7oPDGXkdXE6L,Deathtrip Chronicle,0,0.056,9.7e-05,0.922,https://api.spotify.com/v1/audio-analysis/3ZLLwWviHz7oPDGXkdXE6L
+78go0JyFHgJ0qAAgXYUSro,A Treatise on the Madness of God,0,0.0623,0.000603,0.936,https://api.spotify.com/v1/audio-analysis/78go0JyFHgJ0qAAgXYUSro
+3bAkKirNQYGqc6eUPn4ixv,Auditorium of Modern Movements,1,0.262,0.0272,0.827,https://api.spotify.com/v1/audio-analysis/3bAkKirNQYGqc6eUPn4ixv
+4oqoHcIrNKWw10r0Qji9sn,The Concept of Haste,1,0.33,0.000103,0.924,https://api.spotify.com/v1/audio-analysis/4oqoHcIrNKWw10r0Qji9sn
+6UYsbxPhAXKDjgevlQLors,The Green Office And The Dark Desk Drawer,1,0.578,0.00169,0.79,https://api.spotify.com/v1/audio-analysis/6UYsbxPhAXKDjgevlQLors
+2kxsAw4mRAk446KHJzKViD,Of Concrete And Glass,0,0.685,0.000407,0.958,https://api.spotify.com/v1/audio-analysis/2kxsAw4mRAk446KHJzKViD
+1vCqkfCqmOPJgx8XAVT54S,I No Longer Know If I Am Mad,0,0.561,0.686,0.554,https://api.spotify.com/v1/audio-analysis/1vCqkfCqmOPJgx8XAVT54S
+3aFUueKv5S9mr0v4x6MB0s,Verdelet,22,0.315,0.000164,0.891,https://api.spotify.com/v1/audio-analysis/3aFUueKv5S9mr0v4x6MB0s
+4Ax1Gz3sBzzvM8Ha1gS7wf,Leviathan,26,0.194,1.78e-05,0.896,https://api.spotify.com/v1/audio-analysis/4Ax1Gz3sBzzvM8Ha1gS7wf
+0Px8dXsjkyRzIP2kOvcI37,Betwixt Iniquitatis And Prostigiators,0,0.0361,0.584,0.15,https://api.spotify.com/v1/audio-analysis/0Px8dXsjkyRzIP2kOvcI37
+6J1HwUSdeiKFyKUKQFEZgu,Of Menstrual Blood And Semen,0,0.0388,1.74e-05,0.834,https://api.spotify.com/v1/audio-analysis/6J1HwUSdeiKFyKUKQFEZgu
+5wpvXMGKOu2rWHpQAzH4Tb,Praise The Name Of Satan,15,0.127,0.00074,0.823,https://api.spotify.com/v1/audio-analysis/5wpvXMGKOu2rWHpQAzH4Tb
+4nuyeW5a6tnwiJZ6ApWdCs,Black Messiah,7,0.0307,0.092,0.954,https://api.spotify.com/v1/audio-analysis/4nuyeW5a6tnwiJZ6ApWdCs
+2CdxmZfz23dIjK7iuxvvMO,10:15 Saturday Night,49,0.363,0.00428,0.409,https://api.spotify.com/v1/audio-analysis/2CdxmZfz23dIjK7iuxvvMO
+09KEb4ikS9mPd3b5g1Q4dh,**** (Jungle Law),0,0.111,0.132,0.938,https://api.spotify.com/v1/audio-analysis/09KEb4ikS9mPd3b5g1Q4dh
+5ahYZtchtFwetKDeHpL9jZ,A Song From Under The Floorboards,15,0.815,0.0931,0.739,https://api.spotify.com/v1/audio-analysis/5ahYZtchtFwetKDeHpL9jZ
+0KYg7YJvne7UXvHloJrEZE,Adventure,0,0.398,0.00604,0.451,https://api.spotify.com/v1/audio-analysis/0KYg7YJvne7UXvHloJrEZE
+0Fd1ABLKIIAPiKMO6OZrU7,Angels Of Deception,22,0.466,0.112,0.724,https://api.spotify.com/v1/audio-analysis/0Fd1ABLKIIAPiKMO6OZrU7
+3WnBwOHWafZOeA5BtouHo9,Atomic Bongos,0,0.639,0.0209,0.814,https://api.spotify.com/v1/audio-analysis/3WnBwOHWafZOeA5BtouHo9
+4vU6lZL5U800AtpcnKlFhs,Blitz,0,0.126,0.0287,0.724,https://api.spotify.com/v1/audio-analysis/4vU6lZL5U800AtpcnKlFhs
+0fvWJDO0jdr6xKfUiIR5s9,Bittersweet - Single/EP release,0,0.387,0.00735,0.977,https://api.spotify.com/v1/audio-analysis/0fvWJDO0jdr6xKfUiIR5s9
+6t8IzZHIb9fXRDgxNEj8TS,Deanna - 2010 Remastered Version,38,0.439,0.0049,0.94,https://api.spotify.com/v1/audio-analysis/6t8IzZHIb9fXRDgxNEj8TS
+0K1ThRqu3v8H4fj6I5rbhZ,Deep Ocean Vast Sea,0,0.83,0.00395,0.618,https://api.spotify.com/v1/audio-analysis/0K1ThRqu3v8H4fj6I5rbhZ
+6mPEpSI0hIfeT0qXnoszFQ,Disappointed - 2011 Remaster,31,0.786,0.00379,0.84,https://api.spotify.com/v1/audio-analysis/6mPEpSI0hIfeT0qXnoszFQ
+6s33DoY25injNU2bHySdHB,Do You Believe in the Westworld?,0,0.583,0.00999,0.902,https://api.spotify.com/v1/audio-analysis/6s33DoY25injNU2bHySdHB
+157pFiMw3zcCfcefGMFJzN,Donka,3,0.403,0.0231,0.848,https://api.spotify.com/v1/audio-analysis/157pFiMw3zcCfcefGMFJzN
+52WaKEZpbiD6aBkmENlj6x,E=MC2,46,0.844,0.716,0.782,https://api.spotify.com/v1/audio-analysis/52WaKEZpbiD6aBkmENlj6x
+4CFg5OCkuOoBeNyfentP5D,Electric Lash - 2002 Digital Remaster,22,0.537,0.0567,0.925,https://api.spotify.com/v1/audio-analysis/4CFg5OCkuOoBeNyfentP5D
+7etKbL4piV3vmXzJ8eZhPv,Expecting to Fly,9,0.502,0.00318,0.887,https://api.spotify.com/v1/audio-analysis/7etKbL4piV3vmXzJ8eZhPv
+3pHFGJIm22DcLt7D41PBB8,Far Side Of Crazy,31,0.761,0.0114,0.644,https://api.spotify.com/v1/audio-analysis/3pHFGJIm22DcLt7D41PBB8
+6kHetuCiokmiYqE9bhtNJ1,Forever Now,13,0.771,0.00132,0.69,https://api.spotify.com/v1/audio-analysis/6kHetuCiokmiYqE9bhtNJ1
+3jJm28Q9MEhnRbxk2LdfkK,Generals And Majors - 2001 Remaster,44,0.933,0.0118,0.895,https://api.spotify.com/v1/audio-analysis/3jJm28Q9MEhnRbxk2LdfkK
+4j9SH3bfXH2b75ILj3AP8J,Ghost Dance,0,0.131,0.0367,0.88,https://api.spotify.com/v1/audio-analysis/4j9SH3bfXH2b75ILj3AP8J
+11dAS83v1sVqRr10tTBh5p,God's Zoo,0,0.568,4.19e-05,0.928,https://api.spotify.com/v1/audio-analysis/11dAS83v1sVqRr10tTBh5p
+49Fwadk09sHntGpnqrFGMF,Happy to See Me,0,0.531,0.000265,0.763,https://api.spotify.com/v1/audio-analysis/49Fwadk09sHntGpnqrFGMF
+3Fd3XUeoeVZH0nZcGVmUwE,Heaven,0,0.524,0.00641,0.554,https://api.spotify.com/v1/audio-analysis/3Fd3XUeoeVZH0nZcGVmUwE
+7tYPpJaY9N43gVSAvEjki3,Hey Joe - 2009 Remastered Version,18,0.344,5.25e-05,0.791,https://api.spotify.com/v1/audio-analysis/7tYPpJaY9N43gVSAvEjki3
+7KbwDFYIaTwuiR6hm3xs1v,Tantalized - Remaster 2002,25,0.251,0.000182,0.871,https://api.spotify.com/v1/audio-analysis/7KbwDFYIaTwuiR6hm3xs1v
+4M4iR4GQcEnscz2XOC6CR2,Hit the North Part 1,0,0.913,0.00539,0.815,https://api.spotify.com/v1/audio-analysis/4M4iR4GQcEnscz2XOC6CR2
+32gmty3CGZNwHOa9TVh2gI,LAUGHING CLOWNS 'Holy Joe',6,0.158,0.00502,0.728,https://api.spotify.com/v1/audio-analysis/32gmty3CGZNwHOa9TVh2gI
+7Mp7UUnndtW3AqHe01PL1Y,I Am the Crime,0,0.174,0.823,0.248,https://api.spotify.com/v1/audio-analysis/7Mp7UUnndtW3AqHe01PL1Y
+5GPhEnO0KLcy482Kh5PTG6,I Wanna Sleep With You,21,0.493,0.184,0.931,https://api.spotify.com/v1/audio-analysis/5GPhEnO0KLcy482Kh5PTG6
+6473yScawqW2fu9ZjIaxpr,In the Ghetto - 2009 Remastered Version,21,0.0875,0.153,0.351,https://api.spotify.com/v1/audio-analysis/6473yScawqW2fu9ZjIaxpr
+1Oymm8ZPqQBF4iibVIWJzJ,Infected,17,0.547,0.0121,0.951,https://api.spotify.com/v1/audio-analysis/1Oymm8ZPqQBF4iibVIWJzJ
+1ArJ1Lz2mC09wQRAGkDqOT,Into You Like a Train,24,0.14,5.28e-05,0.969,https://api.spotify.com/v1/audio-analysis/1ArJ1Lz2mC09wQRAGkDqOT
+79qdlwB0kYGcYiqluXTH6c,Life On the Line,0,0.594,0.0719,0.622,https://api.spotify.com/v1/audio-analysis/79qdlwB0kYGcYiqluXTH6c
+1bDaF4TZehedPNWk0daH34,Amphetamine Logic,28,0.537,0.0115,0.872,https://api.spotify.com/v1/audio-analysis/1bDaF4TZehedPNWk0daH34
+1Xhvo2g5Uj0rgogz9rYo8m,Looking from a Hilltop,27,0.696,0.0507,0.971,https://api.spotify.com/v1/audio-analysis/1Xhvo2g5Uj0rgogz9rYo8m
+6czcYWtqdxhwLOvPf5j24J,Medicine Show,13,0.799,0.584,0.561,https://api.spotify.com/v1/audio-analysis/6czcYWtqdxhwLOvPf5j24J
+6fx0q1FpZu91nPvJosFDkS,Memories In Future Tense - 2002 Digital Remaster,15,0.504,0.00537,0.805,https://api.spotify.com/v1/audio-analysis/6fx0q1FpZu91nPvJosFDkS
+7K9cVxTK7qMEz5tSLR9zCT,Midnight to Midnight,16,0.469,0.0543,0.814,https://api.spotify.com/v1/audio-analysis/7K9cVxTK7qMEz5tSLR9zCT
+0ItP3Nv8NMPqY6LnUyi70z,Mr. Clarinet,0,0.85,0.00981,0.683,https://api.spotify.com/v1/audio-analysis/0ItP3Nv8NMPqY6LnUyi70z
+4hvrLEqMHWR4troGbku7ZV,New Gold Dream (81/82/83/84) - Remastered 2002,47,0.732,6.05e-05,0.825,https://api.spotify.com/v1/audio-analysis/4hvrLEqMHWR4troGbku7ZV
+16c2qAzGJzfQeCEzg1gHpe,Glittering Prize,0,0.731,0.138,0.651,https://api.spotify.com/v1/audio-analysis/16c2qAzGJzfQeCEzg1gHpe
+2PrDvbfuaEzFaR1CHc7XXP,Nick The Stripper,0,0.558,0.00112,0.581,https://api.spotify.com/v1/audio-analysis/2PrDvbfuaEzFaR1CHc7XXP
+5alYxQFRX81yaY2GixZcNj,No Big Deal,0,0.603,0.000227,0.567,https://api.spotify.com/v1/audio-analysis/5alYxQFRX81yaY2GixZcNj
+1rJalHUpS9b3gDmgsaUSg2,People Are Strange,44,0.523,0.015,0.633,https://api.spotify.com/v1/audio-analysis/1rJalHUpS9b3gDmgsaUSg2
+77ETqz48jbmgL6Cp7LeJdo,Public Image,16,0.58,3.44e-05,0.883,https://api.spotify.com/v1/audio-analysis/77ETqz48jbmgL6Cp7LeJdo
+44K6H3ypkrciOKrw7e30F7,Reptile - 2005 Digital Remaster,33,0.495,0.0191,0.892,https://api.spotify.com/v1/audio-analysis/44K6H3ypkrciOKrw7e30F7
+6bjscKpoC34jTlKCbGfEZT,Revolution,0,0.347,0.000524,0.693,https://api.spotify.com/v1/audio-analysis/6bjscKpoC34jTlKCbGfEZT
+1CvFBy2ZQpFvX4VKCCokHR,Rise - Remastered 2011,17,0.748,0.00258,0.734,https://api.spotify.com/v1/audio-analysis/1CvFBy2ZQpFvX4VKCCokHR
+2g5j8XVpwitEh9LeVw2jRj,Rose Blue,0,0.412,0.0658,0.526,https://api.spotify.com/v1/audio-analysis/2g5j8XVpwitEh9LeVw2jRj
+3wVIENhUDKX5M07w6A7JqT,She Never Said - 2002 Digital Remaster,18,0.829,0.0241,0.766,https://api.spotify.com/v1/audio-analysis/3wVIENhUDKX5M07w6A7JqT
+0DtjLSIbyAZP81hsWN5dOq,She's In Parties,0,0.238,0.00204,0.625,https://api.spotify.com/v1/audio-analysis/0DtjLSIbyAZP81hsWN5dOq
+4Mb8P9tTaiaeJYfAaUJBor,Sick Of Love,17,0.39,0.0163,0.795,https://api.spotify.com/v1/audio-analysis/4Mb8P9tTaiaeJYfAaUJBor
+6URa5VxZUbSUa6ArzuRQNH,Sidewalking,19,0.474,5.3e-06,0.878,https://api.spotify.com/v1/audio-analysis/6URa5VxZUbSUa6ArzuRQNH
+1AvExk0siZqO5zIUYYzYX3,Skin Deep,40,0.773,0.149,0.814,https://api.spotify.com/v1/audio-analysis/1AvExk0siZqO5zIUYYzYX3
+37Y7k1wpAMk86TTRrwhIsC,Sweet Bird Of Truth,24,0.405,0.396,0.814,https://api.spotify.com/v1/audio-analysis/37Y7k1wpAMk86TTRrwhIsC
+5igtcGicAsO0kllTxDe5U4,Terror Couple Kill Colonel,0,0.721,0.00249,0.583,https://api.spotify.com/v1/audio-analysis/5igtcGicAsO0kllTxDe5U4
+6Q9Ynb2RM6IIhDf0gbxXrJ,Adams: Shaker Loops: I. Shaking and Trembling,9,0.0695,0.964,0.146,https://api.spotify.com/v1/audio-analysis/6Q9Ynb2RM6IIhDf0gbxXrJ
+1zHYx2or67TeULOpoCuH88,The Four Sections (II),0,0.218,0.961,0.234,https://api.spotify.com/v1/audio-analysis/1zHYx2or67TeULOpoCuH88
+0X2h4FHssSmeXZZaXhSivA,Firn,4,0.982,0.952,0.325,https://api.spotify.com/v1/audio-analysis/0X2h4FHssSmeXZZaXhSivA
+21wqJ1XBYVIc4Bf8MNTNVa,Exurgency,0,0.514,0.925,0.279,https://api.spotify.com/v1/audio-analysis/21wqJ1XBYVIc4Bf8MNTNVa
+3iNnUmxshamXnmWLrwNJ4J,Tight Sweater: VI. Mechanically Separated Chicken Parts,1,0.943,0.527,0.661,https://api.spotify.com/v1/audio-analysis/3iNnUmxshamXnmWLrwNJ4J
+1TU0W5Jw39oxHjwNfu4le1,"Glasspiece No. 1 (""Rubric"" from Glassworks)",12,0.76,0.688,0.562,https://api.spotify.com/v1/audio-analysis/1TU0W5Jw39oxHjwNfu4le1
+0FlBKsDKBCFoYwmg1L0vS0,In the Upper Room: Dance VIII,21,0.214,0.988,0.173,https://api.spotify.com/v1/audio-analysis/0FlBKsDKBCFoYwmg1L0vS0
+01e5hRr3UOuhCNJOOTIB8d,Legions (War),0,0.254,0.767,0.312,https://api.spotify.com/v1/audio-analysis/01e5hRr3UOuhCNJOOTIB8d
+1Kr3v8c2A1K8zPamRj8mQg,Rode Null,0,0.755,0.912,0.276,https://api.spotify.com/v1/audio-analysis/1Kr3v8c2A1K8zPamRj8mQg
+08fLAMaoYLj51XbYdKEEwL,Different Trains: III. After the War,0,0.347,0.985,0.134,https://api.spotify.com/v1/audio-analysis/08fLAMaoYLj51XbYdKEEwL
+4N9NjVwq7zrmEQpaDqH5IV,Floe,25,0.192,0.614,0.572,https://api.spotify.com/v1/audio-analysis/4N9NjVwq7zrmEQpaDqH5IV
+4WoBuigJTL16UP0aAIqhPa,Climb,3,0.132,0.828,0.201,https://api.spotify.com/v1/audio-analysis/4WoBuigJTL16UP0aAIqhPa
+47aMbtetHwI7tLR9Z7iec7,Summer Overture,43,0.0424,0.93,0.232,https://api.spotify.com/v1/audio-analysis/47aMbtetHwI7tLR9Z7iec7
+1XGsj1tkyGJtE3C2Cc9VYT,Frosti,39,0.133,0.615,0.353,https://api.spotify.com/v1/audio-analysis/1XGsj1tkyGJtE3C2Cc9VYT
+3rOXySzI3GMhvlszBni7N8,Arlanda,18,0.332,0.905,0.0585,https://api.spotify.com/v1/audio-analysis/3rOXySzI3GMhvlszBni7N8
+4aRZ1QEXjSGvxd2H5P2os1,Untitled - Figures,0,0.173,0.76,0.584,https://api.spotify.com/v1/audio-analysis/4aRZ1QEXjSGvxd2H5P2os1
+655p2fhi1Zb6VI2creD0ZJ,Wallflower,0,0.114,0.985,0.148,https://api.spotify.com/v1/audio-analysis/655p2fhi1Zb6VI2creD0ZJ
+52fI21m7OXcKZjxwkEaSaJ,Sketchbook,0,0.149,0.893,0.151,https://api.spotify.com/v1/audio-analysis/52fI21m7OXcKZjxwkEaSaJ
+0euraO0mUN3pDX8ZfNQVzY,Tight Sweater: I. Exposed Zipper,1,0.861,0.974,0.517,https://api.spotify.com/v1/audio-analysis/0euraO0mUN3pDX8ZfNQVzY
+1zUUX0Lyv3heQRM9vAAQRv,Ritournelle,0,0.138,0.671,0.408,https://api.spotify.com/v1/audio-analysis/1zUUX0Lyv3heQRM9vAAQRv
+1f1dy9d7NBlbd6eHtz9wxQ,ShoeStrings,25,0.121,0.862,0.035,https://api.spotify.com/v1/audio-analysis/1f1dy9d7NBlbd6eHtz9wxQ
+3qF9WLEnhK9cX5ol9sNut0,Fanes D'automne,0,0.0347,0.866,0.174,https://api.spotify.com/v1/audio-analysis/3qF9WLEnhK9cX5ol9sNut0
+2GIcm0qv9Jev4yUFG66uoR,Agu: II. The Triumph of the Water Witch,0,0.884,0.336,0.897,https://api.spotify.com/v1/audio-analysis/2GIcm0qv9Jev4yUFG66uoR
+4KJHTdyIUdhKEuZdV3UuWR,Séduction,49,0.401,0.989,0.193,https://api.spotify.com/v1/audio-analysis/4KJHTdyIUdhKEuZdV3UuWR
+2G2dH62tGYBIQ80hEvBUGZ,Etude 1,23,0.31,0.736,0.224,https://api.spotify.com/v1/audio-analysis/2G2dH62tGYBIQ80hEvBUGZ
+2eZdPIU4q18Ln2NELTPhwI,"Canto Ostinato, Pt. 1: Section 1",8,0.198,0.996,0.0294,https://api.spotify.com/v1/audio-analysis/2eZdPIU4q18Ln2NELTPhwI
+4COPosRD46LkQLd2UTbl3r,Four Studies: I. Suspensions,8,0.0296,0.981,0.0494,https://api.spotify.com/v1/audio-analysis/4COPosRD46LkQLd2UTbl3r
+3unXwWwUUHDCjmkHv8uCuz,The Things Left Unsaid,12,0.0382,0.946,0.0447,https://api.spotify.com/v1/audio-analysis/3unXwWwUUHDCjmkHv8uCuz
+7DRBt7kuse6y3IxtdNP97t,Murder Ballades: Omie Wise,11,0.485,0.969,0.229,https://api.spotify.com/v1/audio-analysis/7DRBt7kuse6y3IxtdNP97t
+1XbIyPrZQjOg4bmEgs9Vck,"String Quartet No. 3 ""Mishima"": I. 1957 Award Montage",9,0.251,0.737,0.298,https://api.spotify.com/v1/audio-analysis/1XbIyPrZQjOg4bmEgs9Vck
+75pLf8RRedu1v453XRVa58,"Clearing, Dawn, Dance",0,0.302,0.963,0.291,https://api.spotify.com/v1/audio-analysis/75pLf8RRedu1v453XRVa58
+7a5J1W28QflBcIbbsWZwdV,Veloma,0,0.199,0.98,0.122,https://api.spotify.com/v1/audio-analysis/7a5J1W28QflBcIbbsWZwdV
+7ILJBfImlRWUV8K58R0nZl,Piano & Violoncello 1,0,0.038,0.988,0.096,https://api.spotify.com/v1/audio-analysis/7ILJBfImlRWUV8K58R0nZl
+3MpLe08vBCCEW9MX44aYrI,Riverside - Piano Sessions,0,0.0601,0.976,0.293,https://api.spotify.com/v1/audio-analysis/3MpLe08vBCCEW9MX44aYrI
+7vMYlYEwHJzoty4G6rk1Sy,Diamond Music,35,0.046,0.971,0.347,https://api.spotify.com/v1/audio-analysis/7vMYlYEwHJzoty4G6rk1Sy
+4zQXSq7vloV7R5bHtNgPcb,Dig The Say,1,0.356,0.821,0.481,https://api.spotify.com/v1/audio-analysis/4zQXSq7vloV7R5bHtNgPcb
+0PuxFPoTO5Ox8JLxO7JuZX,Erupting Light,0,0.142,0.927,0.256,https://api.spotify.com/v1/audio-analysis/0PuxFPoTO5Ox8JLxO7JuZX
+3J8OXoeYnqXLme7bboR8vl,"Piano Concerto No. 4, Op. 130, ""Aurora Borealis"": III. Fading away in the bright night of spring",3,0.0356,0.961,0.0553,https://api.spotify.com/v1/audio-analysis/3J8OXoeYnqXLme7bboR8vl
+1qDPPx7pzln3Sh43WPEiwv,#283,10,0.176,0.952,0.188,https://api.spotify.com/v1/audio-analysis/1qDPPx7pzln3Sh43WPEiwv
+5rmQJTsLtBF6at1gvGifE3,Snow Again,0,0.325,0.977,0.111,https://api.spotify.com/v1/audio-analysis/5rmQJTsLtBF6at1gvGifE3
+2JAPN0EiNuHoxO0BneCdaR,The Dharma at Big Sur: Pt. I - A New Day,3,0.06,0.929,0.0714,https://api.spotify.com/v1/audio-analysis/2JAPN0EiNuHoxO0BneCdaR
+5qmS5EqvGvp0fh7xhvF20f,Wegzuwünschen,0,0.487,0.987,0.359,https://api.spotify.com/v1/audio-analysis/5qmS5EqvGvp0fh7xhvF20f
+5MDJbXr15qiv7YFp6mB6sb,Quartet: III. Fast,2,0.331,0.935,0.414,https://api.spotify.com/v1/audio-analysis/5MDJbXr15qiv7YFp6mB6sb
+0KV8WVoSvWicgmqchhMzhw,Trio sur des mélodies populaires Irlandaises: I. Allegro,0,0.593,0.964,0.261,https://api.spotify.com/v1/audio-analysis/0KV8WVoSvWicgmqchhMzhw
+6PFO2EXkFeyF43p3eitQse,String Quartet No. 6: Movement II,5,0.0719,0.926,0.228,https://api.spotify.com/v1/audio-analysis/6PFO2EXkFeyF43p3eitQse
+7DAhjqkbTfDonxdRgXSrRU,Red Virgin Soil,0,0.772,0.782,0.293,https://api.spotify.com/v1/audio-analysis/7DAhjqkbTfDonxdRgXSrRU
+1s8QldGAhEcobxBdtjUhPf,Light Moving,22,0.965,0.95,0.102,https://api.spotify.com/v1/audio-analysis/1s8QldGAhEcobxBdtjUhPf
+6TZQ85pC5ZIyHsI4MxDxzm,Because This Must Be,0,0.0706,0.995,0.0777,https://api.spotify.com/v1/audio-analysis/6TZQ85pC5ZIyHsI4MxDxzm
+1iQJcZ93PwYwTUwPzRVhCB,Medan vinden tog ljudet ifrån oss,0,0.272,0.994,0.111,https://api.spotify.com/v1/audio-analysis/1iQJcZ93PwYwTUwPzRVhCB
+5oGc3vAHn2LQI17rMn1znd,Metamorphosis: Metamorphosis Two - Metamorphosis Two,29,0.0406,0.991,0.0062,https://api.spotify.com/v1/audio-analysis/5oGc3vAHn2LQI17rMn1znd
+58afZNIprMtR5n11KpZkBp,Ellis Island,0,0.516,0.996,0.0616,https://api.spotify.com/v1/audio-analysis/58afZNIprMtR5n11KpZkBp
+5auxPiQ8ouJWE1Pe3SWhOc,Clockworking,14,0.034,0.815,0.161,https://api.spotify.com/v1/audio-analysis/5auxPiQ8ouJWE1Pe3SWhOc
+3rWlLTvSn1n72UsmBnrqSC,The Currents,9,0.0377,0.987,0.149,https://api.spotify.com/v1/audio-analysis/3rWlLTvSn1n72UsmBnrqSC
+6U3nO8BYsdzxijDpAZZtjg,Lush Intrinsic (2009),8,0.136,0.93,0.484,https://api.spotify.com/v1/audio-analysis/6U3nO8BYsdzxijDpAZZtjg
+2SZJyKJgQfAFdumuNV0KYG,Birdwoman,0,0.0417,0.981,0.0925,https://api.spotify.com/v1/audio-analysis/2SZJyKJgQfAFdumuNV0KYG
+4nZvncYBLSUGXlJ9nqNGUT,Part 2,0,0.0352,0.594,0.178,https://api.spotify.com/v1/audio-analysis/4nZvncYBLSUGXlJ9nqNGUT
+2jrneBLyicq5Z8sy9WpjEB,Threads: I. Prelude -,19,0.0601,0.963,0.0845,https://api.spotify.com/v1/audio-analysis/2jrneBLyicq5Z8sy9WpjEB
+3Td7OJyGyrApKKubGaauA1,"We Played Some Open Chords And Rejoiced, For The Earth Had Circled The Sun Yet Another Year",0,0.0312,0.898,0.0249,https://api.spotify.com/v1/audio-analysis/3Td7OJyGyrApKKubGaauA1
+53eOb7xyeoTWTGbK3cPHF5,all is white,10,0.0574,0.991,0.375,https://api.spotify.com/v1/audio-analysis/53eOb7xyeoTWTGbK3cPHF5
+2C0XIz42m7EhSkAKzYd2C2,Erased Duet,0,0.387,0.777,0.237,https://api.spotify.com/v1/audio-analysis/2C0XIz42m7EhSkAKzYd2C2
+5G6E55eG8tvQrwlSAee9bh,Aheym,19,0.632,0.945,0.373,https://api.spotify.com/v1/audio-analysis/5G6E55eG8tvQrwlSAee9bh
+5E2wlgMYpaurDYcqaAATru,Systems / Layers,0,0.0358,0.995,0.0514,https://api.spotify.com/v1/audio-analysis/5E2wlgMYpaurDYcqaAATru
+0Mlizpk33RG8ZoEy7vbt38,Double Portrait,10,0.384,0.994,0.183,https://api.spotify.com/v1/audio-analysis/0Mlizpk33RG8ZoEy7vbt38
+1XCZpT1N99FvmHtfZxBFoW,The Wind in High Places: II. Maclaren Summit,14,0.174,0.986,0.083,https://api.spotify.com/v1/audio-analysis/1XCZpT1N99FvmHtfZxBFoW
+0c5SPry2XKSUvtUowBHBwv,Spin Bird - 1,0,0.0275,0.994,0.0272,https://api.spotify.com/v1/audio-analysis/0c5SPry2XKSUvtUowBHBwv
+77hYBIovOglMHZV6IIo1Mf,"Harpsichord Concerto, Op. 40: II. Vivace",7,0.51,0.866,0.858,https://api.spotify.com/v1/audio-analysis/77hYBIovOglMHZV6IIo1Mf
+0oJo4Wsh3NPfuOXPvliNVK,Beautiful Mechanical,11,0.768,0.975,0.412,https://api.spotify.com/v1/audio-analysis/0oJo4Wsh3NPfuOXPvliNVK
+7mfoM8tQndjDrcMqkdbJfU,"Piano Sonata No. 7 in B-Flat Major, Op. 83: III. Precipitato",10,0.438,0.987,0.391,https://api.spotify.com/v1/audio-analysis/7mfoM8tQndjDrcMqkdbJfU
+0GbhHbTPV5XkpnahXvWhQX,"Litanies, AWV 100 (Arr. M. Norrefalk)",0,0.0617,0.286,0.258,https://api.spotify.com/v1/audio-analysis/0GbhHbTPV5XkpnahXvWhQX
+4IiUAdcusUeMZOzUZbqmgB,"Fratres - Version for Violin, Strings and Percussion",10,0.0328,0.562,0.0402,https://api.spotify.com/v1/audio-analysis/4IiUAdcusUeMZOzUZbqmgB
+6zyRNdOZbIX9U2LszJf8mq,Anthracite Fields: IV. Flowers,33,0.0366,0.937,0.3,https://api.spotify.com/v1/audio-analysis/6zyRNdOZbIX9U2LszJf8mq
+1hYDvhfzy6BBeCOkc24htY,Unwillen-nichtwollen,0,0.573,0.934,0.462,https://api.spotify.com/v1/audio-analysis/1hYDvhfzy6BBeCOkc24htY
+3FMv5IC5wxQbPp8UPfUS2f,Entr'acte,26,0.0397,0.94,0.0323,https://api.spotify.com/v1/audio-analysis/3FMv5IC5wxQbPp8UPfUS2f
+66LEJoJQeNBwgCutDAc81g,"This Is the Hour of Lead: No. 1. After great pain, a formal feeling comes",3,0.0323,0.985,0.0846,https://api.spotify.com/v1/audio-analysis/66LEJoJQeNBwgCutDAc81g
+2zKqrmNdj8oIgzBnLWBumi,Suspire,41,0.0567,0.994,0.0549,https://api.spotify.com/v1/audio-analysis/2zKqrmNdj8oIgzBnLWBumi
+52JvgPWudX0nTdhlRSZXT4,"3 Klavierstucke, Op. 11: No. 1. Massig",20,0.121,0.99,0.00377,https://api.spotify.com/v1/audio-analysis/52JvgPWudX0nTdhlRSZXT4
+4rCjX8MpATh0rxtuPry563,Presto in C Major,25,0.389,0.929,0.0892,https://api.spotify.com/v1/audio-analysis/4rCjX8MpATh0rxtuPry563
+7nj1JFzao15Sn6qRxUj8SO,Cycle Goddess,10,0.0306,1.52e-06,0.523,https://api.spotify.com/v1/audio-analysis/7nj1JFzao15Sn6qRxUj8SO
+1SVlV0BzsBUFIE8jS7C2tu,Turn You Cry,12,0.221,2.25e-06,0.365,https://api.spotify.com/v1/audio-analysis/1SVlV0BzsBUFIE8jS7C2tu
+0DMzzZdDJUQ3epRkd0UIQP,Cotton Top,8,0.3,1.67e-06,0.862,https://api.spotify.com/v1/audio-analysis/0DMzzZdDJUQ3epRkd0UIQP
+1KdfFuSeAdCmO1izUpashK,Last Rights,6,0.204,1.87e-06,0.448,https://api.spotify.com/v1/audio-analysis/1KdfFuSeAdCmO1izUpashK
+5uRonVKvEm8dDWkeD8jHQM,Wipe Out,6,0.0395,1.74e-06,0.933,https://api.spotify.com/v1/audio-analysis/5uRonVKvEm8dDWkeD8jHQM
+2xAIQz8CusWX3dzBpqYKSD,Pop Sicle,7,0.12,1.1e-06,0.929,https://api.spotify.com/v1/audio-analysis/2xAIQz8CusWX3dzBpqYKSD
+78kmrI4a67CYfsYA9jNUyi,February 22 1991,2,0.0507,0.197,0.672,https://api.spotify.com/v1/audio-analysis/78kmrI4a67CYfsYA9jNUyi
+6U2WqufPL3WmRbDFmRz6vX,Mainliner,4,0.59,0.0465,0.805,https://api.spotify.com/v1/audio-analysis/6U2WqufPL3WmRbDFmRz6vX
+0xduHvC6Cj3bCeexgu2Vry,Tama Yura,1,0.151,0.633,0.378,https://api.spotify.com/v1/audio-analysis/0xduHvC6Cj3bCeexgu2Vry
+4lT8uRYERQrGlBcK2o4dMW,Blind Promise (Alternate Take),2,0.437,2.81e-05,0.97,https://api.spotify.com/v1/audio-analysis/4lT8uRYERQrGlBcK2o4dMW
+1lAVkhvoyiuzFuycJO3jx0,Here-You,3,0.274,2.58e-06,0.778,https://api.spotify.com/v1/audio-analysis/1lAVkhvoyiuzFuycJO3jx0
+7M1he8LwIrLQKP3Ui9UYPc,End of Dawn,1,0.0895,0.437,0.399,https://api.spotify.com/v1/audio-analysis/7M1he8LwIrLQKP3Ui9UYPc
+6LUGpR4m4wEDj6Lt1cGqml,SATORI PART 1,1,0.274,0.0169,0.654,https://api.spotify.com/v1/audio-analysis/6LUGpR4m4wEDj6Lt1cGqml
+0y4Cw84uFtxXFszLMQwdvh,SATORI PART 2,0,0.664,6.93e-05,0.691,https://api.spotify.com/v1/audio-analysis/0y4Cw84uFtxXFszLMQwdvh
+7gbcNoCuAtxztL4dsKZ8dA,SATORI PART 3,0,0.037,0.000302,0.521,https://api.spotify.com/v1/audio-analysis/7gbcNoCuAtxztL4dsKZ8dA
+12u24ZnCJ2Iqc72NEX0ai9,SATORI PART 4,0,0.541,0.00423,0.805,https://api.spotify.com/v1/audio-analysis/12u24ZnCJ2Iqc72NEX0ai9
+1jvBgPEU9cUo7eivOvlurm,SATORI PART 5,0,0.526,0.0652,0.666,https://api.spotify.com/v1/audio-analysis/1jvBgPEU9cUo7eivOvlurm
+1TzUwyNf20tBwT0rMTFcXr,あなたもスターになれる,3,0.762,0.12,0.836,https://api.spotify.com/v1/audio-analysis/1TzUwyNf20tBwT0rMTFcXr
+44YmZqshC2tv4pnv1gyHQr,ひびけ電気釜!!,1,0.859,0.225,0.832,https://api.spotify.com/v1/audio-analysis/44YmZqshC2tv4pnv1gyHQr
+7a0jH9m5Ce4aWT2rzWREoV,痴漢になった少年,1,0.764,0.375,0.782,https://api.spotify.com/v1/audio-analysis/7a0jH9m5Ce4aWT2rzWREoV
+1mjZHh8pyMXxCN4QGGGbnu,股の下を通りすぎるとそこは紅い海だった,1,0.262,0.73,0.122,https://api.spotify.com/v1/audio-analysis/1mjZHh8pyMXxCN4QGGGbnu
+4aQUtqORIYRjBuFoXUihQ8,パンティストッキングのような空,2,0.81,0.672,0.436,https://api.spotify.com/v1/audio-analysis/4aQUtqORIYRjBuFoXUihQ8
+48M5XMnySHT5hupIHPNtqa,一人の女のフィナーレ,1,0.316,0.882,0.282,https://api.spotify.com/v1/audio-analysis/48M5XMnySHT5hupIHPNtqa
+6W9daCEIX0guxilIP0Ned5,昭和の大飢餓予告編,1,0.344,0.749,0.382,https://api.spotify.com/v1/audio-analysis/6W9daCEIX0guxilIP0Ned5
+2wEYNrngYOTd04FlIIMVPL,誰を怨めばいいのでございましょうか,2,0.68,0.101,0.66,https://api.spotify.com/v1/audio-analysis/2wEYNrngYOTd04FlIIMVPL
+3iz6PPM1eI8uzrc5uNijwg,故郷へ帰ったら,1,0.605,0.471,0.401,https://api.spotify.com/v1/audio-analysis/3iz6PPM1eI8uzrc5uNijwg
+1kgSQOta7RzvA93LlcFxOF,気狂い,1,0.48,0.201,0.355,https://api.spotify.com/v1/audio-analysis/1kgSQOta7RzvA93LlcFxOF
+0kMr2RXFcbmLFnXYxCMpkS,夜中の2時,1,0.6,0.346,0.421,https://api.spotify.com/v1/audio-analysis/0kMr2RXFcbmLFnXYxCMpkS
+7yz4B7zqePneUX4tYkXbSc,五所川原の日々,1,0.343,0.873,0.0488,https://api.spotify.com/v1/audio-analysis/7yz4B7zqePneUX4tYkXbSc
+3R4Bdl8txcNG94KB3UIw6U,青森県北津軽郡東京村,1,0.709,0.106,0.806,https://api.spotify.com/v1/audio-analysis/3R4Bdl8txcNG94KB3UIw6U
+3LvFah3mKHKIg9rNqbP6As,葬式,1,0.779,0.683,0.838,https://api.spotify.com/v1/audio-analysis/3LvFah3mKHKIg9rNqbP6As
+2dalEyUD2IyecoT5Vno10X,Intro,0,0.139,0.00438,0.731,https://api.spotify.com/v1/audio-analysis/2dalEyUD2IyecoT5Vno10X
+1LzPz7s1ZBdQ7YsObErbo3,Freedom Jazz Dance,0,0.386,0.0561,0.967,https://api.spotify.com/v1/audio-analysis/1LzPz7s1ZBdQ7YsObErbo3
+25r1kLlEsioHHBYuaS1GBy,I Don't Like Hiphop,0,0.406,0.518,0.912,https://api.spotify.com/v1/audio-analysis/25r1kLlEsioHHBYuaS1GBy
+4Ah3dS6d9TdwHzl0fTzvGQ,言葉のない詩,0,0.726,0.176,0.878,https://api.spotify.com/v1/audio-analysis/4Ah3dS6d9TdwHzl0fTzvGQ
+38GUD37WWjtxzlszh1r05s,踊らされた人間,0,0.907,0.427,0.849,https://api.spotify.com/v1/audio-analysis/38GUD37WWjtxzlszh1r05s
+3HUESlDdAWWcpuH7F7x8fS,MCタクヤ,0,0.714,0.531,0.815,https://api.spotify.com/v1/audio-analysis/3HUESlDdAWWcpuH7F7x8fS
+7DdQL99wog1yXXvNYhpejA,セルアウトをする気分を味わおう♪,0,0.611,0.0276,0.569,https://api.spotify.com/v1/audio-analysis/7DdQL99wog1yXXvNYhpejA
+1jNSwWDz0pQ5QhYv44wS5N,何もかも自主制作の為に,0,0.65,0.825,0.901,https://api.spotify.com/v1/audio-analysis/1jNSwWDz0pQ5QhYv44wS5N
+4390EpPuzjxy80UQJp3aol,レコード販売店と私,0,0.589,0.38,0.905,https://api.spotify.com/v1/audio-analysis/4390EpPuzjxy80UQJp3aol
+3ouLtiQoXZLEhXroSHJ27e,僕は評価されない音楽家,0,0.395,0.474,0.925,https://api.spotify.com/v1/audio-analysis/3ouLtiQoXZLEhXroSHJ27e
+3Mzsvy0kwlJTKpCAfDOVPF,私が元いたグループは,0,0.869,0.719,0.933,https://api.spotify.com/v1/audio-analysis/3Mzsvy0kwlJTKpCAfDOVPF
+5aTK6189558siGAcIszBmv,お金に繋がらない音楽こそ魅力的,0,0.464,0.647,0.838,https://api.spotify.com/v1/audio-analysis/5aTK6189558siGAcIszBmv
+0zFUtWhlvEBHqUZVlsi4v9,耳を疑うフロウ,0,0.415,0.0258,0.73,https://api.spotify.com/v1/audio-analysis/0zFUtWhlvEBHqUZVlsi4v9
+7jjcDEFc85rHfDDdMeOYo2,術ノジャズ,0,0.564,0.00165,0.754,https://api.spotify.com/v1/audio-analysis/7jjcDEFc85rHfDDdMeOYo2
+0d4ND6icS0i4aeeHbj6jfU,俺の音楽は,0,0.458,0.234,0.795,https://api.spotify.com/v1/audio-analysis/0d4ND6icS0i4aeeHbj6jfU
+0DoGL1rHUTkt5hEtolLF1E,愛するが故に私が出来る事,0,0.312,0.214,0.937,https://api.spotify.com/v1/audio-analysis/0DoGL1rHUTkt5hEtolLF1E
+26JC347Xx1zfiRBPzRFLug,Outro,0,0.0865,0.981,0.166,https://api.spotify.com/v1/audio-analysis/26JC347Xx1zfiRBPzRFLug
+1GhzagQmWDsi7HJOpqLmcy,RUN AND HIDE - 2017 Remaster,11,0.369,0.00101,0.721,https://api.spotify.com/v1/audio-analysis/1GhzagQmWDsi7HJOpqLmcy
+5xPaEXL7vdv1iQiLjlLz43,BAD WOMAN - 2017 Remaster,10,0.591,0.0235,0.719,https://api.spotify.com/v1/audio-analysis/5xPaEXL7vdv1iQiLjlLz43
+0PSetJcgH4cW0knobgdOC5,RED DOLL - 2017 Remaster,8,0.221,0.0536,0.461,https://api.spotify.com/v1/audio-analysis/0PSetJcgH4cW0knobgdOC5
+4iXsLqjRL1lYuZQYQl0lUr,FLAT FRET SWING - 2017 Remaster,6,0.505,0.000464,0.606,https://api.spotify.com/v1/audio-analysis/4iXsLqjRL1lYuZQYQl0lUr
+1nkcHXxNTUx9Iu9xqoJDQK,SNIFFIN' & SNORTIN' Pt.2 (VITAMINE C) [2017 Remaster],8,0.652,0.0378,0.87,https://api.spotify.com/v1/audio-analysis/1nkcHXxNTUx9Iu9xqoJDQK
+3xjajrcON3jv5s2psLKGs4,DON'T SAY NO - 2017 Remaster,35,0.281,0.000224,0.493,https://api.spotify.com/v1/audio-analysis/3xjajrcON3jv5s2psLKGs4
+3r8XtX4CUtwo0BRq3QnWr1,CALM DOWN - 2017 Remaster,7,0.279,0.0452,0.562,https://api.spotify.com/v1/audio-analysis/3r8XtX4CUtwo0BRq3QnWr1
+6GlGqKqCLrwVLojczFPl9x,DOODLE SONG - 2017 Remaster,10,0.159,0.0515,0.0709,https://api.spotify.com/v1/audio-analysis/6GlGqKqCLrwVLojczFPl9x
+26NrMc4RoJRX02JUKniJpo,SEARCH FOR LOVE - 2017 Remaster,6,0.276,0.0475,0.652,https://api.spotify.com/v1/audio-analysis/26NrMc4RoJRX02JUKniJpo
+4SGQg6QaO4RJOc78QPkaqC,CHUPPY - 2017 Remaster,11,0.714,0.913,0.658,https://api.spotify.com/v1/audio-analysis/4SGQg6QaO4RJOc78QPkaqC
+7cV38UQ1TRg85xeUyTAcU7,WANNA TAKE YOU HOME - 2017 Remaster,6,0.663,0.126,0.471,https://api.spotify.com/v1/audio-analysis/7cV38UQ1TRg85xeUyTAcU7
+74qoPLlKlElefIJW6aBykx,SUN / PLANETS / LIFE / MOON (2017 Remaster),4,0.0449,0.0265,0.156,https://api.spotify.com/v1/audio-analysis/74qoPLlKlElefIJW6aBykx
+2pXalEhwnApfjBlSG2LDEB,SONG FOR AN ANGEL - 2017 Remaster,4,0.499,6.97e-06,0.303,https://api.spotify.com/v1/audio-analysis/2pXalEhwnApfjBlSG2LDEB
+1M18uLLN5R36OMJUaUtzc4,The Dark Sea Dream,11,0.171,0.796,0.407,https://api.spotify.com/v1/audio-analysis/1M18uLLN5R36OMJUaUtzc4
+3aRhvztaZNJbpkQyLa0EjS,Requiem Of Confusion,18,0.504,0.0169,0.49,https://api.spotify.com/v1/audio-analysis/3aRhvztaZNJbpkQyLa0EjS
+3WiNS1sFK5Ze6DfS6aCy4A,Freedom Of A Mad Piper Lantern,13,0.731,0.255,0.277,https://api.spotify.com/v1/audio-analysis/3WiNS1sFK5Ze6DfS6aCy4A
+6dQAYeoVpcZKPLTrHYOKc0,Corpse,16,0.281,0.307,0.406,https://api.spotify.com/v1/audio-analysis/6dQAYeoVpcZKPLTrHYOKc0
+2fJt7tDynuwUiCjtO3cIai,Farewell To Hypocrites,10,0.459,0.000631,0.819,https://api.spotify.com/v1/audio-analysis/2fJt7tDynuwUiCjtO3cIai
+4TNpc5Jrfs8tXDAXB8jwMz,Part A,0,0.0359,0.434,0.486,https://api.spotify.com/v1/audio-analysis/4TNpc5Jrfs8tXDAXB8jwMz
+6gk6DWYGuyXjRnh4NoNnJd,Part B,0,0.0343,0.644,0.843,https://api.spotify.com/v1/audio-analysis/6gk6DWYGuyXjRnh4NoNnJd
+2JGr0l5XRqSJg4IpZGhsxy,Part C,0,0.0394,0.771,0.668,https://api.spotify.com/v1/audio-analysis/2JGr0l5XRqSJg4IpZGhsxy
+4iwFPtOOQxUbYpyb7aY42v,Part D,0,0.0767,0.72,0.496,https://api.spotify.com/v1/audio-analysis/4iwFPtOOQxUbYpyb7aY42v
+5osKv1akGB0Xl7SSPZq2Mj,Part E,0,0.171,0.893,0.392,https://api.spotify.com/v1/audio-analysis/5osKv1akGB0Xl7SSPZq2Mj
+0vsnM7gfhO6zUoHczbZp4J,Part F,0,0.0327,0.475,0.818,https://api.spotify.com/v1/audio-analysis/0vsnM7gfhO6zUoHczbZp4J
+455CX4R42cS33b8KRFKiaz,Part G,0,0.0558,0.48,0.809,https://api.spotify.com/v1/audio-analysis/455CX4R42cS33b8KRFKiaz
+34urM0UT52aOCK7l1EKBsp,Part H,0,0.0804,0.0397,0.795,https://api.spotify.com/v1/audio-analysis/34urM0UT52aOCK7l1EKBsp
+43gyAEOrpq16uLheOUPWbI,Kizashi,1,0.0335,0.302,0.98,https://api.spotify.com/v1/audio-analysis/43gyAEOrpq16uLheOUPWbI
+1A8jNr5f4iKBuzqfRfi2FV,Which One Is The Shadow,1,0.106,0.0106,0.994,https://api.spotify.com/v1/audio-analysis/1A8jNr5f4iKBuzqfRfi2FV
+46tJcAyjH36iA8qyxAOTQH,Winter Lovers,0,0.0338,0.00917,0.997,https://api.spotify.com/v1/audio-analysis/46tJcAyjH36iA8qyxAOTQH
+6ZjrkZbrqFu9S3rNr2EkHq,Le Few Follet,0,0.304,0.359,0.976,https://api.spotify.com/v1/audio-analysis/6ZjrkZbrqFu9S3rNr2EkHq
+4oYoDeaIVRyfZ5QXiAyoex,Mirror,0,0.617,2.06e-05,0.931,https://api.spotify.com/v1/audio-analysis/4oYoDeaIVRyfZ5QXiAyoex
+57j8BLPIyUUs64SKi7XTs3,Le Fantome De La Liberte,0,0.101,8.24e-05,0.923,https://api.spotify.com/v1/audio-analysis/57j8BLPIyUUs64SKi7XTs3
+0aMj83qFB9S83NnL1qoqOs,Then The Ship Was Sunk,0,0.217,0.132,0.614,https://api.spotify.com/v1/audio-analysis/0aMj83qFB9S83NnL1qoqOs
+75SE7jcMgar2q5ris66GQj,Barcelona,0,0.126,0.909,0.614,https://api.spotify.com/v1/audio-analysis/75SE7jcMgar2q5ris66GQj
+63R1LNnkngaxYB0cQmZ3Eb,Tokyo Zero Fighter,0,0.0629,0.00397,0.884,https://api.spotify.com/v1/audio-analysis/63R1LNnkngaxYB0cQmZ3Eb
+6GkmU5Sc26r6pP0UFv2vIh,Cut Up Us,0,0.084,0.00443,0.767,https://api.spotify.com/v1/audio-analysis/6GkmU5Sc26r6pP0UFv2vIh
+7FULYHQYSiblcKxMdsagsa,Who Are You?,0,0.0817,0.083,0.902,https://api.spotify.com/v1/audio-analysis/7FULYHQYSiblcKxMdsagsa
+0L4wL3CtmtyZ6Bzqs3DoIM,Tokyo Zero-Fighter,0,0.252,0.039,0.917,https://api.spotify.com/v1/audio-analysis/0L4wL3CtmtyZ6Bzqs3DoIM
+2fvmYGRHz8n13bahE4c8iK,Marseille,0,0.366,0.107,0.424,https://api.spotify.com/v1/audio-analysis/2fvmYGRHz8n13bahE4c8iK
+0MRvOGrRXmQIbPa8x2Eopq,Pyramid,0,0.391,0.00293,0.916,https://api.spotify.com/v1/audio-analysis/0MRvOGrRXmQIbPa8x2Eopq
+6qzuJto7ys2qcQ70K8jzGy,Ohkami Sasori Daichi No Kiba,0,0.19,0.784,0.454,https://api.spotify.com/v1/audio-analysis/6qzuJto7ys2qcQ70K8jzGy
+2wydlv153RcXIRReWxRxcd,The Sea Roars,0,0.0737,0.915,0.0941,https://api.spotify.com/v1/audio-analysis/2wydlv153RcXIRReWxRxcd
+2Fhg3Qt7zTEvyWo0wZBZ4f,A Gust Of Wind,0,0.421,0.894,0.276,https://api.spotify.com/v1/audio-analysis/2Fhg3Qt7zTEvyWo0wZBZ4f
+36qG7jcEnTPUBjp1h7HKFV,Wareta Kagamii No Nakakara,0,0.161,0.0186,0.527,https://api.spotify.com/v1/audio-analysis/36qG7jcEnTPUBjp1h7HKFV
+5phUUFGuoEzYcmycpS3HGg,Prayer Of A Fool,0,0.16,0.685,0.551,https://api.spotify.com/v1/audio-analysis/5phUUFGuoEzYcmycpS3HGg
+6pkPDBh5FmEEmEJ0BMBAgK,Cortigiana Dal Velo,5,0.488,0.00245,0.707,https://api.spotify.com/v1/audio-analysis/6pkPDBh5FmEEmEJ0BMBAgK
+6uoMWPqRX55n3K8smzlAka,Spiritual Blessing,0,0.335,0.786,0.666,https://api.spotify.com/v1/audio-analysis/6uoMWPqRX55n3K8smzlAka
+4VQ0Npevk1gXsDK9Bi4M7P,Moon Rays,0,0.332,0.714,0.597,https://api.spotify.com/v1/audio-analysis/4VQ0Npevk1gXsDK9Bi4M7P
+2dyLWdPSHw9esfG41j8Ik0,Love,0,0.285,0.917,0.324,https://api.spotify.com/v1/audio-analysis/2dyLWdPSHw9esfG41j8Ik0
+3MjRaPvNINtgb0EYczIc6m,Africa,0,0.586,0.35,0.514,https://api.spotify.com/v1/audio-analysis/3MjRaPvNINtgb0EYczIc6m
+0VtW9kU97Le5SQ0ml4nFzO,The Creator Has A Master Plan,31,0.655,0.249,0.78,https://api.spotify.com/v1/audio-analysis/0VtW9kU97Le5SQ0ml4nFzO
+5ag6yrKzWUi9n1G1lHWHvq,Moniebah,8,0.603,0.774,0.131,https://api.spotify.com/v1/audio-analysis/5ag6yrKzWUi9n1G1lHWHvq
+0XLH43dcYq2pOe7COx8gPT,Wisdom Eye,37,0.0994,0.981,0.0225,https://api.spotify.com/v1/audio-analysis/0XLH43dcYq2pOe7COx8gPT
+2VztvF6SNQ4HERW2aLQnFF,Shiva-Loka,36,0.448,0.0697,0.588,https://api.spotify.com/v1/audio-analysis/2VztvF6SNQ4HERW2aLQnFF
+4rvCjwCgYBvg7RkagLCPxb,Mantra,23,0.158,0.645,0.563,https://api.spotify.com/v1/audio-analysis/4rvCjwCgYBvg7RkagLCPxb
+4VXWyCkQYHu5V010xYc0ec,Paramahansa Lake,31,0.273,0.915,0.144,https://api.spotify.com/v1/audio-analysis/4VXWyCkQYHu5V010xYc0ec
+4BpVwbQOwRstuylzDi54Lp,Translinear Light,0,0.111,0.356,0.295,https://api.spotify.com/v1/audio-analysis/4BpVwbQOwRstuylzDi54Lp
+53QJB15BVbb5S4MzvKZnuI,Spring Rounds from Rite of Spring,17,0.0993,0.71,0.26,https://api.spotify.com/v1/audio-analysis/53QJB15BVbb5S4MzvKZnuI
+6Gi0CXPaEQdAraPRUFpxjl,Jaya Jaya Rama,7,0.345,0.706,0.411,https://api.spotify.com/v1/audio-analysis/6Gi0CXPaEQdAraPRUFpxjl
+2LKl4Ff3Mgz0EnFKDgFX3G,Give Peace a Chance (Make Love),13,0.824,0.216,0.904,https://api.spotify.com/v1/audio-analysis/2LKl4Ff3Mgz0EnFKDgFX3G
+7mtSuCfedRTDbs22EnejXb,Mystic Woman,18,0.961,0.371,0.573,https://api.spotify.com/v1/audio-analysis/7mtSuCfedRTDbs22EnejXb
+2n6TplmDNIyNQLv5k8c0rD,A Chance for Peace,0,0.897,0.222,0.806,https://api.spotify.com/v1/audio-analysis/2n6TplmDNIyNQLv5k8c0rD
+2fuvBYwYwZPL2U5GnqHZDq,Inner Beauty,36,0.0886,0.68,0.271,https://api.spotify.com/v1/audio-analysis/2fuvBYwYwZPL2U5GnqHZDq
+7sCMQE7gCsClpILzAxD0zG,Shadows,0,0.61,0.187,0.613,https://api.spotify.com/v1/audio-analysis/7sCMQE7gCsClpILzAxD0zG
+0N5ZcEYzbWcc8Mvum1MRGT,Meditations,0,0.151,0.863,0.282,https://api.spotify.com/v1/audio-analysis/0N5ZcEYzbWcc8Mvum1MRGT
+6uJ3iLgVxorKri32MyaubY,Enchantress,6,0.67,0.577,0.508,https://api.spotify.com/v1/audio-analysis/6uJ3iLgVxorKri32MyaubY
+3jWq85bYLfiWSE9Kpn0p3g,Solar Boats,0,0.535,0.992,0.319,https://api.spotify.com/v1/audio-analysis/3jWq85bYLfiWSE9Kpn0p3g
+32Lg670koSWkUZQ4ExgMzD,Door of the Cosmos,0,0.617,0.655,0.634,https://api.spotify.com/v1/audio-analysis/32Lg670koSWkUZQ4ExgMzD
+7FljWTNoGxjuPJZVaCeHkR,World Worlds,1,0.165,0.752,0.215,https://api.spotify.com/v1/audio-analysis/7FljWTNoGxjuPJZVaCeHkR
+6hJtj00xwL5ESAXyVOFOp4,Mythology Metamorphosis,1,0.457,0.308,0.114,https://api.spotify.com/v1/audio-analysis/6hJtj00xwL5ESAXyVOFOp4
+6ZfVwlTwQCszZbIB0GzIY3,Somebody's In Love,0,0.64,0.756,0.704,https://api.spotify.com/v1/audio-analysis/6ZfVwlTwQCszZbIB0GzIY3
+1q1RVKb7KELbrKWRCQ72tG,Mayan Temple,0,0.581,0.623,0.475,https://api.spotify.com/v1/audio-analysis/1q1RVKb7KELbrKWRCQ72tG
+4rNmpkbo2JGEkfnnv0qh6j,Love In Outer Space,0,0.748,0.536,0.616,https://api.spotify.com/v1/audio-analysis/4rNmpkbo2JGEkfnnv0qh6j
+7uYgsDn1KyMDMoQBlxpukb,Haunted Feelings,8,0.241,0.983,0.568,https://api.spotify.com/v1/audio-analysis/7uYgsDn1KyMDMoQBlxpukb
+5ON0x9oI3zKk81hseJ3XC3,Expansions,2,0.23,0.751,0.452,https://api.spotify.com/v1/audio-analysis/5ON0x9oI3zKk81hseJ3XC3
+0VBGAYlgH7YqI9ac3xxs2Q,Black Mystery Has Been Revealed,3,0.494,0.892,0.186,https://api.spotify.com/v1/audio-analysis/0VBGAYlgH7YqI9ac3xxs2Q
+5xNrk3SGTCNmJkYYIJc8YD,Day Dream,3,0.323,0.985,0.171,https://api.spotify.com/v1/audio-analysis/5xNrk3SGTCNmJkYYIJc8YD
+0zHow3ExCUXYn8PbcDACEW,A Flower Is a Lovesome Thing,2,0.115,0.908,0.331,https://api.spotify.com/v1/audio-analysis/0zHow3ExCUXYn8PbcDACEW
+23aDP04QX8MAHA99FLaPtN,Lonely Woman,35,0.253,0.315,0.376,https://api.spotify.com/v1/audio-analysis/23aDP04QX8MAHA99FLaPtN
+4TrzjMsOnd1KWkWrsDRB3u,Peace,30,0.186,0.717,0.063,https://api.spotify.com/v1/audio-analysis/4TrzjMsOnd1KWkWrsDRB3u
+20cLrU1NlLJlOhPO3CkX9G,Congeniality,24,0.491,0.417,0.315,https://api.spotify.com/v1/audio-analysis/20cLrU1NlLJlOhPO3CkX9G
+4EwGRnwn4Lhqbr6rNmJnVI,Change of the Century,2,0.484,0.378,0.3,https://api.spotify.com/v1/audio-analysis/4EwGRnwn4Lhqbr6rNmJnVI
+6WZCb5s0sSYWhAFUn937F7,The Circle with a Hole in the Middle,5,0.378,0.0624,0.263,https://api.spotify.com/v1/audio-analysis/6WZCb5s0sSYWhAFUn937F7
+7H9CwmVG3U8jGOImmaNZWP,The Alchemy of Scott Lafaro,3,0.672,0.611,0.199,https://api.spotify.com/v1/audio-analysis/7H9CwmVG3U8jGOImmaNZWP
+64O6Gfwpi5xzDic5cBpt7O,Transcendental March (Creation Song),0,0.489,0.597,0.631,https://api.spotify.com/v1/audio-analysis/64O6Gfwpi5xzDic5cBpt7O
+6aYis7RCyjoDmSLR4trMMB,Nature's Children,0,0.162,0.225,0.283,https://api.spotify.com/v1/audio-analysis/6aYis7RCyjoDmSLR4trMMB
+2XQ5Rb6zFvsoiol6PiA35P,"Sweet Illumination ""Chile Woman""",0,0.222,0.92,0.477,https://api.spotify.com/v1/audio-analysis/2XQ5Rb6zFvsoiol6PiA35P
+30w7WN8LH4dQ3myO17TDeA,Transfiguration,0,0.125,0.615,0.549,https://api.spotify.com/v1/audio-analysis/30w7WN8LH4dQ3myO17TDeA
+5woe9FJ14xCTFkh8XOkRjd,Spirits,0,0.22,0.759,0.205,https://api.spotify.com/v1/audio-analysis/5woe9FJ14xCTFkh8XOkRjd
+4ccu0o1v1YmnNsBrXhKdCB,Angels,0,0.177,0.819,0.139,https://api.spotify.com/v1/audio-analysis/4ccu0o1v1YmnNsBrXhKdCB
+4gEUm3etNESiJfZuar7tNI,Ghosts: First Variation,0,0.508,0.838,0.402,https://api.spotify.com/v1/audio-analysis/4gEUm3etNESiJfZuar7tNI
+3yLYcOcHROcUY1RbRJI3AI,The Wizard,0,0.639,0.739,0.533,https://api.spotify.com/v1/audio-analysis/3yLYcOcHROcUY1RbRJI3AI
+7zXSz1qazjUrBYk2Bh0ei9,Bialero,15,0.501,0.686,0.518,https://api.spotify.com/v1/audio-analysis/7zXSz1qazjUrBYk2Bh0ei9
+0VHkZClwi6k79AhQx9avgX,Black Woman,21,0.196,0.0111,0.725,https://api.spotify.com/v1/audio-analysis/0VHkZClwi6k79AhQx9avgX
+5ygMV1012FmnBSvawOg0Ut,"Portrait of Linda in Three Colors, All Black",14,0.328,0.306,0.683,https://api.spotify.com/v1/audio-analysis/5ygMV1012FmnBSvawOg0Ut
+6e44quyKyJQur0go1vMWyH,Hope,15,0.273,0.776,0.238,https://api.spotify.com/v1/audio-analysis/6e44quyKyJQur0go1vMWyH
+7nfbNS72Kbg10xvkGfHHCh,Manusha Raga Kamboji,15,0.0778,0.975,0.126,https://api.spotify.com/v1/audio-analysis/7nfbNS72Kbg10xvkGfHHCh
+0ADnuDbGBRS076PGwHhgkS,Elixir,13,0.0519,0.902,0.193,https://api.spotify.com/v1/audio-analysis/0ADnuDbGBRS076PGwHhgkS
+724I9Le0gJIvTV9OFApCmq,Bliss: The Eternal Now,19,0.071,0.776,0.284,https://api.spotify.com/v1/audio-analysis/724I9Le0gJIvTV9OFApCmq
+1X6FHVYSygE1vMql618KV5,Angel of Sunlight,17,0.0654,0.453,0.789,https://api.spotify.com/v1/audio-analysis/1X6FHVYSygE1vMql618KV5
+2Wkep2KpiVHNX09YHJtMfe,The Three Faces Of Balal - Rudy Van Gelder Remaster,37,0.603,0.986,0.199,https://api.spotify.com/v1/audio-analysis/2Wkep2KpiVHNX09YHJtMfe
+2V9o9Tn00IYSYz0ULlbOw8,Snafu - Rudy Van Gelder Remaster,26,0.5,0.805,0.603,https://api.spotify.com/v1/audio-analysis/2V9o9Tn00IYSYz0ULlbOw8
+1RKgqGfYH0zLMa1LXiD0qZ,The Centaur and the Phoenix,0,0.631,0.678,0.373,https://api.spotify.com/v1/audio-analysis/1RKgqGfYH0zLMa1LXiD0qZ
+0q4SJUYOp0Er9fvREdDyDv,Enlightenment,33,0.537,0.734,0.303,https://api.spotify.com/v1/audio-analysis/0q4SJUYOp0Er9fvREdDyDv
+1hpdVGEaZovrlcnY0Yqcc9,Space is the Place,29,0.596,0.804,0.574,https://api.spotify.com/v1/audio-analysis/1hpdVGEaZovrlcnY0Yqcc9
+03EswEfc8sYqEVAyjOfFFn,When There Is No Sun,34,0.431,0.88,0.253,https://api.spotify.com/v1/audio-analysis/03EswEfc8sYqEVAyjOfFFn
+17nTdmYjJ1L5QHmedvcCvm,Journey Of The Black Star,0,0.853,0.964,0.256,https://api.spotify.com/v1/audio-analysis/17nTdmYjJ1L5QHmedvcCvm
+3QqEpsyotVj66269kAEqyp,The Land Of Spirit And Light (Part 2),17,0.701,0.89,0.569,https://api.spotify.com/v1/audio-analysis/3QqEpsyotVj66269kAEqyp
+6M6I7ciP55sBM5hpchhhZX,Praise Innocence,0,0.691,0.868,0.442,https://api.spotify.com/v1/audio-analysis/6M6I7ciP55sBM5hpchhhZX
+4yMdOxTgvxfyoyzQxugP1U,Music Is My Sanctuary,28,0.89,0.585,0.798,https://api.spotify.com/v1/audio-analysis/4yMdOxTgvxfyoyzQxugP1U
+658qBdlBWGvCDCA72bwi9e,Mother Nature,7,0.481,0.18,0.842,https://api.spotify.com/v1/audio-analysis/658qBdlBWGvCDCA72bwi9e
+39E8dblMjiMB4tIdFHxuE1,Sea Gypsy,6,0.611,0.382,0.885,https://api.spotify.com/v1/audio-analysis/39E8dblMjiMB4tIdFHxuE1
+69t15DrmTQX7QHOCy7BXFr,Peace And Love,11,0.685,0.915,0.186,https://api.spotify.com/v1/audio-analysis/69t15DrmTQX7QHOCy7BXFr
+1TRzwsqbxtT1H1foayPYD9,Prayer Cry,0,0.271,0.826,0.157,https://api.spotify.com/v1/audio-analysis/1TRzwsqbxtT1H1foayPYD9
+3LZVbdOS6vgSpHCOkUZqhM,In Lovingkindness,1,0.127,0.996,0.0335,https://api.spotify.com/v1/audio-analysis/3LZVbdOS6vgSpHCOkUZqhM
+4rlbT0VI7yqAPMqyTVKqXN,What a Friend We Have in Jesus,1,0.63,0.995,0.00698,https://api.spotify.com/v1/audio-analysis/4rlbT0VI7yqAPMqyTVKqXN
+7HvIlDR3hO4JN7voXQD6mc,The Father And The Son And The Holy Ghost,19,0.12,0.198,0.974,https://api.spotify.com/v1/audio-analysis/7HvIlDR3hO4JN7voXQD6mc
+5FLQmLjjeNIuC8U5mDnXC8,"A Love Supreme, Pt. IV - Psalm",40,0.376,0.897,0.313,https://api.spotify.com/v1/audio-analysis/5FLQmLjjeNIuC8U5mDnXC8
+0eVS2VExhupn7ByD1oeuWv,Ascension - Edition I / Pt. 1,26,0.346,0.233,0.829,https://api.spotify.com/v1/audio-analysis/0eVS2VExhupn7ByD1oeuWv
+6PpHDBhM4K6ABQ7wmXtetY,Serenity,14,0.362,0.798,0.497,https://api.spotify.com/v1/audio-analysis/6PpHDBhM4K6ABQ7wmXtetY
+3k8aBASj6jgt3PSEumdafR,Sun Ship,15,0.583,0.223,0.747,https://api.spotify.com/v1/audio-analysis/3k8aBASj6jgt3PSEumdafR
+2VzRmb0GCPDBv6FddHGu7s,Hat And Beard,33,0.355,0.496,0.644,https://api.spotify.com/v1/audio-analysis/2VzRmb0GCPDBv6FddHGu7s
+6BD4u2tOTHMlACAZ8gX0Gs,Out To Lunch - Remastered 1998/Rudy Van Gelder Edition,23,0.466,0.653,0.655,https://api.spotify.com/v1/audio-analysis/6BD4u2tOTHMlACAZ8gX0Gs
+75N2HRLQXJXwupON6cTbb8,Gazzelloni - Remastered 1998/Rudy Van Gelder Edition,22,0.513,0.571,0.647,https://api.spotify.com/v1/audio-analysis/75N2HRLQXJXwupON6cTbb8
+0NvA5HdBznFEqKNvimfhZp,Iron Man,6,0.521,0.695,0.741,https://api.spotify.com/v1/audio-analysis/0NvA5HdBznFEqKNvimfhZp
+5lDqsu4gUAfFo8rPEEhHKw,Pithecanthropus Erectus,24,0.473,0.702,0.226,https://api.spotify.com/v1/audio-analysis/5lDqsu4gUAfFo8rPEEhHKw
+6HUjKBumtWFRgYbWTdv2Lr,A Foggy Day,19,0.332,0.783,0.326,https://api.spotify.com/v1/audio-analysis/6HUjKBumtWFRgYbWTdv2Lr
+17kKD7IOK4OweCzzNXmX78,Love Chant,17,0.317,0.624,0.165,https://api.spotify.com/v1/audio-analysis/17kKD7IOK4OweCzzNXmX78
+1uHvqvOGGmOQSCa0nCOpbM,"The Will Come, Is Now",2,0.517,0.515,0.418,https://api.spotify.com/v1/audio-analysis/1uHvqvOGGmOQSCa0nCOpbM
+7CIQTiloOTETNqFD748BsF,Unity,6,0.65,0.678,0.609,https://api.spotify.com/v1/audio-analysis/7CIQTiloOTETNqFD748BsF
+5oT0ChGziBMuOjrQYjBYpn,Night Passage,20,0.556,0.597,0.497,https://api.spotify.com/v1/audio-analysis/5oT0ChGziBMuOjrQYjBYpn
+78z387FFEyhZxHgvl2vGlL,Dream Clock - Live,14,0.0719,0.928,0.0601,https://api.spotify.com/v1/audio-analysis/78z387FFEyhZxHgvl2vGlL
+2HvLEdkeoXxCymzQIEiFfu,Three Views of a Secret - Live,18,0.0834,0.842,0.295,https://api.spotify.com/v1/audio-analysis/2HvLEdkeoXxCymzQIEiFfu
+15tLhnzO4o8fMOEjdZGfII,"Bitches Brew (feat. Wayne Shorter, Bennie Maupin, John McLaughlin, Chick Corea, Joe Zawinul, Dave Holland & Harvey Brooks)",39,0.172,0.521,0.514,https://api.spotify.com/v1/audio-analysis/15tLhnzO4o8fMOEjdZGfII
+7eEp1mm5xRfPMpilLFUKwX,Pharaoh's Dance,40,0.33,0.491,0.52,https://api.spotify.com/v1/audio-analysis/7eEp1mm5xRfPMpilLFUKwX
+0n8sBhOtUb6pDFKjpxfakj,"Miles Runs the Voodoo Down (feat. Wayne Shorter, Bennie Maupin, John McLaughlin, Chick Corea, Joe Zawinul, Dave Holland & Harvey Brooks)",38,0.605,0.259,0.522,https://api.spotify.com/v1/audio-analysis/0n8sBhOtUb6pDFKjpxfakj
+0NKE3wFWMz9yM2le2lwNz9,Degi-Degi,26,0.831,0.668,0.625,https://api.spotify.com/v1/audio-analysis/0NKE3wFWMz9yM2le2lwNz9
+6UCmUkoB4L5mPTtmO5wwIV,Dave Yang & Steve Yin De-Swish T' Swish,19,0.158,0.259,0.465,https://api.spotify.com/v1/audio-analysis/6UCmUkoB4L5mPTtmO5wwIV
+2mIXZJeHEzBXeZWZ7Oeyqo,Leggy,22,0.139,0.0017,0.607,https://api.spotify.com/v1/audio-analysis/2mIXZJeHEzBXeZWZ7Oeyqo
+4aG0z6oq5RHLjlYogQqXPS,At Home In Space,22,0.218,0.423,0.427,https://api.spotify.com/v1/audio-analysis/4aG0z6oq5RHLjlYogQqXPS
+4tqSTopUiueGZMvPthpqEf,Harmonicas Are Shite,33,0.635,0.0469,0.167,https://api.spotify.com/v1/audio-analysis/4tqSTopUiueGZMvPthpqEf
+2qEHji6K3wNmBhZ4b0NJuz,Extract Of Pineal Gland,16,0.72,0.353,0.129,https://api.spotify.com/v1/audio-analysis/2qEHji6K3wNmBhZ4b0NJuz
+6lT8g9C68YgVRO1M8MdNis,Shellac,7,0.963,0.101,0.772,https://api.spotify.com/v1/audio-analysis/6lT8g9C68YgVRO1M8MdNis
+2hRxyhEgg22bw43w6r56Vq,...And Flesh,4,0.682,0.415,0.759,https://api.spotify.com/v1/audio-analysis/2hRxyhEgg22bw43w6r56Vq
+5g0iI1rzhz1HbWvJsiZyf8,Time To Rearrange,0,0.901,0.0712,0.712,https://api.spotify.com/v1/audio-analysis/5g0iI1rzhz1HbWvJsiZyf8
+0eDfULOmDMfh9CUSrhtgR3,Blow Your Own Pt 2 feat Kathrin deBoer,0,0.706,0.0107,0.503,https://api.spotify.com/v1/audio-analysis/0eDfULOmDMfh9CUSrhtgR3
+33x4LHnGd85ml1MoeDiKoM,Nautilus with,0,0.656,0.178,0.714,https://api.spotify.com/v1/audio-analysis/33x4LHnGd85ml1MoeDiKoM
+6Ey1czfvBmjOhaTDkZKUGc,Ken Park,0,0.738,0.261,0.549,https://api.spotify.com/v1/audio-analysis/6Ey1czfvBmjOhaTDkZKUGc
+3jdXThpOcKRczkmZpZEX5p,Bad Bad Things,0,0.887,0.291,0.678,https://api.spotify.com/v1/audio-analysis/3jdXThpOcKRczkmZpZEX5p
+1sxpmiKkbhgkGlQi9VMziL,Wake n Bake,4,0.325,0.00144,0.577,https://api.spotify.com/v1/audio-analysis/1sxpmiKkbhgkGlQi9VMziL
+7kRwrcpzMVZpG2M4nEduS4,The Sensual Woman,11,0.189,0.0475,0.18,https://api.spotify.com/v1/audio-analysis/7kRwrcpzMVZpG2M4nEduS4
+5lQynPoIUdkZvrtwU40v5m,Say-Say,3,0.899,0.0046,0.377,https://api.spotify.com/v1/audio-analysis/5lQynPoIUdkZvrtwU40v5m
+4P8qXnroR43S0xk0hmSbNs,Les Nuits,31,0.0387,0.245,0.291,https://api.spotify.com/v1/audio-analysis/4P8qXnroR43S0xk0hmSbNs
+7xoTrvRqX08G5f154om7zI,The Raft,0,0.336,0.0156,0.531,https://api.spotify.com/v1/audio-analysis/7xoTrvRqX08G5f154om7zI
+2RGHCa4Ml5gLJ7QXaXhWzT,Where It's At,0,0.514,0.927,0.852,https://api.spotify.com/v1/audio-analysis/2RGHCa4Ml5gLJ7QXaXhWzT
+4f6wiEjN71sMjL0q6R5Jv4,Ray Ray,0,0.32,0.0868,0.258,https://api.spotify.com/v1/audio-analysis/4f6wiEjN71sMjL0q6R5Jv4
+1XprI7oWE4TaWgFhLd9pkS,Charmed Life (Instrumental Version),17,0.219,0.208,0.637,https://api.spotify.com/v1/audio-analysis/1XprI7oWE4TaWgFhLd9pkS
+68vXiVrJwOj1MGSkQG8dFJ,Wander (Instrumental Version),10,0.527,0.015,0.45,https://api.spotify.com/v1/audio-analysis/68vXiVrJwOj1MGSkQG8dFJ
+3J8RAgjMcBD7wyXJyNmDob,1976,6,0.793,0.00459,0.794,https://api.spotify.com/v1/audio-analysis/3J8RAgjMcBD7wyXJyNmDob
+0gJqCBGds0VaDsAmKPzbZe,Let There Be Horns,16,0.793,0.0519,0.833,https://api.spotify.com/v1/audio-analysis/0gJqCBGds0VaDsAmKPzbZe
+3anHSCVXbhwOXhkP8Xh4nw,Ring Finger,18,0.429,0.176,0.747,https://api.spotify.com/v1/audio-analysis/3anHSCVXbhwOXhkP8Xh4nw
+0hQgdzAK7MDnlCUmavsvlN,Bus Stop Bitties,21,0.258,0.0155,0.721,https://api.spotify.com/v1/audio-analysis/0hQgdzAK7MDnlCUmavsvlN
+5KfEDoRscFMOE0wUk0cM7M,Work,34,0.454,0.0688,0.596,https://api.spotify.com/v1/audio-analysis/5KfEDoRscFMOE0wUk0cM7M
+3MXkNvO54rGzfKtbMVISDs,The Takeoff (Instrumental),7,0.498,0.0321,0.711,https://api.spotify.com/v1/audio-analysis/3MXkNvO54rGzfKtbMVISDs
+5JLPsCCLxyolyuHj4anF0q,I Need My Minutes (Instrumental),4,0.467,0.172,0.224,https://api.spotify.com/v1/audio-analysis/5JLPsCCLxyolyuHj4anF0q
+58M2A8KjUuyMUgTcbSohWw,Skanky Panky,39,0.802,0.0984,0.567,https://api.spotify.com/v1/audio-analysis/58M2A8KjUuyMUgTcbSohWw
+6VJZMKUceZYvHsMLJtpBV8,Mustang,0,0.875,0.535,0.784,https://api.spotify.com/v1/audio-analysis/6VJZMKUceZYvHsMLJtpBV8
+7M5H8h64tfc2A1aXqqwN0f,Party Animals,0,0.444,0.207,0.55,https://api.spotify.com/v1/audio-analysis/7M5H8h64tfc2A1aXqqwN0f
+1cs66JMTTVIyhGM6R3iWP5,Music's Made of Memories,0,0.718,0.506,0.884,https://api.spotify.com/v1/audio-analysis/1cs66JMTTVIyhGM6R3iWP5
+0RTEXvEeS4qlMttwdOY0qh,Man In A Garage,0,0.703,0.00191,0.717,https://api.spotify.com/v1/audio-analysis/0RTEXvEeS4qlMttwdOY0qh
+6f9afWvvDZz1YsxKvIG5og,Flynn,0,0.655,0.564,0.532,https://api.spotify.com/v1/audio-analysis/6f9afWvvDZz1YsxKvIG5og
+3MBrUbuaH7Kd5KoLbOnEnP,Al Abama,0,0.613,0.622,0.394,https://api.spotify.com/v1/audio-analysis/3MBrUbuaH7Kd5KoLbOnEnP
+1iNH11A4MikYjmR2tuWbgz,Die Kräuterhexe,0,0.39,0.0101,0.839,https://api.spotify.com/v1/audio-analysis/1iNH11A4MikYjmR2tuWbgz
+5UAbuLFYzS69nQRav9EwJq,The Time is Now,0,0.687,0.446,0.716,https://api.spotify.com/v1/audio-analysis/5UAbuLFYzS69nQRav9EwJq
+39EHJreMSTO7QSNT9Yf3OP,Burn 4,0,0.61,0.015,0.441,https://api.spotify.com/v1/audio-analysis/39EHJreMSTO7QSNT9Yf3OP
+3PlISmMU7prdRBG6zLcGfi,Keep You Kimi,1,0.273,0.233,0.473,https://api.spotify.com/v1/audio-analysis/3PlISmMU7prdRBG6zLcGfi
+1Y0yE2hT3LW8h2Zy6kaFWB,Drug Of Choice,0,0.0688,0.598,0.695,https://api.spotify.com/v1/audio-analysis/1Y0yE2hT3LW8h2Zy6kaFWB
+2hlE5y9q6Sxx2A1Sm3v2yf,Johnny Icon,0,0.784,0.00111,0.614,https://api.spotify.com/v1/audio-analysis/2hlE5y9q6Sxx2A1Sm3v2yf
+24Fn8UTT8Glox4QxEXjykO,Undenied,0,0.0311,0.457,0.285,https://api.spotify.com/v1/audio-analysis/24Fn8UTT8Glox4QxEXjykO
+1r9mGafUiSgumJoRqyLrSt,Splitting The Atom,45,0.59,0.495,0.358,https://api.spotify.com/v1/audio-analysis/1r9mGafUiSgumJoRqyLrSt
+6nS5Vfs6Kv75ZFUa2MKvaz,Rush Minute,35,0.672,0.038,0.359,https://api.spotify.com/v1/audio-analysis/6nS5Vfs6Kv75ZFUa2MKvaz
+6yzqdl5qv6BGu6BlRNWIDa,Spying Glass,38,0.329,0.245,0.454,https://api.spotify.com/v1/audio-analysis/6yzqdl5qv6BGu6BlRNWIDa
+7IdsIcmcti4v5VXkCJ3ou7,Sly,38,0.326,0.0264,0.305,https://api.spotify.com/v1/audio-analysis/7IdsIcmcti4v5VXkCJ3ou7
+46bTgJAQkrkNRxMuFnpRyD,Karmacoma,55,0.667,0.00545,0.536,https://api.spotify.com/v1/audio-analysis/46bTgJAQkrkNRxMuFnpRyD
+7FKhuZtIPchBVNIhFnNL5W,Three,45,0.0803,0.655,0.404,https://api.spotify.com/v1/audio-analysis/7FKhuZtIPchBVNIhFnNL5W
+0M9vdAMu8Ac1AB1H1mpvBx,Butterfly Caught - Remastered 2006,22,0.0925,0.0584,0.786,https://api.spotify.com/v1/audio-analysis/0M9vdAMu8Ac1AB1H1mpvBx
+10CiC7n8xCJJpbNcBpHsXc,Unfinished Sympathy - Remastered 2006,49,0.698,0.0142,0.889,https://api.spotify.com/v1/audio-analysis/10CiC7n8xCJJpbNcBpHsXc
+6jalMylNsrx7UK8JhvSHMK,Over And Over,0,0.417,0.00652,0.644,https://api.spotify.com/v1/audio-analysis/6jalMylNsrx7UK8JhvSHMK
+1kTotrihT556GztRO3kfcv,Statues,0,0.163,0.849,0.286,https://api.spotify.com/v1/audio-analysis/1kTotrihT556GztRO3kfcv
+5sSpvrC3W4Mgj871nNph1J,Absent Minded Friends,0,0.503,0.0102,0.809,https://api.spotify.com/v1/audio-analysis/5sSpvrC3W4Mgj871nNph1J
+04v5Uov3269miNFnCE7OnP,Bingo Massacre,0,0.837,0.144,0.68,https://api.spotify.com/v1/audio-analysis/04v5Uov3269miNFnCE7OnP
+6mMfQJLwaFkxgjYLvak6tK,Where's Vicky (Quantic Mix),9,0.207,0.0781,0.767,https://api.spotify.com/v1/audio-analysis/6mMfQJLwaFkxgjYLvak6tK
+1KdPkBGq6avjo3mYTVuh6B,Metamorphosis,2,0.564,0.0276,0.804,https://api.spotify.com/v1/audio-analysis/1KdPkBGq6avjo3mYTVuh6B
+6jUr2Xgl9pduxbfiqv23gI,Going round in circles,13,0.783,0.0143,0.912,https://api.spotify.com/v1/audio-analysis/6jUr2Xgl9pduxbfiqv23gI
+5mTMLAC2P66lMfETlOIiYC,Water Under My Bridges,0,0.461,0.206,0.805,https://api.spotify.com/v1/audio-analysis/5mTMLAC2P66lMfETlOIiYC
+4qEf43fS4jKifwFwuVoa4L,Send And Receive,0,0.287,0.942,0.491,https://api.spotify.com/v1/audio-analysis/4qEf43fS4jKifwFwuVoa4L
+4ZTQZwwZbq8FBU8HNEcWpX,Mood Adapter,0,0.608,0.0151,0.741,https://api.spotify.com/v1/audio-analysis/4ZTQZwwZbq8FBU8HNEcWpX
+6xP2R0VWMZQEEv5jC1zHsZ,Enough,0,0.361,0.0452,0.651,https://api.spotify.com/v1/audio-analysis/6xP2R0VWMZQEEv5jC1zHsZ
+3M0btc2Q2fBEDjudqOIohX,Shiller,0,0.116,0.463,0.262,https://api.spotify.com/v1/audio-analysis/3M0btc2Q2fBEDjudqOIohX
+6lqizwsC5MkB1tWUmiGzBM,Throw It All Away,0,0.356,0.166,0.631,https://api.spotify.com/v1/audio-analysis/6lqizwsC5MkB1tWUmiGzBM
+1HfRdwjgKNDPipziXvcu6i,Home,0,0.123,0.324,0.459,https://api.spotify.com/v1/audio-analysis/1HfRdwjgKNDPipziXvcu6i
+2WcqnaStchzO87jm4N6F0w,Salt Water Sound,0,0.751,0.247,0.699,https://api.spotify.com/v1/audio-analysis/2WcqnaStchzO87jm4N6F0w
+3dZtjIqQgvSi8MyBaetmXx,Futures,0,0.381,0.187,0.52,https://api.spotify.com/v1/audio-analysis/3dZtjIqQgvSi8MyBaetmXx
+7x2fwwApiXbnrDdABv87PY,You're My Flame,0,0.712,0.274,0.661,https://api.spotify.com/v1/audio-analysis/7x2fwwApiXbnrDdABv87PY
+34515x5VjgWKG0jMSYg3HH,Your Place,0,0.0398,0.444,0.261,https://api.spotify.com/v1/audio-analysis/34515x5VjgWKG0jMSYg3HH
+46s1l8YahgwCR2RC3oYzi6,Crosses,0,0.616,0.0507,0.559,https://api.spotify.com/v1/audio-analysis/46s1l8YahgwCR2RC3oYzi6
+0ElL0w8iuhwmscStzcPxt2,Warm Sound,0,0.107,0.514,0.389,https://api.spotify.com/v1/audio-analysis/0ElL0w8iuhwmscStzcPxt2
+5KUv9mec63I0dtoyblPaDd,Passing By,0,0.21,0.357,0.426,https://api.spotify.com/v1/audio-analysis/5KUv9mec63I0dtoyblPaDd
+1FuJxcc6eB2Kot2m7LtITF,Look Up,0,0.28,0.0077,0.726,https://api.spotify.com/v1/audio-analysis/1FuJxcc6eB2Kot2m7LtITF
+343S0S5OXLWqznFNJDOyvy,I Have Seen,0,0.761,0.00786,0.68,https://api.spotify.com/v1/audio-analysis/343S0S5OXLWqznFNJDOyvy
+4njttTYaIqT8V9YWQoT0Mt,Polaris,0,0.187,0.0298,0.542,https://api.spotify.com/v1/audio-analysis/4njttTYaIqT8V9YWQoT0Mt
+2nYm2rqI4WsHvmkPlzEZof,Simple Things,0,0.299,0.512,0.385,https://api.spotify.com/v1/audio-analysis/2nYm2rqI4WsHvmkPlzEZof
+4V8biP3PEaVxs8avkKQv43,Likufanele,0,0.151,0.202,0.477,https://api.spotify.com/v1/audio-analysis/4V8biP3PEaVxs8avkKQv43
+68glmW0dlBC5b9mFJodIpq,Mandy,0,0.688,0.0294,0.895,https://api.spotify.com/v1/audio-analysis/68glmW0dlBC5b9mFJodIpq
+6WgpNDZeOKYbHQS4b1ciPA,Party With Children,0,0.348,0.00828,0.771,https://api.spotify.com/v1/audio-analysis/6WgpNDZeOKYbHQS4b1ciPA
+6wB9Ih5AErwh4aUMSVj1M6,Grape Juice City,0,0.801,0.0664,0.702,https://api.spotify.com/v1/audio-analysis/6wB9Ih5AErwh4aUMSVj1M6
+2SNIMcTDV5EBPugSpwJkR1,Ethnic Majority,16,0.576,0.000307,0.464,https://api.spotify.com/v1/audio-analysis/2SNIMcTDV5EBPugSpwJkR1
+3SpXpcG603AqfxhJ6l4uzk,Nights Introlude,32,0.27,0.101,0.741,https://api.spotify.com/v1/audio-analysis/3SpXpcG603AqfxhJ6l4uzk
+49YxS2Ap2eSbtdT0xacCE6,Pipes Honour,15,0.843,0.00499,0.161,https://api.spotify.com/v1/audio-analysis/49YxS2Ap2eSbtdT0xacCE6
+0w8F9fOD3MbmBXtlGD6jVU,Mission Venice,25,0.965,0.00124,0.481,https://api.spotify.com/v1/audio-analysis/0w8F9fOD3MbmBXtlGD6jVU
+6Y8O2TzW0TTkamt7GbJZLK,Night Hunter,0,0.761,0.131,0.607,https://api.spotify.com/v1/audio-analysis/6Y8O2TzW0TTkamt7GbJZLK
+31eTajQd1JpbDYAqqRHNzm,Space maker,0,0.462,0.66,0.555,https://api.spotify.com/v1/audio-analysis/31eTajQd1JpbDYAqqRHNzm
+4pVIiXjvymu0FvjWS9VCOi,Napalm love,0,0.487,0.177,0.573,https://api.spotify.com/v1/audio-analysis/4pVIiXjvymu0FvjWS9VCOi
+4fdsFgiSK33prbumkK1jf0,Run,38,0.138,0.161,0.562,https://api.spotify.com/v1/audio-analysis/4fdsFgiSK33prbumkK1jf0
+0C3vrVa4c8R2ZlTAn2WiMt,Electronic Performers,33,0.356,0.0481,0.824,https://api.spotify.com/v1/audio-analysis/0C3vrVa4c8R2ZlTAn2WiMt
+0wlfUY3ElbDvOEcdjmIsfz,Lotus Light,30,0.0257,0.767,0.386,https://api.spotify.com/v1/audio-analysis/0wlfUY3ElbDvOEcdjmIsfz
+7n0bCggBoT7rT1hrqmRwfA,The First Song,27,0.0547,0.865,0.228,https://api.spotify.com/v1/audio-analysis/7n0bCggBoT7rT1hrqmRwfA
+2Ef9JAAz619Dc2N67m6mRT,Pahrump,29,0.0367,0.617,0.388,https://api.spotify.com/v1/audio-analysis/2Ef9JAAz619Dc2N67m6mRT
+72nYpuyIFNrLvZHOQ8D9Lz,Koto,10,0.0736,0.844,0.113,https://api.spotify.com/v1/audio-analysis/72nYpuyIFNrLvZHOQ8D9Lz
+1GFcIhsm65DXpeWo9JLT9S,Mojik (Your Waves),29,0.07,0.763,0.291,https://api.spotify.com/v1/audio-analysis/1GFcIhsm65DXpeWo9JLT9S
+7EIlPzBmqzRRUdriseY4XP,Francis K.,32,0.177,0.878,0.365,https://api.spotify.com/v1/audio-analysis/7EIlPzBmqzRRUdriseY4XP
+5gZv0ObJ7rBIiNhde9ESR3,the moment a zipper,11,0.0338,0.927,0.146,https://api.spotify.com/v1/audio-analysis/5gZv0ObJ7rBIiNhde9ESR3
+6H77pVtE7WLrJJQLiM28Us,Les encombres,21,0.0914,0.847,0.367,https://api.spotify.com/v1/audio-analysis/6H77pVtE7WLrJJQLiM28Us
+3hlplxjOIWs8SE3cDTFvTK,The Promenade Vanishes,24,0.039,0.803,0.101,https://api.spotify.com/v1/audio-analysis/3hlplxjOIWs8SE3cDTFvTK
+7tQZymWa5zdX4Vh1VcB3fZ,Lovely,31,0.876,0.00714,0.58,https://api.spotify.com/v1/audio-analysis/7tQZymWa5zdX4Vh1VcB3fZ
+49aEKfDVDnyhGyf2ne4Kfw,Leonora,24,0.243,0.824,0.0186,https://api.spotify.com/v1/audio-analysis/49aEKfDVDnyhGyf2ne4Kfw
+7xQpHoEIQ4d5y4mi50c0of,Pink,28,0.031,0.723,0.156,https://api.spotify.com/v1/audio-analysis/7xQpHoEIQ4d5y4mi50c0of
+1GzMcuifCMSYlfYkGK3fYW,Common Land,47,0.123,0.711,0.691,https://api.spotify.com/v1/audio-analysis/1GzMcuifCMSYlfYkGK3fYW
+166BtXtfNGtQf7REpNBBa6,Angel Fossil 天使化石,23,0.151,0.582,0.464,https://api.spotify.com/v1/audio-analysis/166BtXtfNGtQf7REpNBBa6
+2oEf33lW1c73KYfITLxgKf,Stalactite,12,0.0392,0.819,0.205,https://api.spotify.com/v1/audio-analysis/2oEf33lW1c73KYfITLxgKf
+45d4DiJdynkThLtSqcFNGu,Dampener,10,0.508,0.901,0.369,https://api.spotify.com/v1/audio-analysis/45d4DiJdynkThLtSqcFNGu
+0CdrrAi8lU95Y0YXTVy5X1,Fossils,23,0.0388,0.992,0.00466,https://api.spotify.com/v1/audio-analysis/0CdrrAi8lU95Y0YXTVy5X1
+2rQHJkEqqMtDl9kPvra4xs,Wide,18,0.46,0.994,0.0124,https://api.spotify.com/v1/audio-analysis/2rQHJkEqqMtDl9kPvra4xs
+3VqSeI80LF4BIeRFoi65Of,HER VISIONS,8,0.0347,0.768,0.163,https://api.spotify.com/v1/audio-analysis/3VqSeI80LF4BIeRFoi65Of
+7hctEV1xzChyXgCzzMNpth,Empty space,20,0.138,0.641,0.804,https://api.spotify.com/v1/audio-analysis/7hctEV1xzChyXgCzzMNpth
+4Xf4WJ7bxj93BpCo3o3e1L,Maybae Baeby,30,0.268,0.00461,0.67,https://api.spotify.com/v1/audio-analysis/4Xf4WJ7bxj93BpCo3o3e1L
+64mNNFCixd4xABuozznJ55,A Plague,20,0.0358,0.0377,0.94,https://api.spotify.com/v1/audio-analysis/64mNNFCixd4xABuozznJ55
+0W4p2qCSHBambiI5dAAtzr,Immature,16,0.12,0.683,0.358,https://api.spotify.com/v1/audio-analysis/0W4p2qCSHBambiI5dAAtzr
+0XWldQSPFGe8lZGgfB4xs6,Fatima's Poplar,17,0.0636,0.00602,0.246,https://api.spotify.com/v1/audio-analysis/0XWldQSPFGe8lZGgfB4xs6
+7r1GX3GowKrUXkforkZtlh,We Are Dreamers And Dreams On Fly,14,0.258,0.0419,0.68,https://api.spotify.com/v1/audio-analysis/7r1GX3GowKrUXkforkZtlh
+5JXGSdV6Ehwm0GYyGVWfet,Black Hole,27,0.0695,0.448,0.381,https://api.spotify.com/v1/audio-analysis/5JXGSdV6Ehwm0GYyGVWfet
+4tKeVySGuAcexeYP74I5w0,"Today, My Friend, You Drunk the",21,0.0398,0.865,0.208,https://api.spotify.com/v1/audio-analysis/4tKeVySGuAcexeYP74I5w0
+3hwY98GTOANHIfLTIYzEZn,Tragic Sublime 悲剧性崇高,18,0.163,0.793,0.37,https://api.spotify.com/v1/audio-analysis/3hwY98GTOANHIfLTIYzEZn
+2oU070HSd4L9wlKr9tyZ1K,Culebra with Wilkes,15,0.229,0.888,0.41,https://api.spotify.com/v1/audio-analysis/2oU070HSd4L9wlKr9tyZ1K
+0NhhyGwCT4GDAJ2dM8HL6Y,Goodbye,19,0.0973,0.58,0.658,https://api.spotify.com/v1/audio-analysis/0NhhyGwCT4GDAJ2dM8HL6Y
+6n15e9Cm68IJZ6em8vt2AS,Sunny X,12,0.0816,0.0968,0.862,https://api.spotify.com/v1/audio-analysis/6n15e9Cm68IJZ6em8vt2AS
+58bcnziA1rYRGWzglfP6Uf,Onore [Edit] - 己,4,0.175,0.00439,0.788,https://api.spotify.com/v1/audio-analysis/58bcnziA1rYRGWzglfP6Uf
+4wOqh8ORpI3Zgx151vVFrr,Naassaccade,14,0.383,0.000425,0.68,https://api.spotify.com/v1/audio-analysis/4wOqh8ORpI3Zgx151vVFrr
+7JjHkIW5WcA68HTYu3K75b,Wave,24,0.165,1.55e-05,0.426,https://api.spotify.com/v1/audio-analysis/7JjHkIW5WcA68HTYu3K75b
+1bNwAHDlIYlrNlyMwRMoh4,Nazama,17,0.039,0.934,0.244,https://api.spotify.com/v1/audio-analysis/1bNwAHDlIYlrNlyMwRMoh4
+3dvRRcsKrex27CpnvTClk2,Fossil Words,23,0.145,0.912,0.183,https://api.spotify.com/v1/audio-analysis/3dvRRcsKrex27CpnvTClk2
+2LIoroQycKKxhf44yLgxOx,Morse,0,0.115,0.28,0.658,https://api.spotify.com/v1/audio-analysis/2LIoroQycKKxhf44yLgxOx
+10M684gmSjBMcHNvG3VvpN,One at a Time,23,0.217,0.878,0.122,https://api.spotify.com/v1/audio-analysis/10M684gmSjBMcHNvG3VvpN
+0mUNh06f9zH03eO7NIj58B,Occam Delta XV [2021-11-09],17,0.0329,0.917,0.137,https://api.spotify.com/v1/audio-analysis/0mUNh06f9zH03eO7NIj58B
+1TPh9wsVmBUC6RW6Df4cfW,It Smiles Without My Lie,22,0.216,0.956,0.261,https://api.spotify.com/v1/audio-analysis/1TPh9wsVmBUC6RW6Df4cfW
+023i6Y5wgtl0fiEnobXWrK,Luos Higher,25,0.243,0.983,0.303,https://api.spotify.com/v1/audio-analysis/023i6Y5wgtl0fiEnobXWrK
+7i8wAKUOcb9BWK50mFOOHU,5.17,45,0.0319,0.962,0.188,https://api.spotify.com/v1/audio-analysis/7i8wAKUOcb9BWK50mFOOHU
+6hruEdIYNluogyuAlMhsgs,Green To You,18,0.039,0.718,0.367,https://api.spotify.com/v1/audio-analysis/6hruEdIYNluogyuAlMhsgs
+5uTrQXFFGvzkvOQvWaZUfS,"In the Moment, Part 3",5,0.278,0.987,0.0752,https://api.spotify.com/v1/audio-analysis/5uTrQXFFGvzkvOQvWaZUfS
+1YHeSEpxM24Nq1sZdvuPKG,An Interior of Strange Beauty,0,0.0758,0.03,0.602,https://api.spotify.com/v1/audio-analysis/1YHeSEpxM24Nq1sZdvuPKG
+0ZtigYY4eaLQ4u8HcOXCuC,How to Paint Clouds - Joseph Shabason Remix,0,0.884,0.905,0.416,https://api.spotify.com/v1/audio-analysis/0ZtigYY4eaLQ4u8HcOXCuC
+0fGe3zmambx1WvBeoJmu62,L'Inno delle Oceanine alla Bellezza e alla Fortuna,10,0.528,0.976,0.378,https://api.spotify.com/v1/audio-analysis/0fGe3zmambx1WvBeoJmu62
+1VR0IWffVsy5nsLqCV2QPB,Aura,0,0.0366,0.929,0.202,https://api.spotify.com/v1/audio-analysis/1VR0IWffVsy5nsLqCV2QPB
+7e7g3iAm9dzSDMvk4zEFvt,Cherokee - Dennis Bovell Remix,12,0.256,0.1,0.528,https://api.spotify.com/v1/audio-analysis/7e7g3iAm9dzSDMvk4zEFvt
+76m6W5MNiQmspKUoReaIvN,Black meditation,6,0.262,0.914,0.179,https://api.spotify.com/v1/audio-analysis/76m6W5MNiQmspKUoReaIvN
+4CszGmgD0sckdDRvPeFBjb,Secret of the Megafauna,2,0.159,0.805,0.413,https://api.spotify.com/v1/audio-analysis/4CszGmgD0sckdDRvPeFBjb
+4QMjiJuSDLyIcPdaOjqvYn,Translation from Unspecified - Excerpt,0,0.339,0.135,0.299,https://api.spotify.com/v1/audio-analysis/4QMjiJuSDLyIcPdaOjqvYn
+0kCP2tmN6kyjAuhfwicUzi,Are Your Wings Swept?,11,0.314,0.848,0.292,https://api.spotify.com/v1/audio-analysis/0kCP2tmN6kyjAuhfwicUzi
+5pgQiHjH7CAf918atRbrsD,One,10,0.179,0.166,0.376,https://api.spotify.com/v1/audio-analysis/5pgQiHjH7CAf918atRbrsD
+2FWwB6OgKxHgVG3MNFPNdb,Astral Melancholy Suite,9,0.0313,0.828,0.451,https://api.spotify.com/v1/audio-analysis/2FWwB6OgKxHgVG3MNFPNdb
+0uG7gKFFvb9UIrt56vA2TT,"Organum fo Stefano, pt. 3",0,0.0877,0.436,0.177,https://api.spotify.com/v1/audio-analysis/0uG7gKFFvb9UIrt56vA2TT
+6RfFJquyEjoLyXqQxmkV7v,O Lay Me Not in the Consecrated Ground,2,0.068,0.472,0.196,https://api.spotify.com/v1/audio-analysis/6RfFJquyEjoLyXqQxmkV7v
+6qn3lXIrf1rm9iDpw8psUm,Miss Ann,1,0.482,0.236,0.945,https://api.spotify.com/v1/audio-analysis/6qn3lXIrf1rm9iDpw8psUm
+5u30M2yxt5GDBi8fnVNWew,Ráfaga,0,0.399,0.129,0.775,https://api.spotify.com/v1/audio-analysis/5u30M2yxt5GDBi8fnVNWew
+6l50UB6NAD5bY0wnG4DDhE,TO FIND LOVE IS TO SEEK THE END,7,0.0821,0.00395,0.613,https://api.spotify.com/v1/audio-analysis/6l50UB6NAD5bY0wnG4DDhE
+3HZOIXH7nPZiAQoZleksYC,Hansel and Gretel,19,0.0329,0.918,0.0859,https://api.spotify.com/v1/audio-analysis/3HZOIXH7nPZiAQoZleksYC
+6WCIy43pAKCxknLxgr4ulW,Mineral Veins,2,0.115,0.412,0.28,https://api.spotify.com/v1/audio-analysis/6WCIy43pAKCxknLxgr4ulW
+6bhA5CoHakKzo46pqZhjyy,BEEN 2 HELL & BACK <3,7,0.188,0.0569,0.544,https://api.spotify.com/v1/audio-analysis/6bhA5CoHakKzo46pqZhjyy
+3ZsqFi5fHECESIemYdSf3Q,Aqaba,1,0.0651,0.915,0.207,https://api.spotify.com/v1/audio-analysis/3ZsqFi5fHECESIemYdSf3Q
+2JN6NJ9Kj4xYoTrX0vJz88,Blueblackred,2,0.573,0.956,0.339,https://api.spotify.com/v1/audio-analysis/2JN6NJ9Kj4xYoTrX0vJz88
+6L7iRpBw0MU5rUSHRiczRU,Morning Glory Waltz,13,0.519,0.668,0.369,https://api.spotify.com/v1/audio-analysis/6L7iRpBw0MU5rUSHRiczRU
+3OQPOmM8k2Y9zH2NpIFM5A,Plantwood (Day),32,0.429,0.994,0.0713,https://api.spotify.com/v1/audio-analysis/3OQPOmM8k2Y9zH2NpIFM5A
+2hzRiMuVvXM0b0YBHMafj1,28°C (Intermittent Sunshine),18,0.0964,0.961,0.848,https://api.spotify.com/v1/audio-analysis/2hzRiMuVvXM0b0YBHMafj1
+69rmPrVJ4VJgLG0Hz4gOJj,Astronomy kittens (Song for Betty),13,0.31,0.802,0.18,https://api.spotify.com/v1/audio-analysis/69rmPrVJ4VJgLG0Hz4gOJj
+3MasTCXLxbYTmxNdFnxmK0,Layla - Aya Metwalli Remix,7,0.292,0.035,0.64,https://api.spotify.com/v1/audio-analysis/3MasTCXLxbYTmxNdFnxmK0
+3izeeWWQOexh4aMxlzvJXD,Arm of Golden Flame,4,0.312,0.235,0.494,https://api.spotify.com/v1/audio-analysis/3izeeWWQOexh4aMxlzvJXD
+2mQBdCqm5meO2d26m8Pb4s,Melancholy,4,0.161,0.686,0.419,https://api.spotify.com/v1/audio-analysis/2mQBdCqm5meO2d26m8Pb4s
+1I6SG51d6yRbCa36YbMbaa,Afternoon with Dialog,0,0.198,0.778,0.207,https://api.spotify.com/v1/audio-analysis/1I6SG51d6yRbCa36YbMbaa
+4qVHaYxf7wp6jQ6g34CAgk,"Commend, NYC Peace 4",0,0.0372,0.7,0.287,https://api.spotify.com/v1/audio-analysis/4qVHaYxf7wp6jQ6g34CAgk
+65XrhSXZKHhBz9V8gMNhKL,Okra Ooze,7,0.0948,0.173,0.416,https://api.spotify.com/v1/audio-analysis/65XrhSXZKHhBz9V8gMNhKL
+37DfrttkmBXL3P2B0VWI4X,Los sueños solo son sueños,4,0.0287,0.0755,0.313,https://api.spotify.com/v1/audio-analysis/37DfrttkmBXL3P2B0VWI4X
+5us33NoYbYZQrZ9Bi333D8,Mariposas Acuáticas,22,0.56,0.674,0.41,https://api.spotify.com/v1/audio-analysis/5us33NoYbYZQrZ9Bi333D8
+04mOMGg8C8h8sJMALXhQB4,Wild Animal,6,0.237,0.252,0.588,https://api.spotify.com/v1/audio-analysis/04mOMGg8C8h8sJMALXhQB4
+1zIkF3M4aSCwvwbF6fu4Db,Men an Toll,2,0.0368,0.995,0.148,https://api.spotify.com/v1/audio-analysis/1zIkF3M4aSCwvwbF6fu4Db
+0Mk5X60HEDPr8j8lQHjCMJ,pylon shadow,2,0.256,0.194,0.475,https://api.spotify.com/v1/audio-analysis/0Mk5X60HEDPr8j8lQHjCMJ
+2vkw2y40Z6HKI2AAKBjQPU,L'Apocalisse Della Luce,0,0.515,6.95e-05,0.977,https://api.spotify.com/v1/audio-analysis/2vkw2y40Z6HKI2AAKBjQPU
+0OjskosdMXzHWF17ICzsF6,Glass Jaw,19,0.0296,0.809,0.268,https://api.spotify.com/v1/audio-analysis/0OjskosdMXzHWF17ICzsF6
+76wONZ4wvORoVCW6IHXY5w,ở đâu,0,0.0373,0.69,0.322,https://api.spotify.com/v1/audio-analysis/76wONZ4wvORoVCW6IHXY5w
+4QCbExCmeTITE8g6mymlpW,Sonic 8,6,0.267,0.0166,0.589,https://api.spotify.com/v1/audio-analysis/4QCbExCmeTITE8g6mymlpW
+0cvulJ9bjSBqUPICSa32C8,Reverse Discourse,4,0.0356,0.858,0.166,https://api.spotify.com/v1/audio-analysis/0cvulJ9bjSBqUPICSa32C8
+6JWlTD0twpAB5jSUQuSiTr,Ghosts of Joysville - Unabridged,2,0.0926,0.307,0.404,https://api.spotify.com/v1/audio-analysis/6JWlTD0twpAB5jSUQuSiTr
+55bQtgsfNtNPYA26yjJh3W,Bitter Earth,7,0.184,0.0102,0.827,https://api.spotify.com/v1/audio-analysis/55bQtgsfNtNPYA26yjJh3W
+7qTolx0KStURABh9ipO1bm,Macrocosmic,13,0.304,0.0154,0.679,https://api.spotify.com/v1/audio-analysis/7qTolx0KStURABh9ipO1bm
+3i4tNKRet7b7xCwByafOne,open book emoji,0,0.217,0.906,0.468,https://api.spotify.com/v1/audio-analysis/3i4tNKRet7b7xCwByafOne
+0IPF9YPUcPHj4tuBsApnpo,The Way of Spiritual Breath,5,0.04,0.81,0.429,https://api.spotify.com/v1/audio-analysis/0IPF9YPUcPHj4tuBsApnpo
+0ajMGHgrNy7pmfCxEzy9DA,Candace Parker,0,0.467,0.118,0.543,https://api.spotify.com/v1/audio-analysis/0ajMGHgrNy7pmfCxEzy9DA
+4Sol5tCGEdqqNOJqrzLZny,History is Everyone's Fuck,7,0.143,0.000379,0.848,https://api.spotify.com/v1/audio-analysis/4Sol5tCGEdqqNOJqrzLZny
+02PVd9RUEXmqssgxEDMQpN,"Commend, NYC Peace 1",6,0.358,0.535,0.547,https://api.spotify.com/v1/audio-analysis/02PVd9RUEXmqssgxEDMQpN
+6rcN2o3VekKCrwdvJlPN74,Apsara,0,0.374,0.245,0.894,https://api.spotify.com/v1/audio-analysis/6rcN2o3VekKCrwdvJlPN74
+7kj7ZqCPVeAl103iUrOi11,Murmer Double,16,0.191,0.319,0.312,https://api.spotify.com/v1/audio-analysis/7kj7ZqCPVeAl103iUrOi11
+7mmrKcjz0GVCGPm2tikmhK,We Are Part Mineral,10,0.172,0.804,0.381,https://api.spotify.com/v1/audio-analysis/7mmrKcjz0GVCGPm2tikmhK
+5CAmEnsH5Cqvuo6Qxh6b0D,Om,38,0.133,0.519,0.426,https://api.spotify.com/v1/audio-analysis/5CAmEnsH5Cqvuo6Qxh6b0D
+3PJMsxg6rz9FOo6xNiASXz,Goodbye Pork Pie Hat,51,0.278,0.957,0.0937,https://api.spotify.com/v1/audio-analysis/3PJMsxg6rz9FOo6xNiASXz
+0n28PXtudWAJzjDqNczdS6,Water,44,0.211,0.96,0.113,https://api.spotify.com/v1/audio-analysis/0n28PXtudWAJzjDqNczdS6
+1QFh8OH1e78dGd3VyJZCAC,Boys Don't Cry,77,0.671,0.00517,0.836,https://api.spotify.com/v1/audio-analysis/1QFh8OH1e78dGd3VyJZCAC
+382EVJxiYrq8hj4EVO5ave,A Secret Inside Me,0,0.0737,0.972,0.179,https://api.spotify.com/v1/audio-analysis/382EVJxiYrq8hj4EVO5ave
+3SelopnR6OJ9pS2NIH5RHI,Chord Left,0,0.0377,0.995,0.0908,https://api.spotify.com/v1/audio-analysis/3SelopnR6OJ9pS2NIH5RHI
+1r8oPEXqnhUVgkUkJNqEuF,Love Will Tear Us Apart - 2010 Remaster,54,0.907,0.000989,0.902,https://api.spotify.com/v1/audio-analysis/1r8oPEXqnhUVgkUkJNqEuF
+4NFD9ea0uH0MtoC30yNYE1,West Coast Love,65,0.587,0.00666,0.65,https://api.spotify.com/v1/audio-analysis/4NFD9ea0uH0MtoC30yNYE1
+0NBgmP6Yg5xZYsnIZ0pGdo,Atmosphere,49,0.426,0.165,0.467,https://api.spotify.com/v1/audio-analysis/0NBgmP6Yg5xZYsnIZ0pGdo
+7dOZxMY4U4YZ3eFwOTABXK,Mexican Radio,0,0.582,0.0133,0.704,https://api.spotify.com/v1/audio-analysis/7dOZxMY4U4YZ3eFwOTABXK
+4TQGiO2gWKqwC8TSgTIYpv,Touha,16,0.404,0.808,0.574,https://api.spotify.com/v1/audio-analysis/4TQGiO2gWKqwC8TSgTIYpv
+3qLZ866ZfaK0B0R5FIqXLG,She Sells Sanctuary,70,0.419,4.76e-06,0.765,https://api.spotify.com/v1/audio-analysis/3qLZ866ZfaK0B0R5FIqXLG
+4820SC1xnUaabzzYQTDkP2,Gnossienne: No. 1,62,0.0794,0.996,0.00798,https://api.spotify.com/v1/audio-analysis/4820SC1xnUaabzzYQTDkP2
+2BndJYJQ17UcEeUFJP5JmY,Paradise Circus,62,0.297,0.414,0.591,https://api.spotify.com/v1/audio-analysis/2BndJYJQ17UcEeUFJP5JmY
+1ZnXuijpwEBjhNxpEnb8WH,Lorelei,56,0.42,7.83e-05,0.679,https://api.spotify.com/v1/audio-analysis/1ZnXuijpwEBjhNxpEnb8WH
+2LrxcIsIWa5Z8DPtfsZ4PJ,Hands Off Me,35,0.151,0.391,0.316,https://api.spotify.com/v1/audio-analysis/2LrxcIsIWa5Z8DPtfsZ4PJ
+1LwP9g1Hjbs64jXM2Qsxry,Just Like Honey,59,0.486,8.02e-05,0.552,https://api.spotify.com/v1/audio-analysis/1LwP9g1Hjbs64jXM2Qsxry
+0L4niw6Pf4HfuFUuZgWkOs,First Communication,0,0.352,0.128,0.598,https://api.spotify.com/v1/audio-analysis/0L4niw6Pf4HfuFUuZgWkOs
+3kKVqFF4pv4EXeQe428zl2,Protection,58,0.737,0.0162,0.421,https://api.spotify.com/v1/audio-analysis/3kKVqFF4pv4EXeQe428zl2
+6HxU7SRfbM1LLK3TTNohAY,Somersault,0,0.163,0.194,0.386,https://api.spotify.com/v1/audio-analysis/6HxU7SRfbM1LLK3TTNohAY
+5D9ArD78F5e39isS8BNCfl,One Hundred Years,46,0.277,0.00575,0.703,https://api.spotify.com/v1/audio-analysis/5D9ArD78F5e39isS8BNCfl
+2u7vy4E7raAt291mJwxxK4,Brown Rice,33,0.527,0.697,0.784,https://api.spotify.com/v1/audio-analysis/2u7vy4E7raAt291mJwxxK4
+2gG3ivmsfylVXLyIJvLXyN,Journey In Satchidananda,50,0.211,0.016,0.543,https://api.spotify.com/v1/audio-analysis/2gG3ivmsfylVXLyIJvLXyN
+2vRdgBjvjF6LHaWVssDeGN,The Sky Children,38,0.479,0.191,0.591,https://api.spotify.com/v1/audio-analysis/2vRdgBjvjF6LHaWVssDeGN
+7DbbEaULNuEe95sxVJFwXQ,Light of the Seven,0,0.0583,0.903,0.102,https://api.spotify.com/v1/audio-analysis/7DbbEaULNuEe95sxVJFwXQ
+3ZuXIVoa0q3D21CJY4ZLjd,Pilgrims on a Long Journey,44,0.177,0.993,0.18,https://api.spotify.com/v1/audio-analysis/3ZuXIVoa0q3D21CJY4ZLjd
+6zcysGMvMEhlCij4ee6Jjf,Melody,0,0.319,0.0207,0.295,https://api.spotify.com/v1/audio-analysis/6zcysGMvMEhlCij4ee6Jjf
+24ZRVI5AXuSYxZgqXQa7ui,Contracts,26,0.145,0.974,0.0779,https://api.spotify.com/v1/audio-analysis/24ZRVI5AXuSYxZgqXQa7ui
+16X7VHcGISwJ93ott9RHeC,Awake (with Mahalia),0,0.665,0.315,0.579,https://api.spotify.com/v1/audio-analysis/16X7VHcGISwJ93ott9RHeC
+2u7J292h3IjJlWSs4VBYkf,In the Flat Field,41,0.561,0.000306,0.809,https://api.spotify.com/v1/audio-analysis/2u7J292h3IjJlWSs4VBYkf
+5guasiYhIKTJC84TNsazSm,Romeo's Distress,52,0.209,0.00922,0.974,https://api.spotify.com/v1/audio-analysis/5guasiYhIKTJC84TNsazSm
+0CLbmkYmQIWiEwnsbOkLpd,"A Love Supreme, Pt. I – Acknowledgement",50,0.519,0.485,0.586,https://api.spotify.com/v1/audio-analysis/0CLbmkYmQIWiEwnsbOkLpd
+2U0UZHljhqhX50VbzsKo0K,First Gymnopedie,43,0.193,0.992,0.36,https://api.spotify.com/v1/audio-analysis/2U0UZHljhqhX50VbzsKo0K
+30enq9c8DPG52Yn1xBsqqU,Mer du Japon,51,0.39,0.294,0.767,https://api.spotify.com/v1/audio-analysis/30enq9c8DPG52Yn1xBsqqU
+7hs0Q5T9oyYMuGg4EQZenj,April Skies,50,0.589,0.00417,0.717,https://api.spotify.com/v1/audio-analysis/7hs0Q5T9oyYMuGg4EQZenj
+325ipyWkzIGakH2DJgDlOT,Happy When It Rains,46,0.732,0.000564,0.84,https://api.spotify.com/v1/audio-analysis/325ipyWkzIGakH2DJgDlOT
+6il7vSF0P2bTUHXCwkprF2,Deus,35,0.623,0.0661,0.54,https://api.spotify.com/v1/audio-analysis/6il7vSF0P2bTUHXCwkprF2
+2Wac2hlUTjfiUu27sLHGIi,The Spin,35,0.0412,0.988,0.17,https://api.spotify.com/v1/audio-analysis/2Wac2hlUTjfiUu27sLHGIi
+19ZE32i7TmLyWf6tQtaZbX,Just Like You,0,0.48,0.00496,0.677,https://api.spotify.com/v1/audio-analysis/19ZE32i7TmLyWf6tQtaZbX
+6vTtCOimcPs5H1Jr9d0Aep,Sour Times,61,0.55,0.0508,0.633,https://api.spotify.com/v1/audio-analysis/6vTtCOimcPs5H1Jr9d0Aep
+2dYexYOVMItMNUvGXl4gtR,Give It Away,48,0.451,0.0338,0.554,https://api.spotify.com/v1/audio-analysis/2dYexYOVMItMNUvGXl4gtR
+469e9xIXfJ9wnNxrVdqXWP,Ernie,0,0.131,0.0672,0.365,https://api.spotify.com/v1/audio-analysis/469e9xIXfJ9wnNxrVdqXWP
+4kOy7M6eT5kYJCZxh0c6Lh,The Rip,55,0.249,0.929,0.486,https://api.spotify.com/v1/audio-analysis/4kOy7M6eT5kYJCZxh0c6Lh
+0EjtZmOLT6WLShJRHCFWVU,Tapestry from an Asteroid,51,0.354,0.668,0.108,https://api.spotify.com/v1/audio-analysis/0EjtZmOLT6WLShJRHCFWVU
+2AX5E86cn9n2dgioZEjirI,Golden Brown,69,0.599,0.143,0.383,https://api.spotify.com/v1/audio-analysis/2AX5E86cn9n2dgioZEjirI
+7AL6qzIDHIX7pEUWrzNiIs,Hurdy Gurdy Man,55,0.542,0.00379,0.463,https://api.spotify.com/v1/audio-analysis/7AL6qzIDHIX7pEUWrzNiIs
+5WZSFvCa9sw3lDufP9w8nb,"Slowly Forgetting, Barely Remembering",32,0.0331,0.974,0.157,https://api.spotify.com/v1/audio-analysis/5WZSFvCa9sw3lDufP9w8nb
+4N92mYGzWCFp8X925TUdSI,Phare,36,0.0391,0.863,0.158,https://api.spotify.com/v1/audio-analysis/4N92mYGzWCFp8X925TUdSI
+4Lj5cpFVJHOhg63hAmVb2c,Arugula,27,0.538,0.926,0.402,https://api.spotify.com/v1/audio-analysis/4Lj5cpFVJHOhg63hAmVb2c
+7hyAAjHZaDWSPDzlUYNUIa,Threnody,56,0.174,0.989,0.00572,https://api.spotify.com/v1/audio-analysis/7hyAAjHZaDWSPDzlUYNUIa
+5R1zMU359iUA56GRA2a8Oe,End Theme,0,0.51,0.695,0.344,https://api.spotify.com/v1/audio-analysis/5R1zMU359iUA56GRA2a8Oe
+5Nn2Dj7OQsGL6pgQ9iIzPp,Ghostwriter,59,0.594,0.0107,0.68,https://api.spotify.com/v1/audio-analysis/5Nn2Dj7OQsGL6pgQ9iIzPp

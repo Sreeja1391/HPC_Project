@@ -1,0 +1,842 @@
+track_uri,name,popularity,valence,acousticness,energy,analysis_url
+3UCN3NZKE2FXfYpXYcwfBS,A Whole New World,46,0.289,0.993,0.112,https://api.spotify.com/v1/audio-analysis/3UCN3NZKE2FXfYpXYcwfBS
+5ETRimFnC8Irh20w7enu7X,Part of Your World,45,0.405,0.985,0.0978,https://api.spotify.com/v1/audio-analysis/5ETRimFnC8Irh20w7enu7X
+0MwsVhUhQ7ZqDHwidNraLK,Let It Go,45,0.218,0.992,0.0867,https://api.spotify.com/v1/audio-analysis/0MwsVhUhQ7ZqDHwidNraLK
+402Pwuz1XS5gqs625git4Z,Beauty and the Beast,42,0.374,0.993,0.0904,https://api.spotify.com/v1/audio-analysis/402Pwuz1XS5gqs625git4Z
+3Z69D2VShmSNmf1FhOHygZ,Someday My Prince Will Come,43,0.161,0.992,0.0527,https://api.spotify.com/v1/audio-analysis/3Z69D2VShmSNmf1FhOHygZ
+7E7h2oUypI4mvtCJ2Muacb,When You Wish Upon a Star,41,0.21,0.988,0.055,https://api.spotify.com/v1/audio-analysis/7E7h2oUypI4mvtCJ2Muacb
+4UOWavrWkoksmm5W0k6jPr,My Neighbor Totoro,43,0.706,0.941,0.476,https://api.spotify.com/v1/audio-analysis/4UOWavrWkoksmm5W0k6jPr
+0CBmghbDaOYxOt4rlmpUTd,Ave Maria,54,0.75,0.985,0.317,https://api.spotify.com/v1/audio-analysis/0CBmghbDaOYxOt4rlmpUTd
+7Mhgikcr6qy7KkdPCx8izW,Ponyo on the Cliff by the Sea,45,0.726,0.941,0.366,https://api.spotify.com/v1/audio-analysis/7Mhgikcr6qy7KkdPCx8izW
+3xp1q9hYyzTjsXG9H8BICf,Traumerei,35,0.344,0.98,0.236,https://api.spotify.com/v1/audio-analysis/3xp1q9hYyzTjsXG9H8BICf
+7qxDBv6bSRhDHhrQmHP6oN,Schubert Lullaby,36,0.471,0.974,0.102,https://api.spotify.com/v1/audio-analysis/7qxDBv6bSRhDHhrQmHP6oN
+1dLa3jqDlBj3JNWUdfG0v1,Kaze-No Toorimichi,34,0.275,0.982,0.109,https://api.spotify.com/v1/audio-analysis/1dLa3jqDlBj3JNWUdfG0v1
+4nUhthOWY6vUHnpAMGCMSw,Brahms Lullaby,40,0.387,0.966,0.154,https://api.spotify.com/v1/audio-analysis/4nUhthOWY6vUHnpAMGCMSw
+0wrg4FXpFKz1y1tYsZPJOw,Mr Majestic,44,0.179,0.00028,0.925,https://api.spotify.com/v1/audio-analysis/0wrg4FXpFKz1y1tYsZPJOw
+1lDwr4UCAHN5UzhnCa7ShQ,Warehouse,0,0.335,0.00137,0.95,https://api.spotify.com/v1/audio-analysis/1lDwr4UCAHN5UzhnCa7ShQ
+1pW8SZoIgxeIik3W2JZO72,Equator,16,0.731,0.00367,0.754,https://api.spotify.com/v1/audio-analysis/1pW8SZoIgxeIik3W2JZO72
+3ApF4gKjT4Ne9YwnOUq0i5,Wish We Didn't,40,0.446,0.167,0.382,https://api.spotify.com/v1/audio-analysis/3ApF4gKjT4Ne9YwnOUq0i5
+6v6cuaxCnIAnnFrMcJLrc6,Talisman,32,0.0364,0.821,0.00487,https://api.spotify.com/v1/audio-analysis/6v6cuaxCnIAnnFrMcJLrc6
+3u5W79BxEJMvAVFgLWK9m4,Miyus Diminished,53,0.0363,0.98,0.0558,https://api.spotify.com/v1/audio-analysis/3u5W79BxEJMvAVFgLWK9m4
+0wz1CgXFr0aSu1UzqEGG4C,Whispered Dreams,52,0.0396,0.987,0.0288,https://api.spotify.com/v1/audio-analysis/0wz1CgXFr0aSu1UzqEGG4C
+6t3e2UfHXGVdxXJhPYj6Lg,Montania,66,0.101,0.88,0.0429,https://api.spotify.com/v1/audio-analysis/6t3e2UfHXGVdxXJhPYj6Lg
+1x7zBpMIdrySvhENuSY5JV,Climbing,51,0.037,0.897,0.0389,https://api.spotify.com/v1/audio-analysis/1x7zBpMIdrySvhENuSY5JV
+6FTI1GirXye67U41XkzR2h,Dreaminess,60,0.0388,0.97,0.0347,https://api.spotify.com/v1/audio-analysis/6FTI1GirXye67U41XkzR2h
+1ngTQ4T37HeS0NplRUTX24,Center Of Attention,47,0.0525,0.978,0.00813,https://api.spotify.com/v1/audio-analysis/1ngTQ4T37HeS0NplRUTX24
+5xcgi9ta3wVzBFktltBLMo,Underview,64,0.0967,0.99,0.00211,https://api.spotify.com/v1/audio-analysis/5xcgi9ta3wVzBFktltBLMo
+1CbxWhH2cl3PXf0Re0TkZD,Our Powers,48,0.175,0.89,0.0103,https://api.spotify.com/v1/audio-analysis/1CbxWhH2cl3PXf0Re0TkZD
+16p2gXFq1tUMuid42TCahy,Spatial Dreams,46,0.49,0.993,0.00048,https://api.spotify.com/v1/audio-analysis/16p2gXFq1tUMuid42TCahy
+5G0AX3BgFw0VuJLqREvDaj,Intervention,50,0.0591,0.864,0.00285,https://api.spotify.com/v1/audio-analysis/5G0AX3BgFw0VuJLqREvDaj
+7AR7xW0wCscHZeYf2zj7Fc,Upwards,47,0.0342,0.803,0.00243,https://api.spotify.com/v1/audio-analysis/7AR7xW0wCscHZeYf2zj7Fc
+73YDqwVKSNwtzD9cLyUnKo,Transformation,47,0.0605,0.924,0.0141,https://api.spotify.com/v1/audio-analysis/73YDqwVKSNwtzD9cLyUnKo
+6IlOnQUzJckb3KXqUXAbVt,distant star,48,0.116,0.878,0.0102,https://api.spotify.com/v1/audio-analysis/6IlOnQUzJckb3KXqUXAbVt
+1kOo4z14fQRQdnYXU8VDcv,At Night I Fly,58,0.158,0.985,0.0293,https://api.spotify.com/v1/audio-analysis/1kOo4z14fQRQdnYXU8VDcv
+53Pqc0z3W4bJM9eeOO1W3O,Ocean Breath,59,0.0304,0.968,0.00371,https://api.spotify.com/v1/audio-analysis/53Pqc0z3W4bJM9eeOO1W3O
+0LOfO55KZs4fW7UtyQJfRJ,Afloat,60,0.0276,0.864,0.0126,https://api.spotify.com/v1/audio-analysis/0LOfO55KZs4fW7UtyQJfRJ
+3gxwqX94FR5XNcwNAnpKiB,Nocturne,0,0.58,0.867,0.363,https://api.spotify.com/v1/audio-analysis/3gxwqX94FR5XNcwNAnpKiB
+5b37N7OEe9IQJQ48hiKY1p,Safe in the Angel's Wing,24,0.0385,0.963,0.101,https://api.spotify.com/v1/audio-analysis/5b37N7OEe9IQJQ48hiKY1p
+1gayETCFqhIo2HAfgQFOD9,Requiem,18,0.0397,0.99,0.131,https://api.spotify.com/v1/audio-analysis/1gayETCFqhIo2HAfgQFOD9
+5PWVUzDrI6nS9xrxefq5BC,Calling County Clare,39,0.189,0.948,0.224,https://api.spotify.com/v1/audio-analysis/5PWVUzDrI6nS9xrxefq5BC
+4MeTO2Ein0s4dzDCYajIoU,Believe,46,0.117,0.987,0.0302,https://api.spotify.com/v1/audio-analysis/4MeTO2Ein0s4dzDCYajIoU
+21paVu8nvMYrk2lnJHlx9T,Sunrise,32,0.0426,0.954,0.0696,https://api.spotify.com/v1/audio-analysis/21paVu8nvMYrk2lnJHlx9T
+3Nou5g8qSke2RT562MoAtn,Water Harp,0,0.226,0.989,0.0809,https://api.spotify.com/v1/audio-analysis/3Nou5g8qSke2RT562MoAtn
+5AgoE1qJBCOanhFa5N6APy,Timeless Peace,32,0.153,0.994,0.0135,https://api.spotify.com/v1/audio-analysis/5AgoE1qJBCOanhFa5N6APy
+5GK1vIE4zNiGDOXBIR8NGr,Stressed Out,19,0.0977,0.991,0.0989,https://api.spotify.com/v1/audio-analysis/5GK1vIE4zNiGDOXBIR8NGr
+7EQVjcyzRg2WlciWY5spDG,Body Harmony,16,0.0286,0.994,0.00607,https://api.spotify.com/v1/audio-analysis/7EQVjcyzRg2WlciWY5spDG
+268pA2KFsObuMJgrj2LwCt,White Sand,35,0.342,0.996,0.0421,https://api.spotify.com/v1/audio-analysis/268pA2KFsObuMJgrj2LwCt
+2GaaqyLGolMCtroIin728h,Pieces,0,0.121,0.989,0.0293,https://api.spotify.com/v1/audio-analysis/2GaaqyLGolMCtroIin728h
+2bHatMiVDPADSa9tl77FyV,Dreamland,16,0.11,0.984,0.11,https://api.spotify.com/v1/audio-analysis/2bHatMiVDPADSa9tl77FyV
+7yz7Kgs62Q93YwzRGWuwtK,Sun Eclipse,0,0.0394,0.936,0.042,https://api.spotify.com/v1/audio-analysis/7yz7Kgs62Q93YwzRGWuwtK
+5wfHmgTmRjXVdVTn7YVKtx,Epic Dream,0,0.151,0.985,0.3,https://api.spotify.com/v1/audio-analysis/5wfHmgTmRjXVdVTn7YVKtx
+0XBFs9GwZZIDPfbJJcWHWH,Rainbow Hill,28,0.12,0.876,0.184,https://api.spotify.com/v1/audio-analysis/0XBFs9GwZZIDPfbJJcWHWH
+2FT8oEVEsuYxLHDRwDQoe8,Ambience,24,0.146,0.983,0.0987,https://api.spotify.com/v1/audio-analysis/2FT8oEVEsuYxLHDRwDQoe8
+4KiOINTHhMwbkd80qt39mF,Another Day,16,0.0396,0.529,0.241,https://api.spotify.com/v1/audio-analysis/4KiOINTHhMwbkd80qt39mF
+2rcSj9hDlqZp7EPjFX7u7i,The Morning Fog Is Lifting,0,0.0362,0.342,0.161,https://api.spotify.com/v1/audio-analysis/2rcSj9hDlqZp7EPjFX7u7i
+4gAnirdLvNzvoWgtp2x5o8,Solarium,26,0.0691,0.978,0.0211,https://api.spotify.com/v1/audio-analysis/4gAnirdLvNzvoWgtp2x5o8
+1yuc5mXjpJn9NWLW6B9mKu,Mystic Dream,0,0.0398,0.98,0.0697,https://api.spotify.com/v1/audio-analysis/1yuc5mXjpJn9NWLW6B9mKu
+5nzyvBO6ZGnYRLwF1Ew0oW,Planetary Movements,9,0.139,0.989,0.0681,https://api.spotify.com/v1/audio-analysis/5nzyvBO6ZGnYRLwF1Ew0oW
+2qkf3QkCNlJ34b0ZLKiDLQ,Yoga Morning,15,0.194,0.994,0.0733,https://api.spotify.com/v1/audio-analysis/2qkf3QkCNlJ34b0ZLKiDLQ
+3TuHRChtfcoWtfc25S8yWg,Zen Moments,0,0.0411,0.872,0.397,https://api.spotify.com/v1/audio-analysis/3TuHRChtfcoWtfc25S8yWg
+7BlZNr6z6eDIK2JX1fMuTc,Yoga,15,0.0642,0.985,0.118,https://api.spotify.com/v1/audio-analysis/7BlZNr6z6eDIK2JX1fMuTc
+4FC2bdIVRuejDbFeMLYOhe,Wonderful View,25,0.0742,0.964,0.0135,https://api.spotify.com/v1/audio-analysis/4FC2bdIVRuejDbFeMLYOhe
+6r7DPJvD3vpFGDmzR8MaJ7,Find Your Life,23,0.079,0.956,0.0908,https://api.spotify.com/v1/audio-analysis/6r7DPJvD3vpFGDmzR8MaJ7
+085pAfEmuMCqXnU5EgiMkT,Daylight In November,0,0.054,0.988,0.126,https://api.spotify.com/v1/audio-analysis/085pAfEmuMCqXnU5EgiMkT
+6l421sIpSyFTH0k15abrlE,Calm Yourself,0,0.289,0.994,0.0467,https://api.spotify.com/v1/audio-analysis/6l421sIpSyFTH0k15abrlE
+5kdS970asCxyZRWoMe2ESM,Meditation Spring,0,0.0706,0.895,0.394,https://api.spotify.com/v1/audio-analysis/5kdS970asCxyZRWoMe2ESM
+2DMQnjJTOW4DuUlPQhZcjQ,A New Day,24,0.0503,0.92,0.258,https://api.spotify.com/v1/audio-analysis/2DMQnjJTOW4DuUlPQhZcjQ
+3usrz35cgf23nlhHpNTGQp,Riverbed,14,0.174,0.774,0.133,https://api.spotify.com/v1/audio-analysis/3usrz35cgf23nlhHpNTGQp
+6XuF5PPwTMHFWwmSzIcffM,Yoga Dawn,0,0.205,0.985,0.0578,https://api.spotify.com/v1/audio-analysis/6XuF5PPwTMHFWwmSzIcffM
+68GunBPvbGNcuRAl1fXUUg,Soft Stretch,24,0.111,0.896,0.0362,https://api.spotify.com/v1/audio-analysis/68GunBPvbGNcuRAl1fXUUg
+3CufsWhw5mHWunT0MzJDqG,Relaxation Time,20,0.334,0.919,0.111,https://api.spotify.com/v1/audio-analysis/3CufsWhw5mHWunT0MzJDqG
+76BgP0T2tYotQxYG8kwjUI,Yoga Healing,0,0.0626,0.976,0.0367,https://api.spotify.com/v1/audio-analysis/76BgP0T2tYotQxYG8kwjUI
+4oIZXnjmEjq2FWMBl1D8ef,Tantric Sleep,0,0.108,0.902,0.18,https://api.spotify.com/v1/audio-analysis/4oIZXnjmEjq2FWMBl1D8ef
+6QS3a8tYgYGNXa9SyIrvFK,Weightless Moment,0,0.137,0.617,0.152,https://api.spotify.com/v1/audio-analysis/6QS3a8tYgYGNXa9SyIrvFK
+3hG0qFSnEnlbl460AXrZy8,Chakra Yoga,0,0.118,0.883,0.323,https://api.spotify.com/v1/audio-analysis/3hG0qFSnEnlbl460AXrZy8
+0RdblFARPSR1SyHJ19ZcSS,The Lighthouse,0,0.0748,0.971,0.124,https://api.spotify.com/v1/audio-analysis/0RdblFARPSR1SyHJ19ZcSS
+41W7oWmsI9DfGZxt6BjWQE,Calm Cornfields,0,0.254,0.995,0.0147,https://api.spotify.com/v1/audio-analysis/41W7oWmsI9DfGZxt6BjWQE
+2WtOyO8zkqeXzy5SvxRwMM,Parallel World,37,0.196,0.993,0.00927,https://api.spotify.com/v1/audio-analysis/2WtOyO8zkqeXzy5SvxRwMM
+26lhpkRKDH8NU7fpZGmS4F,A Beautiful View,0,0.247,0.996,0.0893,https://api.spotify.com/v1/audio-analysis/26lhpkRKDH8NU7fpZGmS4F
+6Z8O0mfeNB4zfyQoRBUmOB,Lights,0,0.12,0.876,0.184,https://api.spotify.com/v1/audio-analysis/6Z8O0mfeNB4zfyQoRBUmOB
+0QnEy7qPlfntKP08zfo4R2,Stressed Out,9,0.0977,0.991,0.0989,https://api.spotify.com/v1/audio-analysis/0QnEy7qPlfntKP08zfo4R2
+2lQ4WGgaoh1r4mNI8K9OXU,A Perfect Dream,35,0.227,0.993,0.15,https://api.spotify.com/v1/audio-analysis/2lQ4WGgaoh1r4mNI8K9OXU
+6RBkk5bgyo1OEv9j3TDUe3,Lunar Drive,0,0.0996,0.981,0.157,https://api.spotify.com/v1/audio-analysis/6RBkk5bgyo1OEv9j3TDUe3
+49kZgxJVR1jX5UQOF96mVt,Free Diving,0,0.273,0.972,0.209,https://api.spotify.com/v1/audio-analysis/49kZgxJVR1jX5UQOF96mVt
+7vaMO8SsKBdlHgJKWZWgRl,Mantra,0,0.0642,0.985,0.118,https://api.spotify.com/v1/audio-analysis/7vaMO8SsKBdlHgJKWZWgRl
+40oGNdHcoBEf1ZdNYA7uaa,Lost In Time,0,0.165,0.933,0.139,https://api.spotify.com/v1/audio-analysis/40oGNdHcoBEf1ZdNYA7uaa
+7zvj1TdbLYr2rdQagq5ROY,Anticipating Your Arrival,0,0.0393,0.855,0.0976,https://api.spotify.com/v1/audio-analysis/7zvj1TdbLYr2rdQagq5ROY
+5PPVIlwv2Fd2nhStpwX3C7,Energy Is Everywhere,9,0.0755,0.995,0.0232,https://api.spotify.com/v1/audio-analysis/5PPVIlwv2Fd2nhStpwX3C7
+0cr03IMs2GGqviSqxntnKK,Eternal Relax,0,0.0807,0.965,0.00405,https://api.spotify.com/v1/audio-analysis/0cr03IMs2GGqviSqxntnKK
+7AbUxkLuxd6t70HWts3PHj,Time for You,0,0.136,0.996,0.00306,https://api.spotify.com/v1/audio-analysis/7AbUxkLuxd6t70HWts3PHj
+1kmrSzwM5UAZBstSq3KqJM,The Fantastic Light,0,0.152,0.877,0.0106,https://api.spotify.com/v1/audio-analysis/1kmrSzwM5UAZBstSq3KqJM
+6IXcIfHncGaivgmetxnvOB,A Great Feeling,0,0.138,0.987,0.0283,https://api.spotify.com/v1/audio-analysis/6IXcIfHncGaivgmetxnvOB
+2XPNoEYJEp9FJ2BHhDUO1Q,Balanced Life,0,0.0937,0.832,0.153,https://api.spotify.com/v1/audio-analysis/2XPNoEYJEp9FJ2BHhDUO1Q
+2RSDFY6iH0ZtBIIq98ybSy,Calmity,10,0.393,0.96,0.156,https://api.spotify.com/v1/audio-analysis/2RSDFY6iH0ZtBIIq98ybSy
+3ctJFms7pn4ZRggjPZi7WM,Body and Mind,0,0.449,0.996,0.0139,https://api.spotify.com/v1/audio-analysis/3ctJFms7pn4ZRggjPZi7WM
+1JGpRuaCSRri7yY2fBMgUd,Red And Blue,0,0.0864,0.87,0.263,https://api.spotify.com/v1/audio-analysis/1JGpRuaCSRri7yY2fBMgUd
+0KRe9LCAs2wx5Uv0QRimqq,Calm Relaxing Mindset,37,0.395,0.996,0.0528,https://api.spotify.com/v1/audio-analysis/0KRe9LCAs2wx5Uv0QRimqq
+0WNaoHnPvx2KwDpGMyVvhM,Waves Will heal,0,0.147,0.978,0.226,https://api.spotify.com/v1/audio-analysis/0WNaoHnPvx2KwDpGMyVvhM
+2ty5Qn1xAX956yF7338ZFw,Soothing Water Stream,0,0.0769,0.979,0.0347,https://api.spotify.com/v1/audio-analysis/2ty5Qn1xAX956yF7338ZFw
+304qRbBXVnWUfhUS9CYQag,Clear Sky,0,0.141,0.989,0.00821,https://api.spotify.com/v1/audio-analysis/304qRbBXVnWUfhUS9CYQag
+1teLmmVeXm8sgm8DCwGtho,Heal Me,15,0.188,0.992,0.00276,https://api.spotify.com/v1/audio-analysis/1teLmmVeXm8sgm8DCwGtho
+6vJBk5Q2AJM8VtSsZotBja,Peaceful Resting,0,0.298,0.994,0.00937,https://api.spotify.com/v1/audio-analysis/6vJBk5Q2AJM8VtSsZotBja
+35nt0PbYvKYJwT1hCaLeoa,After the Rain,16,0.142,0.994,0.0465,https://api.spotify.com/v1/audio-analysis/35nt0PbYvKYJwT1hCaLeoa
+3Bmf6w0LBvnzQQ7jSs9WHS,Sun Salutation,9,0.131,0.878,0.124,https://api.spotify.com/v1/audio-analysis/3Bmf6w0LBvnzQQ7jSs9WHS
+7FKMu0vfBfjH9IKZTsEWf3,Take a Peek,0,0.107,0.982,0.0363,https://api.spotify.com/v1/audio-analysis/7FKMu0vfBfjH9IKZTsEWf3
+1LBbdr9gnlZRL3gphMIQlu,Reduce Stress,0,0.0759,0.959,0.124,https://api.spotify.com/v1/audio-analysis/1LBbdr9gnlZRL3gphMIQlu
+7bVHE6AknW4x2AKQEvaFpw,Autum Morning,0,0.0391,0.99,0.00697,https://api.spotify.com/v1/audio-analysis/7bVHE6AknW4x2AKQEvaFpw
+4i13p88mbzKdPx9m78kmLs,Keep Hope,15,0.52,0.994,0.0614,https://api.spotify.com/v1/audio-analysis/4i13p88mbzKdPx9m78kmLs
+58lRpNnsP8onve69ivOY8I,Organic Harmony,0,0.109,0.99,0.0233,https://api.spotify.com/v1/audio-analysis/58lRpNnsP8onve69ivOY8I
+2tiPybGJbKsjRm3OW3bkZX,Years,17,0.338,0.995,0.0446,https://api.spotify.com/v1/audio-analysis/2tiPybGJbKsjRm3OW3bkZX
+1u2OwPNILn9XjczhVojD3o,I Love You,14,0.18,0.995,0.0396,https://api.spotify.com/v1/audio-analysis/1u2OwPNILn9XjczhVojD3o
+50t4SrRhYeiq3U81Od7OHo,Calm Down,0,0.154,0.896,0.0533,https://api.spotify.com/v1/audio-analysis/50t4SrRhYeiq3U81Od7OHo
+4EzQYc182UBUJInGul5Nza,Heart And Mind,0,0.0,0.987,0.131,https://api.spotify.com/v1/audio-analysis/4EzQYc182UBUJInGul5Nza
+3cJTBIi3LBAHfyimfKQ56c,Flowery Grace,15,0.498,0.996,0.00254,https://api.spotify.com/v1/audio-analysis/3cJTBIi3LBAHfyimfKQ56c
+2hH3TagRSEeC67fKuJOrzs,Enjoying Piano Music,0,0.199,0.996,0.0333,https://api.spotify.com/v1/audio-analysis/2hH3TagRSEeC67fKuJOrzs
+7xpTo9xqzENEklVRyxFUpf,Easy Pieces,0,0.663,0.996,0.000576,https://api.spotify.com/v1/audio-analysis/7xpTo9xqzENEklVRyxFUpf
+6FZ2KFWtEbcC5qLZQxvZgP,In the East,0,0.304,0.992,0.0951,https://api.spotify.com/v1/audio-analysis/6FZ2KFWtEbcC5qLZQxvZgP
+69NzqVsTBesYgoDXHLfStB,I Will Heal You,17,0.248,0.995,0.141,https://api.spotify.com/v1/audio-analysis/69NzqVsTBesYgoDXHLfStB
+4hd7TP2VWRioQUFVsuAEhV,If I Stay,14,0.468,0.996,0.0037,https://api.spotify.com/v1/audio-analysis/4hd7TP2VWRioQUFVsuAEhV
+1P9Spd4K6w3TA81ONzvs9Y,Morning Echoes,0,0.274,0.996,0.000988,https://api.spotify.com/v1/audio-analysis/1P9Spd4K6w3TA81ONzvs9Y
+0kNbeSVX5O5DxjtHHckxy7,Flowing Waters,0,0.633,0.996,0.000824,https://api.spotify.com/v1/audio-analysis/0kNbeSVX5O5DxjtHHckxy7
+2WSgqLFpUGYZAxxr0wyBWw,Sentimental Journey,13,0.0,0.996,0.000461,https://api.spotify.com/v1/audio-analysis/2WSgqLFpUGYZAxxr0wyBWw
+1msfyZ899P8QibFZwjJHXU,A Million Years From Now,9,0.0953,0.995,0.00981,https://api.spotify.com/v1/audio-analysis/1msfyZ899P8QibFZwjJHXU
+0WCKlkQsUlAi0k8XV3m2Db,Alpaca Away,0,0.123,0.989,0.00407,https://api.spotify.com/v1/audio-analysis/0WCKlkQsUlAi0k8XV3m2Db
+1WWr96KFxSfwtB0ZcdLqoQ,The Little Story,0,0.551,0.995,0.00152,https://api.spotify.com/v1/audio-analysis/1WWr96KFxSfwtB0ZcdLqoQ
+4Usg0vwjUPMSRNitLWgAWR,Migration,0,0.0396,0.986,0.00229,https://api.spotify.com/v1/audio-analysis/4Usg0vwjUPMSRNitLWgAWR
+0CSM0TiWUZ5DFtCb8Z1j7M,Dreamcatcher,0,0.186,0.995,0.0217,https://api.spotify.com/v1/audio-analysis/0CSM0TiWUZ5DFtCb8Z1j7M
+0WDlchuSfkU6qdhOVYL6gI,After the Sunset,0,0.27,0.991,0.129,https://api.spotify.com/v1/audio-analysis/0WDlchuSfkU6qdhOVYL6gI
+2NzPzcVzCZBH2S69jeG7TZ,Weightless,0,0.0937,0.762,0.0729,https://api.spotify.com/v1/audio-analysis/2NzPzcVzCZBH2S69jeG7TZ
+74ikureYpWEevghVKd9gCY,Birdflight,0,0.0361,0.958,0.0671,https://api.spotify.com/v1/audio-analysis/74ikureYpWEevghVKd9gCY
+3k4AI9hRa5nAyal6mhDoO5,Soothing Thoughts,14,0.574,0.996,0.0031,https://api.spotify.com/v1/audio-analysis/3k4AI9hRa5nAyal6mhDoO5
+5O1tteLSw9oc59pRh4rY6M,Breeze Of Love,0,0.0965,0.987,0.00741,https://api.spotify.com/v1/audio-analysis/5O1tteLSw9oc59pRh4rY6M
+5B19ilkaeyAvXgVeEciNdc,Fade Into Deep Sleep,0,0.357,0.994,0.00288,https://api.spotify.com/v1/audio-analysis/5B19ilkaeyAvXgVeEciNdc
+60wSVAn7rxUZ1LdfLmRHJI,Lotus,0,0.447,0.995,0.0206,https://api.spotify.com/v1/audio-analysis/60wSVAn7rxUZ1LdfLmRHJI
+5QENyzKXpYVicvMZ6OycOb,Lonely Hearts,0,0.0478,0.992,0.196,https://api.spotify.com/v1/audio-analysis/5QENyzKXpYVicvMZ6OycOb
+61T65f8No8R3yGwkG55xbf,Red Fantasy,0,0.177,0.993,0.0086,https://api.spotify.com/v1/audio-analysis/61T65f8No8R3yGwkG55xbf
+2cXV2NKpvH20X1Um86GEzD,Calming Pulse,14,0.33,0.994,0.0278,https://api.spotify.com/v1/audio-analysis/2cXV2NKpvH20X1Um86GEzD
+7EFxmrerX8WDKN8w0eAI8I,Mind Harmony,0,0.132,0.972,0.0112,https://api.spotify.com/v1/audio-analysis/7EFxmrerX8WDKN8w0eAI8I
+5OnQzxXgH71Vm6JdkdWxQM,Recreation,0,0.138,0.983,0.026,https://api.spotify.com/v1/audio-analysis/5OnQzxXgH71Vm6JdkdWxQM
+0I4ttvJBCG5zJGRZLJjCXl,Something Elese,0,0.0793,0.994,0.0051,https://api.spotify.com/v1/audio-analysis/0I4ttvJBCG5zJGRZLJjCXl
+0GeZyA3poRdJClt8gNyWcg,By The River,0,0.385,0.996,0.113,https://api.spotify.com/v1/audio-analysis/0GeZyA3poRdJClt8gNyWcg
+2ZOvfd17YZFvrLaB5dOSef,Hoponopono,31,0.0346,0.981,0.0165,https://api.spotify.com/v1/audio-analysis/2ZOvfd17YZFvrLaB5dOSef
+6YtsJUCBB41QSllt3bNSn4,Hoponopono Music,29,0.0356,0.984,0.0126,https://api.spotify.com/v1/audio-analysis/6YtsJUCBB41QSllt3bNSn4
+4JsciaVRenORcSBYpDEhrj,Deep Meditation,29,0.0394,0.954,0.00614,https://api.spotify.com/v1/audio-analysis/4JsciaVRenORcSBYpDEhrj
+5Uo7axiEjnNbRTMooJh1OI,Deep Meditation Zen Garden,29,0.0375,0.981,0.00389,https://api.spotify.com/v1/audio-analysis/5Uo7axiEjnNbRTMooJh1OI
+6BurcXNCFbcjJ36eBBnPRq,Deep Meditation Zen Focus,29,0.0385,0.958,0.00713,https://api.spotify.com/v1/audio-analysis/6BurcXNCFbcjJ36eBBnPRq
+447phHQxtCXeLQBTS40tfU,Deep Meditation Thai Massage,28,0.0379,0.96,0.00734,https://api.spotify.com/v1/audio-analysis/447phHQxtCXeLQBTS40tfU
+5uHxcoOkpVJXwebApB3tuJ,Deep Meditation Sounds,28,0.0368,0.955,0.00755,https://api.spotify.com/v1/audio-analysis/5uHxcoOkpVJXwebApB3tuJ
+7GCdge9jrHcLSt6vbsnXIg,Deep Meditation Sleep,28,0.0393,0.957,0.00595,https://api.spotify.com/v1/audio-analysis/7GCdge9jrHcLSt6vbsnXIg
+2BgnVhv1O1g1QyU8b8sTuX,Deep Meditation Relaxing,28,0.0383,0.96,0.00669,https://api.spotify.com/v1/audio-analysis/2BgnVhv1O1g1QyU8b8sTuX
+3PppeeytsQLVOdPpkYzGTh,Deep Meditation Music,26,0.0375,0.958,0.00772,https://api.spotify.com/v1/audio-analysis/3PppeeytsQLVOdPpkYzGTh
+17OuKD9KsQkaL2rPPZP2sL,Deep Meditation Mindful,26,0.0381,0.976,0.00733,https://api.spotify.com/v1/audio-analysis/17OuKD9KsQkaL2rPPZP2sL
+2brFaAEQdWDYEnqxF8v4kh,Deep Meditation Mindful Relaxing,25,0.0369,0.958,0.00736,https://api.spotify.com/v1/audio-analysis/2brFaAEQdWDYEnqxF8v4kh
+353BJw23pA9OFvXcBoCB6N,Deep Meditation Massage,26,0.0363,0.963,0.00583,https://api.spotify.com/v1/audio-analysis/353BJw23pA9OFvXcBoCB6N
+6Fyfc3wJygroyyDFbmjNtg,Deep Meditation Deep Sleep,29,0.0364,0.964,0.00662,https://api.spotify.com/v1/audio-analysis/6Fyfc3wJygroyyDFbmjNtg
+4ir05QTX67EdQi0PGJK4Xt,Deep Meditation Deep Relax,25,0.0375,0.968,0.0088,https://api.spotify.com/v1/audio-analysis/4ir05QTX67EdQi0PGJK4Xt
+5P2HBslQR9Sv6BQvOiDu2U,Deep Meditation Deep Ambient Sounds,25,0.0368,0.946,0.0083,https://api.spotify.com/v1/audio-analysis/5P2HBslQR9Sv6BQvOiDu2U
+74UKDg4wjpMWfgzyPx13sr,Deep Meditation Deep Ambient for Sleep,25,0.0358,0.958,0.00753,https://api.spotify.com/v1/audio-analysis/74UKDg4wjpMWfgzyPx13sr
+5tmjjDoJabrz2qRCssUkK1,Deep Meditation Deep Ambient for Relaxing,26,0.0388,0.957,0.00741,https://api.spotify.com/v1/audio-analysis/5tmjjDoJabrz2qRCssUkK1
+7Hths3vq401xqk6hjFz6jv,Deep Meditation Concentration,23,0.0388,0.957,0.00741,https://api.spotify.com/v1/audio-analysis/7Hths3vq401xqk6hjFz6jv
+0wpG1lYBxBJzYK7HtbwxkD,Deep Meditation Concentration Ambient Sounds,24,0.0398,0.956,0.00679,https://api.spotify.com/v1/audio-analysis/0wpG1lYBxBJzYK7HtbwxkD
+670Lb4RqUpscdkXnZEuqzx,Deep Meditation Calm Down,26,0.0389,0.96,0.00681,https://api.spotify.com/v1/audio-analysis/670Lb4RqUpscdkXnZEuqzx
+0xJurQ9i5UIWyHd115LEaS,Deep Meditation Ambient Sounds,24,0.0385,0.95,0.00427,https://api.spotify.com/v1/audio-analysis/0xJurQ9i5UIWyHd115LEaS
+1GdNw3y3tB1CrfL8NArTJn,Deep Meditation Ambient Music,23,0.0554,0.953,0.00786,https://api.spotify.com/v1/audio-analysis/1GdNw3y3tB1CrfL8NArTJn
+16iamIhi08aKRSysJ62X8J,Nature Meditation Spa Music,24,0.0351,0.95,0.00953,https://api.spotify.com/v1/audio-analysis/16iamIhi08aKRSysJ62X8J
+5bVDw4Sv0t3UJNEqUeNqJU,Nature Meditation Spa Relaxing Music,23,0.0747,0.837,0.205,https://api.spotify.com/v1/audio-analysis/5bVDw4Sv0t3UJNEqUeNqJU
+0cQhHeYfnNvD63uBkDe2r4,Nature Meditation Spa,21,0.0747,0.837,0.205,https://api.spotify.com/v1/audio-analysis/0cQhHeYfnNvD63uBkDe2r4
+53uqANkqA4x8SDqtuMvfhc,Nature Meditation Wellness,21,0.0747,0.837,0.205,https://api.spotify.com/v1/audio-analysis/53uqANkqA4x8SDqtuMvfhc
+6HljTzRNbUHCsox59QNBVN,Nature Meditation,24,0.174,0.84,0.184,https://api.spotify.com/v1/audio-analysis/6HljTzRNbUHCsox59QNBVN
+1Bakqs9LKicW4v0j9bQ4JM,Spa Ambient Massage,22,0.0821,0.816,0.188,https://api.spotify.com/v1/audio-analysis/1Bakqs9LKicW4v0j9bQ4JM
+5JOmUeIVGVLoPjxYcyzh73,Spa Ambient Mindfullness,22,0.0688,0.884,0.521,https://api.spotify.com/v1/audio-analysis/5JOmUeIVGVLoPjxYcyzh73
+0E8VoaWoXCDbzHdJkChRMm,Spa Ambient Music to Relax,22,0.0378,0.838,0.17,https://api.spotify.com/v1/audio-analysis/0E8VoaWoXCDbzHdJkChRMm
+73fleQqfT3LfN8hzYATwZb,Spa Ambient Music,23,0.039,0.731,0.158,https://api.spotify.com/v1/audio-analysis/73fleQqfT3LfN8hzYATwZb
+1HowjLu4ktqApccJdSkQf8,Spa Ambient Relax,22,0.0384,0.51,0.181,https://api.spotify.com/v1/audio-analysis/1HowjLu4ktqApccJdSkQf8
+6pxxZa8n10yYEYRdRbQTN3,Spa Ambient Relaxation,21,0.0649,0.805,0.247,https://api.spotify.com/v1/audio-analysis/6pxxZa8n10yYEYRdRbQTN3
+4msYPGMvyNOChZE6qUJmpK,Spa Ambient Relaxing Massage,21,0.0473,0.796,0.17,https://api.spotify.com/v1/audio-analysis/4msYPGMvyNOChZE6qUJmpK
+7ep8SjJHnRSu2tRMw24guE,Spa Ambient Relaxing Music,21,0.0384,0.699,0.143,https://api.spotify.com/v1/audio-analysis/7ep8SjJHnRSu2tRMw24guE
+1VwhaBojLokH768M2JXdPC,Spa Ambient Sounds,21,0.0419,0.701,0.0804,https://api.spotify.com/v1/audio-analysis/1VwhaBojLokH768M2JXdPC
+2CoCcBZVIH8sBhDqsiT2Qw,Spa Ambient Stress Relief,21,0.081,0.691,0.182,https://api.spotify.com/v1/audio-analysis/2CoCcBZVIH8sBhDqsiT2Qw
+5FUrooqy2i8HEXNCZE5fUc,Spa Ambient Thai Chi,21,0.0365,0.000482,0.223,https://api.spotify.com/v1/audio-analysis/5FUrooqy2i8HEXNCZE5fUc
+0m85Jb8j2dPO9cJthMHC4o,Spa Ambient Thai Massage,21,0.0361,0.896,0.16,https://api.spotify.com/v1/audio-analysis/0m85Jb8j2dPO9cJthMHC4o
+0CpP42V4ZDw98D18nC9Vjx,Spa Ambient Thai Relax Massage,22,0.0406,0.711,0.179,https://api.spotify.com/v1/audio-analysis/0CpP42V4ZDw98D18nC9Vjx
+4TtyRmXuNFgng5fMlvFdmE,Spa Ambient Wellness,21,0.0373,0.731,0.194,https://api.spotify.com/v1/audio-analysis/4TtyRmXuNFgng5fMlvFdmE
+2iskD1Zhk23RVCpgfubdyd,Spa Ambient,21,0.0621,0.808,0.446,https://api.spotify.com/v1/audio-analysis/2iskD1Zhk23RVCpgfubdyd
+6yOOvuyaM3FAoWI5r43WAU,Stress Relief Ambient Sounds,24,0.0386,0.907,0.0159,https://api.spotify.com/v1/audio-analysis/6yOOvuyaM3FAoWI5r43WAU
+0At66VHM6YVE5epynDHcjH,Stress Relief Ambient,21,0.0439,0.91,0.0138,https://api.spotify.com/v1/audio-analysis/0At66VHM6YVE5epynDHcjH
+1N3qhKtx5m4cCU4zoGUjvY,Stress Relief Calming Meditation,25,0.0396,0.902,0.0116,https://api.spotify.com/v1/audio-analysis/1N3qhKtx5m4cCU4zoGUjvY
+51783g5DD35jBnlUtlMr4f,Stress Relief Deep Meditation,23,0.0384,0.883,0.0312,https://api.spotify.com/v1/audio-analysis/51783g5DD35jBnlUtlMr4f
+1jlQqAvWt97gK99EhdsLHd,Stress Relief Deep Studying,21,0.0399,0.915,0.0109,https://api.spotify.com/v1/audio-analysis/1jlQqAvWt97gK99EhdsLHd
+3tFI5iS43ToZxUDSbz0RLk,Stress Relief Meditation,22,0.0423,0.923,0.0114,https://api.spotify.com/v1/audio-analysis/3tFI5iS43ToZxUDSbz0RLk
+26oz1JCNBJhpAJzOgUPAs0,Stress Relief Relaxing Meditation Ambient,22,0.0493,0.911,0.0299,https://api.spotify.com/v1/audio-analysis/26oz1JCNBJhpAJzOgUPAs0
+2T6E3cuVtT9h3vGMyJDLSs,Stress Relief Relaxing Meditation Sounds,22,0.0466,0.924,0.00996,https://api.spotify.com/v1/audio-analysis/2T6E3cuVtT9h3vGMyJDLSs
+2Bbdi59kTrpnZtJXm5OorF,Stress Relief Relaxing Meditation,21,0.039,0.918,0.014,https://api.spotify.com/v1/audio-analysis/2Bbdi59kTrpnZtJXm5OorF
+1AE7c4ZeWXhbLf2O22O9kE,Stress Relief Relaxing,25,0.0379,0.881,0.0279,https://api.spotify.com/v1/audio-analysis/1AE7c4ZeWXhbLf2O22O9kE
+1wteDIIkViicDaoACL1Cdc,5 Senses of Peace,0,0.05,0.992,0.00858,https://api.spotify.com/v1/audio-analysis/1wteDIIkViicDaoACL1Cdc
+55EY8boIfsCogF4waC9x3M,Ambient Meditation,0,0.175,0.981,0.0273,https://api.spotify.com/v1/audio-analysis/55EY8boIfsCogF4waC9x3M
+2uQICXGYYsb6Jd2KX2U81C,Awakening,0,0.129,0.971,0.0187,https://api.spotify.com/v1/audio-analysis/2uQICXGYYsb6Jd2KX2U81C
+73BoYqcWZBm1eOjXNGAvID,Benefits of Meditation,0,0.037,0.95,0.0366,https://api.spotify.com/v1/audio-analysis/73BoYqcWZBm1eOjXNGAvID
+1FYlvTtOXuXRBf1lVaNN21,Boost Your Aura,0,0.0376,0.968,0.0495,https://api.spotify.com/v1/audio-analysis/1FYlvTtOXuXRBf1lVaNN21
+2jJdrKLf7r5ewIKGXpRpML,Calming Music,0,0.0273,0.769,0.0594,https://api.spotify.com/v1/audio-analysis/2jJdrKLf7r5ewIKGXpRpML
+0oeSHLrAFEgckZ6whMo5xG,Comfortable Evening,0,0.0388,0.976,0.0121,https://api.spotify.com/v1/audio-analysis/0oeSHLrAFEgckZ6whMo5xG
+4bAUeCPQo2ubeTYWtU4lW0,Deep Meditation,0,0.0385,0.93,0.0498,https://api.spotify.com/v1/audio-analysis/4bAUeCPQo2ubeTYWtU4lW0
+1m0pbfoOghTO7cfChGBHCh,Healing Frequency 432,0,0.0391,0.85,0.0191,https://api.spotify.com/v1/audio-analysis/1m0pbfoOghTO7cfChGBHCh
+6umZITJFXtq6u08Bcl4BnC,Healing Frequency,0,0.037,0.95,0.0167,https://api.spotify.com/v1/audio-analysis/6umZITJFXtq6u08Bcl4BnC
+1zKvK88FnOAhjev6At62xy,Keep Relaxed,0,0.231,0.99,0.0114,https://api.spotify.com/v1/audio-analysis/1zKvK88FnOAhjev6At62xy
+4cnA8HMtdXiVo5S9mFBq0k,Mind Massage,0,0.0573,0.847,0.22,https://api.spotify.com/v1/audio-analysis/4cnA8HMtdXiVo5S9mFBq0k
+4LhQE87eBTZgiJpQ7HcCcL,Mindfulness,0,0.0292,0.957,0.0137,https://api.spotify.com/v1/audio-analysis/4LhQE87eBTZgiJpQ7HcCcL
+0FWLOBJJv7CmxwMWDiF2Mf,Night Bells,0,0.143,0.959,0.0315,https://api.spotify.com/v1/audio-analysis/0FWLOBJJv7CmxwMWDiF2Mf
+5UpZpQvEVpdTzgQhJsafyI,Ocean Waves,0,0.136,0.868,0.0494,https://api.spotify.com/v1/audio-analysis/5UpZpQvEVpdTzgQhJsafyI
+34Czf8gY6R6JMATHINWr3R,Perfect Sound,0,0.105,0.992,0.013,https://api.spotify.com/v1/audio-analysis/34Czf8gY6R6JMATHINWr3R
+56xBVVa10lTER99Da92s0i,Positive Energy,0,0.149,0.949,0.0196,https://api.spotify.com/v1/audio-analysis/56xBVVa10lTER99Da92s0i
+6BbQ5LSkVLH7Bg7WIH1hB5,Power and Peace,0,0.0383,0.92,0.0397,https://api.spotify.com/v1/audio-analysis/6BbQ5LSkVLH7Bg7WIH1hB5
+72feIDV3SKRgxiB1Wmee4V,Rebirth,0,0.197,0.974,0.0343,https://api.spotify.com/v1/audio-analysis/72feIDV3SKRgxiB1Wmee4V
+6Dzs4HbIlckbHA7b13etzJ,Relax Spa,0,0.0599,0.925,0.12,https://api.spotify.com/v1/audio-analysis/6Dzs4HbIlckbHA7b13etzJ
+1x9ayXSJMV4fHKeQPDoqVL,Sensation of Tranquility,0,0.149,0.981,0.235,https://api.spotify.com/v1/audio-analysis/1x9ayXSJMV4fHKeQPDoqVL
+3YoGAZ5DsK5vck9bkfyx3E,Silent Meditation,0,0.069,0.575,0.0613,https://api.spotify.com/v1/audio-analysis/3YoGAZ5DsK5vck9bkfyx3E
+1OkgYFuTh7CoEFHQpI46AO,Sleep Music,0,0.0399,0.933,0.106,https://api.spotify.com/v1/audio-analysis/1OkgYFuTh7CoEFHQpI46AO
+0UVGZHRdm6Jz8BN5IpKffD,Soul Harmony,0,0.0655,0.979,0.00624,https://api.spotify.com/v1/audio-analysis/0UVGZHRdm6Jz8BN5IpKffD
+2RnZCasRr2e2aAahpEsDm6,Spiritual Breathe,0,0.0573,0.989,0.017,https://api.spotify.com/v1/audio-analysis/2RnZCasRr2e2aAahpEsDm6
+0zEYTnm1v758F79wyKzR8Y,Spiritual Journey,0,0.0357,0.845,0.143,https://api.spotify.com/v1/audio-analysis/0zEYTnm1v758F79wyKzR8Y
+5V0HCZCYr5DAzH7vcgkIAI,Stress Relief,0,0.0713,0.955,0.0324,https://api.spotify.com/v1/audio-analysis/5V0HCZCYr5DAzH7vcgkIAI
+33BWSEvurNUqFxeB5tscNT,The Secret of Relaxation,0,0.037,0.952,0.0685,https://api.spotify.com/v1/audio-analysis/33BWSEvurNUqFxeB5tscNT
+003YBKEwMRbFblXAIhgKkx,Tranquility,0,0.105,0.981,0.137,https://api.spotify.com/v1/audio-analysis/003YBKEwMRbFblXAIhgKkx
+2j3ogXIeSJ1CNrYFXVAgm0,174 Hz Solfeggio Natural Anesthetic and Pain-Reducing B,31,0.0357,0.883,0.118,https://api.spotify.com/v1/audio-analysis/2j3ogXIeSJ1CNrYFXVAgm0
+6EJc9yN4qiBGyMijFGH4co,285 Hz Solfeggio Fast Healing and Regeneration of Tissues C,36,0.0375,0.907,0.164,https://api.spotify.com/v1/audio-analysis/6EJc9yN4qiBGyMijFGH4co
+0S5mKmqbIc6dXzYrPt5SN3,396 HZ Solfeggio Liberating Guilt and Fear C,32,0.0452,0.908,0.0786,https://api.spotify.com/v1/audio-analysis/0S5mKmqbIc6dXzYrPt5SN3
+6RBN7aB12TM0nG9dXLmxHz,417 Hz Solfeggio Undoing Situations and Facilitating Change C,23,0.0295,0.992,0.0832,https://api.spotify.com/v1/audio-analysis/6RBN7aB12TM0nG9dXLmxHz
+3HIjYwKvhroArATZjDOowM,528 Hz Solfeggio Transformation and Miracles (DNA Repair) C,25,0.0347,0.91,0.217,https://api.spotify.com/v1/audio-analysis/3HIjYwKvhroArATZjDOowM
+2nMT1FWHuhK3o8SYmnX6lg,639 Hz Solfeggio ConnectingRelationships C,31,0.0353,0.982,0.112,https://api.spotify.com/v1/audio-analysis/2nMT1FWHuhK3o8SYmnX6lg
+75wZ2DBRqs1HiABcxFHFl1,741 Hz Solfeggio ExpressionSolutions C,33,0.154,0.959,0.056,https://api.spotify.com/v1/audio-analysis/75wZ2DBRqs1HiABcxFHFl1
+5itz7pgs7etMROcJuGYVZd,852 Hz Solfeggio Returning to Spiritual Order C,45,0.0371,0.962,0.0172,https://api.spotify.com/v1/audio-analysis/5itz7pgs7etMROcJuGYVZd
+301DHUnckyfNYOoIXSYhFx,963 Hz Solfeggio Reset to our Original and Perfect Being E,46,0.125,0.978,0.164,https://api.spotify.com/v1/audio-analysis/301DHUnckyfNYOoIXSYhFx
+70zUHzLeSZPHvdH5jvNEhU,Healing Frequency 174 HZ,40,0.0382,0.965,0.00203,https://api.spotify.com/v1/audio-analysis/70zUHzLeSZPHvdH5jvNEhU
+40P4q7F4w0NuswVLdLkDmK,Healing Frequency 258 HZ,35,0.0304,0.951,0.0137,https://api.spotify.com/v1/audio-analysis/40P4q7F4w0NuswVLdLkDmK
+5MuaATdeBH9T7JSJorteXi,Healing Frequency 396 HZ,22,0.0363,0.779,0.0269,https://api.spotify.com/v1/audio-analysis/5MuaATdeBH9T7JSJorteXi
+1Ajg8PTRD6TA4egaRUwtrx,Healing Frequency 417 HZ,37,0.0383,0.766,0.0481,https://api.spotify.com/v1/audio-analysis/1Ajg8PTRD6TA4egaRUwtrx
+7GsJN0APR3nUitlMNIrJrR,Healing Frequency 432 HZ,45,0.0357,0.871,0.0277,https://api.spotify.com/v1/audio-analysis/7GsJN0APR3nUitlMNIrJrR
+2Yalh27PZgKeeTRysJLZ4r,Merfolk Romance,24,0.0917,0.984,0.0379,https://api.spotify.com/v1/audio-analysis/2Yalh27PZgKeeTRysJLZ4r
+7yCx4bOy4pSoQBsm03CwQu,Chinese Shop,37,0.156,0.868,0.115,https://api.spotify.com/v1/audio-analysis/7yCx4bOy4pSoQBsm03CwQu
+5HaZFouBh6VhmsJ284UZmD,Water Harp Lullaby,22,0.121,0.983,0.00656,https://api.spotify.com/v1/audio-analysis/5HaZFouBh6VhmsJ284UZmD
+46018MWSo8yq5hFl48GiAj,Soothing Music,21,0.0382,0.95,0.137,https://api.spotify.com/v1/audio-analysis/46018MWSo8yq5hFl48GiAj
+6yDKfC4T00yuSgsmWEtz4F,Moonlight Ballerina,20,0.0772,0.527,0.0122,https://api.spotify.com/v1/audio-analysis/6yDKfC4T00yuSgsmWEtz4F
+3SWtfYRCZyjesu5zDnMvLU,Stillness of Water,28,0.456,0.996,0.0234,https://api.spotify.com/v1/audio-analysis/3SWtfYRCZyjesu5zDnMvLU
+11A5C2xSWA1BVRzRXnfZjC,Sweet Dreams Lullaby,18,0.275,0.989,0.106,https://api.spotify.com/v1/audio-analysis/11A5C2xSWA1BVRzRXnfZjC
+3pJG9uBCG5PSJ6dt6boQlE,Royal Elven Harp,26,0.283,0.988,0.252,https://api.spotify.com/v1/audio-analysis/3pJG9uBCG5PSJ6dt6boQlE
+2nm9bOWHVaY0hLimMhNhfy,Easy Mind,31,0.0372,0.875,0.0215,https://api.spotify.com/v1/audio-analysis/2nm9bOWHVaY0hLimMhNhfy
+3o90AJ9vJKXzeW7X7BzR5v,Forest of Sleep,26,0.428,0.99,0.106,https://api.spotify.com/v1/audio-analysis/3o90AJ9vJKXzeW7X7BzR5v
+4230cBLTGiaX6P4r84lpQR,Waking Sounds,22,0.15,0.924,0.0657,https://api.spotify.com/v1/audio-analysis/4230cBLTGiaX6P4r84lpQR
+3Y993u8wgW1u6GtQljGEwx,Feather in Space,17,0.0366,0.982,0.18,https://api.spotify.com/v1/audio-analysis/3Y993u8wgW1u6GtQljGEwx
+08AXX2sN8VJj5KvVUKbMLC,Wonderness - Grand Piano,19,0.14,0.994,0.0176,https://api.spotify.com/v1/audio-analysis/08AXX2sN8VJj5KvVUKbMLC
+1nz7EJjjWbP02ANr47gvme,Ktož Jsú Boží Bojovníci,19,0.116,0.994,0.0174,https://api.spotify.com/v1/audio-analysis/1nz7EJjjWbP02ANr47gvme
+59rkVWNjnRcxp49tXmtUUl,By the Hearth,17,0.258,0.984,0.106,https://api.spotify.com/v1/audio-analysis/59rkVWNjnRcxp49tXmtUUl
+4nitkZwftWQF9PTTZepNhA,High Elves of Waterfall Sanctuary,23,0.1,0.974,0.144,https://api.spotify.com/v1/audio-analysis/4nitkZwftWQF9PTTZepNhA
+082hKo7G29rIU1dYyLfrwZ,Night Falls,29,0.268,0.994,0.0194,https://api.spotify.com/v1/audio-analysis/082hKo7G29rIU1dYyLfrwZ
+7FZQ1GH35PkYNJepOpN5p2,Emergence,20,0.04,0.915,0.2,https://api.spotify.com/v1/audio-analysis/7FZQ1GH35PkYNJepOpN5p2
+0RHXs04vaMQSuQdehEEgpG,Beneath The Stars,18,0.0326,0.943,0.00644,https://api.spotify.com/v1/audio-analysis/0RHXs04vaMQSuQdehEEgpG
+4SWKB2alYmmuiGz6hiGW6c,Doux,18,0.0303,0.782,0.181,https://api.spotify.com/v1/audio-analysis/4SWKB2alYmmuiGz6hiGW6c
+36GJdyHkmXw8ZTsM592knn,The Mountains Call,33,0.163,0.991,0.0126,https://api.spotify.com/v1/audio-analysis/36GJdyHkmXw8ZTsM592knn
+3DsPnbAylYhwIoq64FqfMg,Spring in October,29,0.242,0.989,0.00664,https://api.spotify.com/v1/audio-analysis/3DsPnbAylYhwIoq64FqfMg
+0hMr7ObTAkC7IEheekEvNA,Moonrise,16,0.267,0.989,0.198,https://api.spotify.com/v1/audio-analysis/0hMr7ObTAkC7IEheekEvNA
+21BCBkcCS1JxQoRTeNxLRg,In Winter's Delight,16,0.149,0.992,0.0653,https://api.spotify.com/v1/audio-analysis/21BCBkcCS1JxQoRTeNxLRg
+65Y8HGZC1YPqi9LIIVJRRT,Lullaby,21,0.212,0.98,0.228,https://api.spotify.com/v1/audio-analysis/65Y8HGZC1YPqi9LIIVJRRT
+7kVPRtHSUiPvDYXkQ4PAm6,Sunset,33,0.188,0.992,0.299,https://api.spotify.com/v1/audio-analysis/7kVPRtHSUiPvDYXkQ4PAm6
+6q0NdDdLKKBtTAdWCHkp3E,Whisper,17,0.0338,0.937,0.119,https://api.spotify.com/v1/audio-analysis/6q0NdDdLKKBtTAdWCHkp3E
+5Do8rxf52KVD4KQdf4wjkf,Bridge of Love,16,0.157,0.994,0.034,https://api.spotify.com/v1/audio-analysis/5Do8rxf52KVD4KQdf4wjkf
+79LbhK2jrtyvFljfhD8Eou,Celestial Forest,25,0.0373,0.937,0.00729,https://api.spotify.com/v1/audio-analysis/79LbhK2jrtyvFljfhD8Eou
+2UrDZRXpFtuUzfbTms0CBq,Heloise and Abaelardus,26,0.61,0.994,0.0365,https://api.spotify.com/v1/audio-analysis/2UrDZRXpFtuUzfbTms0CBq
+1Sl4W2Mq6ZKWSAbe9KqbIo,Relaxation,18,0.468,0.993,0.0321,https://api.spotify.com/v1/audio-analysis/1Sl4W2Mq6ZKWSAbe9KqbIo
+3W50KOpBsWh9C0fPGBmXpg,Evergreen Memories,11,0.253,0.994,0.0076,https://api.spotify.com/v1/audio-analysis/3W50KOpBsWh9C0fPGBmXpg
+7rie7xDWKxfJGvvIXHXGJc,The Winding Path,27,0.0378,0.953,0.0408,https://api.spotify.com/v1/audio-analysis/7rie7xDWKxfJGvvIXHXGJc
+5lqO03GewxU1GXk2vQHRR7,The Republic,26,0.067,0.951,0.237,https://api.spotify.com/v1/audio-analysis/5lqO03GewxU1GXk2vQHRR7
+0g6qRynPjvC0FucwB8cked,Relax Time,17,0.0438,0.805,0.0286,https://api.spotify.com/v1/audio-analysis/0g6qRynPjvC0FucwB8cked
+1OJMKlidqn8xIzPXaBdjvt,Musing Under Moonlight,32,0.0364,0.983,0.068,https://api.spotify.com/v1/audio-analysis/1OJMKlidqn8xIzPXaBdjvt
+4CCWjbHFhaE3R1tfzVOlA0,Neptune Lake - Nature,20,0.0324,0.974,0.00521,https://api.spotify.com/v1/audio-analysis/4CCWjbHFhaE3R1tfzVOlA0
+6i3DLwOuPmM8BEhg9IyPNg,All the Little Things,34,0.197,0.992,0.00855,https://api.spotify.com/v1/audio-analysis/6i3DLwOuPmM8BEhg9IyPNg
+1jdLIbF0AwH4Tsm9JVPMDg,Neverwhere,19,0.038,0.871,0.216,https://api.spotify.com/v1/audio-analysis/1jdLIbF0AwH4Tsm9JVPMDg
+6w3r09bpSe2jHHBGFQp2QH,Falling Snow (Piano & Strings),28,0.189,0.888,0.178,https://api.spotify.com/v1/audio-analysis/6w3r09bpSe2jHHBGFQp2QH
+6MCmnBvqlMKI0B91x3mvIm,Dawn of Hope,0,0.0333,0.821,0.149,https://api.spotify.com/v1/audio-analysis/6MCmnBvqlMKI0B91x3mvIm
+3Ll2DqoZZtvJVkZUYcuGh2,The Mist Calls to Me,19,0.0562,0.966,0.162,https://api.spotify.com/v1/audio-analysis/3Ll2DqoZZtvJVkZUYcuGh2
+3MM3Eo87E2SVMZIA3IX2WG,A Fresh Start,18,0.121,0.989,0.135,https://api.spotify.com/v1/audio-analysis/3MM3Eo87E2SVMZIA3IX2WG
+65MTVjiByUcXBAQrlAa8WN,Song of the Sirens,19,0.0414,0.975,0.0337,https://api.spotify.com/v1/audio-analysis/65MTVjiByUcXBAQrlAa8WN
+56Q6a4RBqsbkwVUBgdPvLk,Scarborough Fair (Cello & Guitar),28,0.231,0.925,0.219,https://api.spotify.com/v1/audio-analysis/56Q6a4RBqsbkwVUBgdPvLk
+2XrUmnBTBWohFKUDD5ic7c,Lost Sky (from Harpe de Piano),0,0.0537,0.847,0.324,https://api.spotify.com/v1/audio-analysis/2XrUmnBTBWohFKUDD5ic7c
+09pLo8ABANyeW9rErDuD2G,L'Arbre de Vie,13,0.0371,0.719,0.0255,https://api.spotify.com/v1/audio-analysis/09pLo8ABANyeW9rErDuD2G
+0cFSD1PW60R168YFrajsIM,The Minstrel's Lullaby,17,0.487,0.993,0.0737,https://api.spotify.com/v1/audio-analysis/0cFSD1PW60R168YFrajsIM
+4xxkzARNP5cQrzUEqw06Bb,Under the Waterfall,20,0.106,0.988,0.0661,https://api.spotify.com/v1/audio-analysis/4xxkzARNP5cQrzUEqw06Bb
+7tahVkJDnCAFOuUaKH1AsN,Fattig bonddräng,0,0.756,0.752,0.243,https://api.spotify.com/v1/audio-analysis/7tahVkJDnCAFOuUaKH1AsN
+6xD1KkOJIE8QNh0PstS78C,Meadow of Wonder,15,0.16,0.976,0.107,https://api.spotify.com/v1/audio-analysis/6xD1KkOJIE8QNh0PstS78C
+3FCGMRt56i8BsVfXkEQdIM,II,0,0.0346,0.954,0.202,https://api.spotify.com/v1/audio-analysis/3FCGMRt56i8BsVfXkEQdIM
+6KB0Dci4sA4jFv8ZQmqYKH,Lament For A King,29,0.497,0.95,0.119,https://api.spotify.com/v1/audio-analysis/6KB0Dci4sA4jFv8ZQmqYKH
+2YpBfOSYG3z2XbccoHZOxo,The Last Sunset,0,0.052,0.968,0.0605,https://api.spotify.com/v1/audio-analysis/2YpBfOSYG3z2XbccoHZOxo
+6JxCLIK9elKyYbnpym6sJ5,The Bluebells,23,0.318,0.995,0.0322,https://api.spotify.com/v1/audio-analysis/6JxCLIK9elKyYbnpym6sJ5
+3gxeqSDFl9ftnieNGQsSWo,Deep Ocean,19,0.325,0.993,0.023,https://api.spotify.com/v1/audio-analysis/3gxeqSDFl9ftnieNGQsSWo
+347xhJxDOmPkEvAcUMoM4V,Forest Journey,25,0.14,0.704,0.306,https://api.spotify.com/v1/audio-analysis/347xhJxDOmPkEvAcUMoM4V
+09k9QMFm8HjH6Uxg65wFlc,Gleam,18,0.287,0.982,0.124,https://api.spotify.com/v1/audio-analysis/09k9QMFm8HjH6Uxg65wFlc
+7F0AjnwJAmRZlf4P21u7FM,Translucent Veils of Gold,16,0.0518,0.81,0.178,https://api.spotify.com/v1/audio-analysis/7F0AjnwJAmRZlf4P21u7FM
+1xSOsTyORRE88Bs50feESV,Lullaby,26,0.665,0.906,0.423,https://api.spotify.com/v1/audio-analysis/1xSOsTyORRE88Bs50feESV
+3PuvbHN41dxH0go2Q9XCoQ,Native American Flute,15,0.317,0.984,0.0157,https://api.spotify.com/v1/audio-analysis/3PuvbHN41dxH0go2Q9XCoQ
+6QNGBX2UeVcxba5QfNcIuG,Old-Fashioned Candy Store,13,0.287,0.995,0.0253,https://api.spotify.com/v1/audio-analysis/6QNGBX2UeVcxba5QfNcIuG
+5u7AGKNwWI9uJyS3yyfJ6v,Healing Waters,32,0.326,0.994,0.0251,https://api.spotify.com/v1/audio-analysis/5u7AGKNwWI9uJyS3yyfJ6v
+6Z4eMWo9KyNOanMxXGpUwq,New Dehli Morning,17,0.121,0.982,0.101,https://api.spotify.com/v1/audio-analysis/6Z4eMWo9KyNOanMxXGpUwq
+5lfVgodPnQBoWL19joXlHS,Stillpoint,18,0.0335,0.99,0.219,https://api.spotify.com/v1/audio-analysis/5lfVgodPnQBoWL19joXlHS
+1yxVIuzpYlBeIhAU2Oa2NZ,Faun Minstrels,16,0.209,0.99,0.145,https://api.spotify.com/v1/audio-analysis/1yxVIuzpYlBeIhAU2Oa2NZ
+1tjvLYgl0otwMDLS2SFfj7,Underwater,19,0.0386,0.992,0.0327,https://api.spotify.com/v1/audio-analysis/1tjvLYgl0otwMDLS2SFfj7
+6852LNK3LURJk7lL4TUzuk,Stillness Dancing,26,0.381,0.981,0.0579,https://api.spotify.com/v1/audio-analysis/6852LNK3LURJk7lL4TUzuk
+7DIQLxacCgEydvcpuuscpj,Mystery of the Sirens,15,0.0981,0.994,0.0323,https://api.spotify.com/v1/audio-analysis/7DIQLxacCgEydvcpuuscpj
+4qVD5f30eHJEclhuEbqqUf,Midnight Dream,0,0.0324,0.936,0.0607,https://api.spotify.com/v1/audio-analysis/4qVD5f30eHJEclhuEbqqUf
+6C3DSzu88upTYQJY6QdQQs,Galaxy Of Dreams,17,0.0568,0.919,0.0072,https://api.spotify.com/v1/audio-analysis/6C3DSzu88upTYQJY6QdQQs
+6fZZANOvWAUGMlRbvPnNRg,You are Compassionate,15,0.155,0.903,0.257,https://api.spotify.com/v1/audio-analysis/6fZZANOvWAUGMlRbvPnNRg
+3SMF6fkC68FDSUdEmXRMsG,Beautiful Sleep,0,0.0361,0.84,0.116,https://api.spotify.com/v1/audio-analysis/3SMF6fkC68FDSUdEmXRMsG
+3vDxnzjOELkJSTAZWggVFR,Prayerful,12,0.16,0.987,0.0634,https://api.spotify.com/v1/audio-analysis/3vDxnzjOELkJSTAZWggVFR
+5SlFVblP8h07d4OCpIBGBC,Paradise Discovered,18,0.0379,0.99,0.0693,https://api.spotify.com/v1/audio-analysis/5SlFVblP8h07d4OCpIBGBC
+7h86iGAXXD0mMjah30Vb7e,Celtic Angels,25,0.278,0.99,0.0441,https://api.spotify.com/v1/audio-analysis/7h86iGAXXD0mMjah30Vb7e
+1AIzqOJqdf1iPJejo1nDNk,Peace of Mind,18,0.278,0.994,0.0319,https://api.spotify.com/v1/audio-analysis/1AIzqOJqdf1iPJejo1nDNk
+0QgKqVkEH35qfi1pU9vbrC,Being Stillness,25,0.0777,0.973,0.0732,https://api.spotify.com/v1/audio-analysis/0QgKqVkEH35qfi1pU9vbrC
+3lg6ck7g1EvDB55K1SsF3Y,FarAway,0,0.101,0.901,0.178,https://api.spotify.com/v1/audio-analysis/3lg6ck7g1EvDB55K1SsF3Y
+2vWiG99YYGgGRcO1JuKewY,Sea of Clouds,15,0.033,0.922,0.144,https://api.spotify.com/v1/audio-analysis/2vWiG99YYGgGRcO1JuKewY
+4ZISQRuMiHbNI1eR2p0RnH,Love from a Distance,15,0.0376,0.994,0.0892,https://api.spotify.com/v1/audio-analysis/4ZISQRuMiHbNI1eR2p0RnH
+4YnvmmclweFRhFujANpyEZ,Drifting Serenity,25,0.0372,0.921,0.0791,https://api.spotify.com/v1/audio-analysis/4YnvmmclweFRhFujANpyEZ
+6z34N7tPgJah9hRHuUcvVe,Carrousel,21,0.351,0.985,0.166,https://api.spotify.com/v1/audio-analysis/6z34N7tPgJah9hRHuUcvVe
+6TtapJzFXjrGbVbRTDS85L,Close to Sun,0,0.0339,0.984,0.127,https://api.spotify.com/v1/audio-analysis/6TtapJzFXjrGbVbRTDS85L
+7Bw0hIYtU8YdO8y1X9Gqcc,Idas Sommarvisa,24,0.736,0.697,0.49,https://api.spotify.com/v1/audio-analysis/7Bw0hIYtU8YdO8y1X9Gqcc
+4tn8daISnNitQQHxiYWbby,Journey,0,0.199,0.96,0.287,https://api.spotify.com/v1/audio-analysis/4tn8daISnNitQQHxiYWbby
+7w5jzhRxUFZAa0Mt00NtBs,Endless Blue,18,0.224,0.992,0.024,https://api.spotify.com/v1/audio-analysis/7w5jzhRxUFZAa0Mt00NtBs
+2ttXf2moPinOVcVLaioAbA,The Softness of Sand,14,0.0773,0.971,0.145,https://api.spotify.com/v1/audio-analysis/2ttXf2moPinOVcVLaioAbA
+4HkyXv3zMMq3wTDGDIQ1QA,Walk the Path,17,0.0727,0.981,0.0737,https://api.spotify.com/v1/audio-analysis/4HkyXv3zMMq3wTDGDIQ1QA
+09VrpboTDpPH0U2ZOA9eI7,Broken Wings,11,0.368,0.0039,0.861,https://api.spotify.com/v1/audio-analysis/09VrpboTDpPH0U2ZOA9eI7
+2Es2pFDFY0qpgwbJwctrJd,Holding On,0,0.0375,0.00295,0.754,https://api.spotify.com/v1/audio-analysis/2Es2pFDFY0qpgwbJwctrJd
+5OuuBpPhTtLzoIJPrazRbP,Maisha,16,0.329,0.467,0.733,https://api.spotify.com/v1/audio-analysis/5OuuBpPhTtLzoIJPrazRbP
+3yNXGzjLwJaONlHJVuO55k,Climbing - Radio Edit,20,0.12,0.00132,0.866,https://api.spotify.com/v1/audio-analysis/3yNXGzjLwJaONlHJVuO55k
+5xSdj3XWAvxLNwX9sD0gxT,Problem Solvent,0,0.243,0.0093,0.651,https://api.spotify.com/v1/audio-analysis/5xSdj3XWAvxLNwX9sD0gxT
+277ZZONyu7foKBIzgGWa57,From the Concrete,3,0.281,0.529,0.324,https://api.spotify.com/v1/audio-analysis/277ZZONyu7foKBIzgGWa57
+25jIZmDgJo5b5vTQ6Yzn0g,Kiya - Featuring Crow,10,0.578,0.000239,0.874,https://api.spotify.com/v1/audio-analysis/25jIZmDgJo5b5vTQ6Yzn0g
+438evJH9vCtEhGxzLMiou9,Wheel of Time,2,0.913,0.18,0.888,https://api.spotify.com/v1/audio-analysis/438evJH9vCtEhGxzLMiou9
+2hZv43bSxgCV72Tl51ETYp,Morning Calm,1,0.14,0.0525,0.836,https://api.spotify.com/v1/audio-analysis/2hZv43bSxgCV72Tl51ETYp
+1kAdmogvaq9nWmXDxcMDQh,Telefunken Lizard Filter,17,0.0859,0.000245,0.831,https://api.spotify.com/v1/audio-analysis/1kAdmogvaq9nWmXDxcMDQh
+2drJ1W80OHVSaukYHwZLAq,Someplace,0,0.0569,0.828,0.042,https://api.spotify.com/v1/audio-analysis/2drJ1W80OHVSaukYHwZLAq
+70EN4dkjvf6DN40ivdrY8A,New Age,30,0.2,0.00143,0.948,https://api.spotify.com/v1/audio-analysis/70EN4dkjvf6DN40ivdrY8A
+6wUc42SOF3zzn163c3ODrw,Already Disappeared,26,0.0374,0.00113,0.878,https://api.spotify.com/v1/audio-analysis/6wUc42SOF3zzn163c3ODrw
+4iFpIrHbk61AO5hbAUZgZR,Tzemin,13,0.0936,0.0232,0.48,https://api.spotify.com/v1/audio-analysis/4iFpIrHbk61AO5hbAUZgZR
+7aGlWvcTFBV5eoX9b3MdOw,Kings & Queens,27,0.0362,0.0187,0.88,https://api.spotify.com/v1/audio-analysis/7aGlWvcTFBV5eoX9b3MdOw
+7tcCOM7ebJGfIyjTYdKfkl,Fragile,14,0.0761,0.00228,0.678,https://api.spotify.com/v1/audio-analysis/7tcCOM7ebJGfIyjTYdKfkl
+0fzPAlrZUoYK6lpOSOzE6Q,Where Did You Go,31,0.058,0.00229,0.833,https://api.spotify.com/v1/audio-analysis/0fzPAlrZUoYK6lpOSOzE6Q
+15JhnsfnxHjUQq9c5bhuh4,Impossible To Say - Acoustic Mix,4,0.117,0.0467,0.295,https://api.spotify.com/v1/audio-analysis/15JhnsfnxHjUQq9c5bhuh4
+4v0xLhFpCwzMbkr3Pi4rFF,Haze,11,0.392,0.0498,0.646,https://api.spotify.com/v1/audio-analysis/4v0xLhFpCwzMbkr3Pi4rFF
+3j52XSVBlJFftryRbRpuKb,Jasmine,2,0.325,0.00742,0.879,https://api.spotify.com/v1/audio-analysis/3j52XSVBlJFftryRbRpuKb
+1vD1JRKeaV1ybAww6LZeFe,Follow The River,17,0.0478,0.00194,0.681,https://api.spotify.com/v1/audio-analysis/1vD1JRKeaV1ybAww6LZeFe
+0fGlbBvbV7cmGaQXGbwfIq,Presence,32,0.0431,0.279,0.673,https://api.spotify.com/v1/audio-analysis/0fGlbBvbV7cmGaQXGbwfIq
+427QvjCsQR71mGdO9AdRNk,Hell Hath No Fury,29,0.147,0.000964,0.982,https://api.spotify.com/v1/audio-analysis/427QvjCsQR71mGdO9AdRNk
+1lmAkhn1QXucIaReSkN9EC,Tenderless - Beatless Mix,2,0.0729,0.051,0.492,https://api.spotify.com/v1/audio-analysis/1lmAkhn1QXucIaReSkN9EC
+7AmLz3LWwVgCSEbUlsPsdX,Mixed Signals - Synkro Remix,0,0.0709,0.424,0.232,https://api.spotify.com/v1/audio-analysis/7AmLz3LWwVgCSEbUlsPsdX
+3F7fvCqnP7DyPIxYvGycb8,Polaroids Of You,31,0.143,0.0051,0.952,https://api.spotify.com/v1/audio-analysis/3F7fvCqnP7DyPIxYvGycb8
+678bc5RyZzDM5OUstgSu1B,No Discussion,0,0.0675,0.0475,0.935,https://api.spotify.com/v1/audio-analysis/678bc5RyZzDM5OUstgSu1B
+6w4w5kmlJWXLSCBWQqpoq6,Pine,11,0.106,0.724,0.331,https://api.spotify.com/v1/audio-analysis/6w4w5kmlJWXLSCBWQqpoq6
+32wjR8HSrKkj2jTu3y1zzZ,High As She,7,0.57,0.867,0.463,https://api.spotify.com/v1/audio-analysis/32wjR8HSrKkj2jTu3y1zzZ
+0bqJDrb7zRLOiCnUm7MXZW,Drowning In You,43,0.0539,0.00671,0.885,https://api.spotify.com/v1/audio-analysis/0bqJDrb7zRLOiCnUm7MXZW
+1ObLc50qTIp8gF1Lg2GimH,falls to you VIP,33,0.167,0.000109,0.537,https://api.spotify.com/v1/audio-analysis/1ObLc50qTIp8gF1Lg2GimH
+3HBdL8ZMK4RcBpNOO3T4Y1,Elevate,14,0.114,0.107,0.607,https://api.spotify.com/v1/audio-analysis/3HBdL8ZMK4RcBpNOO3T4Y1
+6sAmHkfmOuMIp7EMIP4jEV,Mango (Theees Reggae Remix),31,0.648,0.103,0.673,https://api.spotify.com/v1/audio-analysis/6sAmHkfmOuMIp7EMIP4jEV
+2YczpHyHxMyX4Pv7eIpcCm,Kintsugi,20,0.215,0.000382,0.878,https://api.spotify.com/v1/audio-analysis/2YczpHyHxMyX4Pv7eIpcCm
+13WM7BHzd0cinG3EfQ762t,Everything Is Possible,24,0.364,0.0469,0.829,https://api.spotify.com/v1/audio-analysis/13WM7BHzd0cinG3EfQ762t
+6ncahHfZwLo2V0d7iVQcPV,Brand New,26,0.204,0.168,0.734,https://api.spotify.com/v1/audio-analysis/6ncahHfZwLo2V0d7iVQcPV
+2Y8PuA6sur53dcZh39aYrs,Brighter Days,33,0.0334,0.00971,0.649,https://api.spotify.com/v1/audio-analysis/2Y8PuA6sur53dcZh39aYrs
+2UDwZ6qQcJ8XZrI78nfE7K,Insular,4,0.189,0.424,0.691,https://api.spotify.com/v1/audio-analysis/2UDwZ6qQcJ8XZrI78nfE7K
+6N8A7zc5lfOTXt2yDOB0Sy,Gleams,0,0.371,0.0209,0.762,https://api.spotify.com/v1/audio-analysis/6N8A7zc5lfOTXt2yDOB0Sy
+1N2fN1IepIzX0NpqkggAvK,Only She Knows,5,0.0397,0.181,0.573,https://api.spotify.com/v1/audio-analysis/1N2fN1IepIzX0NpqkggAvK
+5mYeyqThz0lJtx6V79BzeT,Less Los Ablos - Original Mix,7,0.303,0.00224,0.774,https://api.spotify.com/v1/audio-analysis/5mYeyqThz0lJtx6V79BzeT
+77scWxonocSAwqu1QJMK9I,Waiting for...,0,0.0385,0.00215,0.742,https://api.spotify.com/v1/audio-analysis/77scWxonocSAwqu1QJMK9I
+6iM96NyBg2rmoL1caQXCOh,Kismet,44,0.104,0.0122,0.83,https://api.spotify.com/v1/audio-analysis/6iM96NyBg2rmoL1caQXCOh
+37h9RnGCs5Q5VRUdajxXMC,Saudade,0,0.0306,0.807,0.12,https://api.spotify.com/v1/audio-analysis/37h9RnGCs5Q5VRUdajxXMC
+1A0lIAQD2icTXHs1wKLg6O,Wish List,17,0.588,0.00289,0.713,https://api.spotify.com/v1/audio-analysis/1A0lIAQD2icTXHs1wKLg6O
+2btq1UwZViCkrpk31eqvFG,Abstraction,15,0.315,0.136,0.967,https://api.spotify.com/v1/audio-analysis/2btq1UwZViCkrpk31eqvFG
+6bu4vilkj6ZgkYSU49Yj8Y,Delete!,11,0.558,0.246,0.763,https://api.spotify.com/v1/audio-analysis/6bu4vilkj6ZgkYSU49Yj8Y
+39a3pZgFKvTee1Z3DO8Boj,Hearts Wander,33,0.527,0.000735,0.81,https://api.spotify.com/v1/audio-analysis/39a3pZgFKvTee1Z3DO8Boj
+1ST3scy4nfwrbAsmUKKtyA,Roll That Blues,6,0.27,0.00022,0.961,https://api.spotify.com/v1/audio-analysis/1ST3scy4nfwrbAsmUKKtyA
+4uiU2EGBooAZC3sm4QHtwo,Azarca - Synkro Remix,11,0.0628,0.00235,0.52,https://api.spotify.com/v1/audio-analysis/4uiU2EGBooAZC3sm4QHtwo
+3ysB26ArsvlJBO2fdgMNWm,Wasting Time,12,0.148,9.18e-05,0.903,https://api.spotify.com/v1/audio-analysis/3ysB26ArsvlJBO2fdgMNWm
+2Z2m8yYQia2785yO55PS3p,Eratik,17,0.2,0.209,0.488,https://api.spotify.com/v1/audio-analysis/2Z2m8yYQia2785yO55PS3p
+7K0IKE9QcR3ShKnVuhOYmC,Alpine,0,0.109,0.000945,0.975,https://api.spotify.com/v1/audio-analysis/7K0IKE9QcR3ShKnVuhOYmC
+5OTKSHNQdp5a19aYNGJUnS,Viewpoint,20,0.701,0.00823,0.669,https://api.spotify.com/v1/audio-analysis/5OTKSHNQdp5a19aYNGJUnS
+1brNpRc6KBXM5tajqadKhe,The Crossing,0,0.319,0.0195,0.707,https://api.spotify.com/v1/audio-analysis/1brNpRc6KBXM5tajqadKhe
+4VB6pCdmPzFkkRiZ8ZBGxu,Summer,20,0.144,0.145,0.818,https://api.spotify.com/v1/audio-analysis/4VB6pCdmPzFkkRiZ8ZBGxu
+1fJgo1we8yKAubCf7e2ppM,Error,12,0.0771,0.00196,0.393,https://api.spotify.com/v1/audio-analysis/1fJgo1we8yKAubCf7e2ppM
+4zBdObrAnn5OVWC9F02wA3,Wanderlust,38,0.0496,0.00128,0.826,https://api.spotify.com/v1/audio-analysis/4zBdObrAnn5OVWC9F02wA3
+293nhbAyhi2OfLmk1ECSxE,Time,47,0.0599,0.00852,0.679,https://api.spotify.com/v1/audio-analysis/293nhbAyhi2OfLmk1ECSxE
+7iSIIu3eYnyu1AfLzyxVhF,Once Upon A Time,21,0.0502,0.132,0.635,https://api.spotify.com/v1/audio-analysis/7iSIIu3eYnyu1AfLzyxVhF
+1uNsnd8Iqb9xbx0dRi0cXN,Saigon Blaze,0,0.0858,0.000436,0.643,https://api.spotify.com/v1/audio-analysis/1uNsnd8Iqb9xbx0dRi0cXN
+5ZPhAgBiXbQ2FCGkUEZ0Qq,Cold Tenderness,13,0.0371,0.24,0.408,https://api.spotify.com/v1/audio-analysis/5ZPhAgBiXbQ2FCGkUEZ0Qq
+7dI4Eu4rr4HhywaqSS2EmM,Jetstream,31,0.107,0.0153,0.898,https://api.spotify.com/v1/audio-analysis/7dI4Eu4rr4HhywaqSS2EmM
+5rtGhin74wxFojrPqgTpdY,Nothin But Love - Original Mix,30,0.597,0.0204,0.604,https://api.spotify.com/v1/audio-analysis/5rtGhin74wxFojrPqgTpdY
+6gnuTvpniPrNozazUBdqMa,Slowly Rushing - Skeptical Remix,12,0.102,0.0596,0.363,https://api.spotify.com/v1/audio-analysis/6gnuTvpniPrNozazUBdqMa
+5SM1sBrP6TRvRWFanwZs3W,Best Life,4,0.396,0.056,0.761,https://api.spotify.com/v1/audio-analysis/5SM1sBrP6TRvRWFanwZs3W
+2udfj4xkwXLTvUliiWJq6F,Trick Of The Tail,30,0.0761,0.0309,0.796,https://api.spotify.com/v1/audio-analysis/2udfj4xkwXLTvUliiWJq6F
+02xCUgAFguPmRgcKZaoXe4,Living This Way,36,0.0605,0.000504,0.752,https://api.spotify.com/v1/audio-analysis/02xCUgAFguPmRgcKZaoXe4
+0i3aY3ZKOIbugyPda2DseD,Dreaming,37,0.0324,0.00375,0.808,https://api.spotify.com/v1/audio-analysis/0i3aY3ZKOIbugyPda2DseD
+1VlTXiHOAbQf7eXe15gBU9,Don't Ever,37,0.0357,0.0419,0.718,https://api.spotify.com/v1/audio-analysis/1VlTXiHOAbQf7eXe15gBU9
+5MTTQHTGtd8LGQXbo6pIoA,Baby,15,0.0532,0.0628,0.66,https://api.spotify.com/v1/audio-analysis/5MTTQHTGtd8LGQXbo6pIoA
+4A99QEfN3l3eXChNDT1ARy,Night Dawns,25,0.094,0.00194,0.899,https://api.spotify.com/v1/audio-analysis/4A99QEfN3l3eXChNDT1ARy
+0puCK9RuzsAy9M5nxhLuzv,Cast Away,31,0.0404,0.000306,0.841,https://api.spotify.com/v1/audio-analysis/0puCK9RuzsAy9M5nxhLuzv
+1x85i4i8YKTcXu47BljL6G,Nice Touch (Reprise),7,0.156,0.0181,0.289,https://api.spotify.com/v1/audio-analysis/1x85i4i8YKTcXu47BljL6G
+5rmqdECUxQl6x0K1vn2GGQ,Holding On - Cesco Remix,4,0.0381,0.0598,0.7,https://api.spotify.com/v1/audio-analysis/5rmqdECUxQl6x0K1vn2GGQ
+6hA32ig9PY3jcrXFoS6NGI,Eyes On Me,14,0.0841,0.00178,0.913,https://api.spotify.com/v1/audio-analysis/6hA32ig9PY3jcrXFoS6NGI
+4toU4009c020wJtKKzYm19,Untitled Patterns 52,4,0.446,0.0197,0.728,https://api.spotify.com/v1/audio-analysis/4toU4009c020wJtKKzYm19
+7eHUaaxSfd4Vbz5H1xkv98,Non-Physical Friend,4,0.528,0.0284,0.646,https://api.spotify.com/v1/audio-analysis/7eHUaaxSfd4Vbz5H1xkv98
+7L5dPKL6aQxABPFVCuntb8,Calling - Original Mix,0,0.0659,0.0307,0.657,https://api.spotify.com/v1/audio-analysis/7L5dPKL6aQxABPFVCuntb8
+4p4MvXHTOdvfuP1tgmQqtK,Here With Me,29,0.27,0.00242,0.923,https://api.spotify.com/v1/audio-analysis/4p4MvXHTOdvfuP1tgmQqtK
+4S3mu6EDwXuAU2RYTOWtKk,The Inevitable,29,0.135,2.21e-05,0.921,https://api.spotify.com/v1/audio-analysis/4S3mu6EDwXuAU2RYTOWtKk
+0go8YcbrvK1wivtSiboetO,Zaichik,23,0.226,0.124,0.85,https://api.spotify.com/v1/audio-analysis/0go8YcbrvK1wivtSiboetO
+5qkzEKRS21hoHijizVCZbR,Fight For This,3,0.308,0.0738,0.857,https://api.spotify.com/v1/audio-analysis/5qkzEKRS21hoHijizVCZbR
+63D7Bkhx1A60l37lMWuc3W,Untitled Pattern 64,4,0.514,0.788,0.722,https://api.spotify.com/v1/audio-analysis/63D7Bkhx1A60l37lMWuc3W
+4FCqzPA2usQ47bTiB8Krgg,Sails,29,0.647,7.71e-05,0.86,https://api.spotify.com/v1/audio-analysis/4FCqzPA2usQ47bTiB8Krgg
+0Eo1li6FdVKGjWPNlPlNKV,JAS,41,0.254,0.481,0.504,https://api.spotify.com/v1/audio-analysis/0Eo1li6FdVKGjWPNlPlNKV
+7lpc5u6i5nP99CiUwatK0Z,Garden - Calibre Remix,0,0.7,0.0745,0.37,https://api.spotify.com/v1/audio-analysis/7lpc5u6i5nP99CiUwatK0Z
+4wTMyU8GBQjniR3eRi7sV4,Untitled Pattern 48,8,0.17,0.109,0.663,https://api.spotify.com/v1/audio-analysis/4wTMyU8GBQjniR3eRi7sV4
+048ySnrilXwltqrnJ4lvtt,Bellamee - Original Mix,11,0.152,0.0004,0.558,https://api.spotify.com/v1/audio-analysis/048ySnrilXwltqrnJ4lvtt
+5OKwmznLVAfQiautTENdUI,Judgement Day,4,0.916,0.00263,0.921,https://api.spotify.com/v1/audio-analysis/5OKwmznLVAfQiautTENdUI
+5OEQ4JFqp1i8HtLVMgiO6d,Sunrise,29,0.18,0.0129,0.623,https://api.spotify.com/v1/audio-analysis/5OEQ4JFqp1i8HtLVMgiO6d
+7aJnuHLFLoNOQ1gyHjdJlL,Simple Mind,0,0.135,0.000188,0.748,https://api.spotify.com/v1/audio-analysis/7aJnuHLFLoNOQ1gyHjdJlL
+5uwHPw9oQu17sXY4QFVOZb,Hide Your Tears Because We Are in Heaven,0,0.0397,0.0183,0.366,https://api.spotify.com/v1/audio-analysis/5uwHPw9oQu17sXY4QFVOZb
+2Y8ypkWjxFI5pJRIkMmXi9,528 Hz Love Frequency,51,0.029,0.571,0.0708,https://api.spotify.com/v1/audio-analysis/2Y8ypkWjxFI5pJRIkMmXi9
+4T7SIZIV16p2zQpuRwOCYE,528 Hz Solar Plexus Chakra,40,0.0344,0.869,0.0267,https://api.spotify.com/v1/audio-analysis/4T7SIZIV16p2zQpuRwOCYE
+5U8Y5RhISKVXN2xUyb7Vyk,528 Hz Vibrational Medicine,40,0.0265,0.115,0.00864,https://api.spotify.com/v1/audio-analysis/5U8Y5RhISKVXN2xUyb7Vyk
+4frU4uf4FzhEhivfHCQuse,528 Hz DNA Repair,40,0.0387,0.0323,0.12,https://api.spotify.com/v1/audio-analysis/4frU4uf4FzhEhivfHCQuse
+6P9xetDrRlmCuddoUI4ePN,528 Hz Miracle Tone,50,0.0287,0.192,0.121,https://api.spotify.com/v1/audio-analysis/6P9xetDrRlmCuddoUI4ePN
+7jwe1frlegIGMOsiMSzYjz,528 Hz Heal and Repair,40,0.0329,0.25,0.0727,https://api.spotify.com/v1/audio-analysis/7jwe1frlegIGMOsiMSzYjz
+0Jz7dPv3jfsrTpAGTloP7k,528 Hz Reducing Stress,42,0.0254,0.939,0.0977,https://api.spotify.com/v1/audio-analysis/0Jz7dPv3jfsrTpAGTloP7k
+7wI2C0f49n6HpFPR6EwTU7,528 Hz Unwind,50,0.0377,0.141,0.137,https://api.spotify.com/v1/audio-analysis/7wI2C0f49n6HpFPR6EwTU7
+5DxM0NF6lAzcwT3sctSyMd,528 Hz Energizing and Healing,50,0.0345,0.708,0.0353,https://api.spotify.com/v1/audio-analysis/5DxM0NF6lAzcwT3sctSyMd
+5fYsehSsvX5H4VpMNrGN98,528 Hz Positive Transformation,51,0.0336,0.219,0.0188,https://api.spotify.com/v1/audio-analysis/5fYsehSsvX5H4VpMNrGN98
+6KsmV3JXan0wfDeY9oDbn7,528 Hz Self Confidence,50,0.0338,0.0348,0.0721,https://api.spotify.com/v1/audio-analysis/6KsmV3JXan0wfDeY9oDbn7
+5qj1JM7Yza7iOEsWkYWTXj,528 Hz Self Esteem,50,0.0343,0.242,0.0404,https://api.spotify.com/v1/audio-analysis/5qj1JM7Yza7iOEsWkYWTXj
+00PYH2P9NCS87FDSwqIW13,528 Hz Powerful Transformation,47,0.0384,0.618,0.0785,https://api.spotify.com/v1/audio-analysis/00PYH2P9NCS87FDSwqIW13
+5GCFqUpwWlCkDgec1Cird6,528 Hz Cell Regeneration,50,0.0342,0.163,0.0599,https://api.spotify.com/v1/audio-analysis/5GCFqUpwWlCkDgec1Cird6
+67zLFjnzqQ7UppDq1HXczR,528 Hz Mindfulness,54,0.0286,0.132,0.0609,https://api.spotify.com/v1/audio-analysis/67zLFjnzqQ7UppDq1HXczR
+0Q6TI6bw8WWxAop7ib91uc,528 Hz Reducing Tension-Anxiety,50,0.0309,0.45,0.0677,https://api.spotify.com/v1/audio-analysis/0Q6TI6bw8WWxAop7ib91uc
+10M9pTD82hqMGH5lYccN9O,528 Hz Reducing Mood Disturbance,50,0.0356,0.572,0.0459,https://api.spotify.com/v1/audio-analysis/10M9pTD82hqMGH5lYccN9O
+1SSTXRsMoLI6HRYQnlbI3e,528 Hz Detoxify the Body,50,0.0385,0.619,0.0708,https://api.spotify.com/v1/audio-analysis/1SSTXRsMoLI6HRYQnlbI3e
+3kMQxpdjZDcRQUfzUwQBqM,528 Hz Increasing Self-Trust,40,0.032,0.841,0.0291,https://api.spotify.com/v1/audio-analysis/3kMQxpdjZDcRQUfzUwQBqM
+2UY65mtNUm33NcigrqO8Ye,528 Hz Sharp Memory,41,0.0327,0.876,0.0957,https://api.spotify.com/v1/audio-analysis/2UY65mtNUm33NcigrqO8Ye
+6UhzN0t8grLTl94WkGmXrU,528 Hz Quick Manifestation,40,0.0331,0.91,0.049,https://api.spotify.com/v1/audio-analysis/6UhzN0t8grLTl94WkGmXrU
+3phm4So9WxGDTmdjiM00Qg,528 Hz Letting Go,51,0.0312,0.908,0.0199,https://api.spotify.com/v1/audio-analysis/3phm4So9WxGDTmdjiM00Qg
+6eIJKB5JEKhNcRYBNcMQLW,528 Hz Clarity of Mind,53,0.0385,0.845,0.09,https://api.spotify.com/v1/audio-analysis/6eIJKB5JEKhNcRYBNcMQLW
+3qw1VVk7GtbcTVrHORFcV1,528 Hz Staying Focused,47,0.0378,0.86,0.0113,https://api.spotify.com/v1/audio-analysis/3qw1VVk7GtbcTVrHORFcV1
+64X7O6orPKO4YCRT4FWb9e,528 Hz In the Moment,52,0.0263,0.896,0.0328,https://api.spotify.com/v1/audio-analysis/64X7O6orPKO4YCRT4FWb9e
+4V4cRV8MzaR5lkxU6pYes8,528 Hz Great Awareness,46,0.0268,0.379,0.0372,https://api.spotify.com/v1/audio-analysis/4V4cRV8MzaR5lkxU6pYes8
+5hAWATp1cD21SVNKvU08Pt,528 Hz Mighty Transformation,39,0.0342,0.867,0.0326,https://api.spotify.com/v1/audio-analysis/5hAWATp1cD21SVNKvU08Pt
+32ckAkOQTQy1NhZngzPWFR,528 Hz Natural Relationship,39,0.0322,0.053,0.0902,https://api.spotify.com/v1/audio-analysis/32ckAkOQTQy1NhZngzPWFR
+6fucZ6mdZ6OoeDdBbgN6ZC,528 Hz Love Energy,53,0.0384,0.204,0.0477,https://api.spotify.com/v1/audio-analysis/6fucZ6mdZ6OoeDdBbgN6ZC
+4LgpQ4iWmlcDSNro0pUlrE,528 Hz Natural Marvel,38,0.0375,0.0987,0.0731,https://api.spotify.com/v1/audio-analysis/4LgpQ4iWmlcDSNro0pUlrE
+1OMUawHWe27BEYvnCTeWMR,528 Hz Bless & Heal,50,0.037,0.785,0.0669,https://api.spotify.com/v1/audio-analysis/1OMUawHWe27BEYvnCTeWMR
+1fGVeI7Jq5Gi9MEf1tKeFy,528 Hz Freedom,39,0.0344,0.645,0.0366,https://api.spotify.com/v1/audio-analysis/1fGVeI7Jq5Gi9MEf1tKeFy
+3CHAXhDJShWGgSUytzMJvW,528 Hz Good Vibration,38,0.0396,0.184,0.0465,https://api.spotify.com/v1/audio-analysis/3CHAXhDJShWGgSUytzMJvW
+1J1oCBcNjnITq5piflV7oh,528 Hz Miraculous Recoveries,38,0.0308,0.662,0.0435,https://api.spotify.com/v1/audio-analysis/1J1oCBcNjnITq5piflV7oh
+4NBWujz1a5pYD1tTxpmwFE,528 Hz Overcome Fatigue,38,0.035,0.0855,0.0888,https://api.spotify.com/v1/audio-analysis/4NBWujz1a5pYD1tTxpmwFE
+3fM6oJurCru4AdbPAQnQvT,528 Hz Overcome Anxiety,38,0.0338,0.231,0.0647,https://api.spotify.com/v1/audio-analysis/3fM6oJurCru4AdbPAQnQvT
+1c2K6W0Xzv6Jz8dzq8A1WO,528 Hz Overcome Control Issues,38,0.106,0.753,0.084,https://api.spotify.com/v1/audio-analysis/1c2K6W0Xzv6Jz8dzq8A1WO
+3WH7Q5z136lOXourf3v9b4,528 Hz Overcome Negative Thought Patterns,38,0.0967,0.0586,0.0364,https://api.spotify.com/v1/audio-analysis/3WH7Q5z136lOXourf3v9b4
+0MGiIHnUx6GrTV2A9V0pzY,528 Hz Gold & Fire,38,0.0347,0.114,0.0819,https://api.spotify.com/v1/audio-analysis/0MGiIHnUx6GrTV2A9V0pzY
+3PFsvipSUMwLghq5aI7cvq,528 Hz Cleanse,38,0.0371,0.557,0.0529,https://api.spotify.com/v1/audio-analysis/3PFsvipSUMwLghq5aI7cvq
+7MyuqmFMZNyhJMQgWREsLy,528 Hz Release Blockages,38,0.039,0.147,0.0339,https://api.spotify.com/v1/audio-analysis/7MyuqmFMZNyhJMQgWREsLy
+0WKX6pJOtty873NYB45zGQ,528 Hz Sensational Tone,38,0.0334,0.229,0.0942,https://api.spotify.com/v1/audio-analysis/0WKX6pJOtty873NYB45zGQ
+0cTn2oaV3NGeA13vxwmgkI,528 Hz Manifest Miracles,50,0.0359,0.0881,0.0326,https://api.spotify.com/v1/audio-analysis/0cTn2oaV3NGeA13vxwmgkI
+4ANBITkdzCWmNCkLoyCdB2,528 Hz Bringing Blessings,50,0.0392,0.304,0.0667,https://api.spotify.com/v1/audio-analysis/4ANBITkdzCWmNCkLoyCdB2
+4z1sSvEeU5ryTE17kU698Y,528 Hz Healing Property,39,0.0372,0.26,0.019,https://api.spotify.com/v1/audio-analysis/4z1sSvEeU5ryTE17kU698Y
+21HNB2QKoBwrjqYPS1qe4o,528 Hz Reducing Anxiety,39,0.0507,0.156,0.00487,https://api.spotify.com/v1/audio-analysis/21HNB2QKoBwrjqYPS1qe4o
+2EEE52LkF52gFe3lfHdh7K,528 Hz Activating Creativity,38,0.0587,0.00712,0.086,https://api.spotify.com/v1/audio-analysis/2EEE52LkF52gFe3lfHdh7K
+08rpS3AeHRmiyelOO7dp7b,528 Hz Inner Peace,50,0.037,0.503,0.0338,https://api.spotify.com/v1/audio-analysis/08rpS3AeHRmiyelOO7dp7b
+2ZpCB6yZKS2g3DOwfOar7P,528 Hz Increasing Life Energy,38,0.0615,0.0536,0.0578,https://api.spotify.com/v1/audio-analysis/2ZpCB6yZKS2g3DOwfOar7P
+6S9KfzBKZOwtVsPAfwcBwq,528 Hz Aura Cleanse,38,0.0399,0.196,0.037,https://api.spotify.com/v1/audio-analysis/6S9KfzBKZOwtVsPAfwcBwq
+1uysoSNVQK38OlGSPIk4R6,852 Hz Awakening Intuition,45,0.0372,0.908,0.00349,https://api.spotify.com/v1/audio-analysis/1uysoSNVQK38OlGSPIk4R6
+7wAAg6cHtCeF11BXmlsUMR,852 Hz Awareness Frequency,45,0.0833,0.874,0.0193,https://api.spotify.com/v1/audio-analysis/7wAAg6cHtCeF11BXmlsUMR
+0G9rLeH7IHFJM25daJOFRN,852 Hz Spiritual Experience,45,0.0323,0.725,0.00644,https://api.spotify.com/v1/audio-analysis/0G9rLeH7IHFJM25daJOFRN
+0V57rAmkliDYkqEn0eWXoR,852 Hz Third Eye Chakra,45,0.0575,0.384,0.0204,https://api.spotify.com/v1/audio-analysis/0V57rAmkliDYkqEn0eWXoR
+03agBXl6qRq1eqA1bhXNTh,852 Hz Center of Intuition,44,0.0633,0.822,0.0157,https://api.spotify.com/v1/audio-analysis/03agBXl6qRq1eqA1bhXNTh
+1dnx67aq3wGHd9C6CorgQa,852 Hz Boosting Awareness,44,0.0974,0.48,0.0346,https://api.spotify.com/v1/audio-analysis/1dnx67aq3wGHd9C6CorgQa
+6Bd3c9L5kOyHi0CxDLLLs6,639 Hz Heart Frequency,45,0.098,0.869,0.00576,https://api.spotify.com/v1/audio-analysis/6Bd3c9L5kOyHi0CxDLLLs6
+5Rq5TRWAT5ZBoWlrw11i2Q,639 Hz Heal Heart Chakra,45,0.778,0.309,0.00813,https://api.spotify.com/v1/audio-analysis/5Rq5TRWAT5ZBoWlrw11i2Q
+5q54axHlSE4LjUlHRL6QX1,639 Hz Pure Positive Energy,45,0.379,0.827,0.0202,https://api.spotify.com/v1/audio-analysis/5q54axHlSE4LjUlHRL6QX1
+7m0EywZ4oS6D9wbB9ojWxr,639 Hz Attract Love,44,0.115,0.755,0.0108,https://api.spotify.com/v1/audio-analysis/7m0EywZ4oS6D9wbB9ojWxr
+0OU2v0cUoSlxgfhc8xXKEk,639 Hz Love Tone,44,0.347,0.0155,0.00909,https://api.spotify.com/v1/audio-analysis/0OU2v0cUoSlxgfhc8xXKEk
+3wUmEBoZ5nZRjoRwjLTu6t,639 Hz Raising Positive Energy,44,0.814,0.0998,0.0144,https://api.spotify.com/v1/audio-analysis/3wUmEBoZ5nZRjoRwjLTu6t
+6wd3IFI5YqrLAcAjD7iivI,417 Hz Clearing Negative Energy,46,0.0384,0.886,0.00881,https://api.spotify.com/v1/audio-analysis/6wd3IFI5YqrLAcAjD7iivI
+5jSrcFPyXZRgE3Kw4fbOi6,417 Hz Removing Blockages,45,0.198,0.804,0.00944,https://api.spotify.com/v1/audio-analysis/5jSrcFPyXZRgE3Kw4fbOi6
+2Akfq7ST1hCXxxTetplBB3,417 Hz Facilitate Change,45,0.0515,0.545,0.0446,https://api.spotify.com/v1/audio-analysis/2Akfq7ST1hCXxxTetplBB3
+7EDjvGhlcZtoHEqJFZMoxn,417 Hz Removing Negative Thoughts,45,0.0392,0.456,0.0109,https://api.spotify.com/v1/audio-analysis/7EDjvGhlcZtoHEqJFZMoxn
+0ZsXAUDFJyshlldRH3g2fH,417 Hz Clear Negative Energy,44,0.0331,0.158,0.072,https://api.spotify.com/v1/audio-analysis/0ZsXAUDFJyshlldRH3g2fH
+6Aggb33pitUSmb3H8vhSTv,417 Hz Undoing Situations,44,0.0594,0.258,0.0473,https://api.spotify.com/v1/audio-analysis/6Aggb33pitUSmb3H8vhSTv
+3YOcwbFYmkmoMVihLWSTsk,528 Hz Self Confidence Booster,35,0.0726,0.0791,0.019,https://api.spotify.com/v1/audio-analysis/3YOcwbFYmkmoMVihLWSTsk
+3J2sc2kdumdJ7quV31rdlT,528 Hz Manifesting Miracles,35,0.0583,0.135,0.0213,https://api.spotify.com/v1/audio-analysis/3J2sc2kdumdJ7quV31rdlT
+7KuMW9tHlx1hoepVTYR2hL,528 Hz Miracle Frequency,35,0.0506,0.169,0.0213,https://api.spotify.com/v1/audio-analysis/7KuMW9tHlx1hoepVTYR2hL
+1X9jGnwoWUNUSq4ZqC2uLe,528 Hz Inner Strength,35,0.0324,0.071,0.0628,https://api.spotify.com/v1/audio-analysis/1X9jGnwoWUNUSq4ZqC2uLe
+2VuaHuQA5yxcysp4Ub2fzs,528 Hz Postive Self-Image,35,0.0375,0.0782,0.0634,https://api.spotify.com/v1/audio-analysis/2VuaHuQA5yxcysp4Ub2fzs
+3rTxQdt4H4uGba5QXDRIGt,528 Hz Bring Positive Transformation,36,0.113,0.11,0.142,https://api.spotify.com/v1/audio-analysis/3rTxQdt4H4uGba5QXDRIGt
+0uJBt3q3MqjfQZUcDqKcyq,528 Hz Heal Golden Chakra,35,0.0363,0.0609,0.063,https://api.spotify.com/v1/audio-analysis/0uJBt3q3MqjfQZUcDqKcyq
+7leaGkDTPO80LQ3fnCP5tC,528 Hz Solfeggio Frequency Music,34,0.129,0.505,0.0682,https://api.spotify.com/v1/audio-analysis/7leaGkDTPO80LQ3fnCP5tC
+08R28zgFrbq3pvY8BDpFCC,528 Hz Energy System Balance,34,0.0379,0.342,0.12,https://api.spotify.com/v1/audio-analysis/08R28zgFrbq3pvY8BDpFCC
+2A5JrwveUqt5Ysls0um3UJ,528 Hz Energy Cleanse,34,0.0928,0.142,0.0119,https://api.spotify.com/v1/audio-analysis/2A5JrwveUqt5Ysls0um3UJ
+4j9B8eURKIwHUCvmvBgFYV,528 Hz Deep Healing Frequency,34,0.0493,0.278,0.0449,https://api.spotify.com/v1/audio-analysis/4j9B8eURKIwHUCvmvBgFYV
+7jpgHw3L2lm7Uaf8Qtdidb,528 Hz Meditation Frequency,34,0.0295,0.115,0.0552,https://api.spotify.com/v1/audio-analysis/7jpgHw3L2lm7Uaf8Qtdidb
+3TusfeZhs9OgZ220XFOZmc,528 Hz Energy Boost,34,0.112,0.109,0.0256,https://api.spotify.com/v1/audio-analysis/3TusfeZhs9OgZ220XFOZmc
+341ZkPruzD4cNYe3r1CgCj,528 Hz Synergistic Transformation,34,0.0372,0.521,0.0809,https://api.spotify.com/v1/audio-analysis/341ZkPruzD4cNYe3r1CgCj
+2VHEodx37RpFxz8RthH2Ch,528 Hz Abundance of Love,34,0.0349,0.00863,0.0662,https://api.spotify.com/v1/audio-analysis/2VHEodx37RpFxz8RthH2Ch
+3q7VzEko2W6JjiaYHf93nz,528 Hz Chakra Healing Frequency,34,0.0597,0.259,0.0157,https://api.spotify.com/v1/audio-analysis/3q7VzEko2W6JjiaYHf93nz
+3inxj9IzPn2jdWuYmtNTJN,528 Hz Miracle Tranformation,34,0.0336,0.0811,0.0378,https://api.spotify.com/v1/audio-analysis/3inxj9IzPn2jdWuYmtNTJN
+0G548gSnqlUnzwfhEBJ3bV,528 Hz Impactful Tranformation,33,0.0321,0.574,0.0457,https://api.spotify.com/v1/audio-analysis/0G548gSnqlUnzwfhEBJ3bV
+5iR4wI4kPshwhDQptlApJY,528 Hz Release Self-Doubt,33,0.0336,0.709,0.0421,https://api.spotify.com/v1/audio-analysis/5iR4wI4kPshwhDQptlApJY
+1GvW0LL6nTpU1kYd7Naabg,528 Hz Emotional Cleansing,34,0.11,0.695,0.0748,https://api.spotify.com/v1/audio-analysis/1GvW0LL6nTpU1kYd7Naabg
+70aIXFPV0mLR7BPoEyTfeU,Spiritual Path,0,0.0276,0.806,0.521,https://api.spotify.com/v1/audio-analysis/70aIXFPV0mLR7BPoEyTfeU
+2hXiLzJYVu7B7NizCe1XyE,Mantras de paix,0,0.0374,0.945,0.173,https://api.spotify.com/v1/audio-analysis/2hXiLzJYVu7B7NizCe1XyE
+7Bp5ict3CEEBC5X0aJSR3N,Cleansing Ritual,0,0.0384,0.985,0.0753,https://api.spotify.com/v1/audio-analysis/7Bp5ict3CEEBC5X0aJSR3N
+3fu8fDH0GwvOKWjjFoeFo7,Water Daydreams,5,0.0784,0.943,0.308,https://api.spotify.com/v1/audio-analysis/3fu8fDH0GwvOKWjjFoeFo7
+716T1vKbYJb2179q5PEqOa,Pathway to Harmony,1,0.0878,0.963,0.121,https://api.spotify.com/v1/audio-analysis/716T1vKbYJb2179q5PEqOa
+5PKTkX4oS5KcdPniI8QvuI,Midnight Contemplation,9,0.0602,0.991,0.00894,https://api.spotify.com/v1/audio-analysis/5PKTkX4oS5KcdPniI8QvuI
+0l55A3ZIIx8yf25cCXoHFA,The Calmness,1,0.485,0.597,0.194,https://api.spotify.com/v1/audio-analysis/0l55A3ZIIx8yf25cCXoHFA
+6Jve8GBT6LsE3NOfXCrPGh,Musique Zen,3,0.033,0.7,0.192,https://api.spotify.com/v1/audio-analysis/6Jve8GBT6LsE3NOfXCrPGh
+7hDLRgSe1QnIiImVgrPDY6,Fearless Ocean,9,0.262,0.86,0.489,https://api.spotify.com/v1/audio-analysis/7hDLRgSe1QnIiImVgrPDY6
+7dHUuSH7g5KceMW7RKtirI,Alívio do Stress,2,0.164,0.936,0.208,https://api.spotify.com/v1/audio-analysis/7dHUuSH7g5KceMW7RKtirI
+3MCSgq0zJahckSk6zvUBal,Mindful Release,9,0.0398,0.984,0.0963,https://api.spotify.com/v1/audio-analysis/3MCSgq0zJahckSk6zvUBal
+2rVJLr2JAlrSM2QugTvsB0,Celtic Celebration,3,0.0672,0.958,0.201,https://api.spotify.com/v1/audio-analysis/2rVJLr2JAlrSM2QugTvsB0
+6LkI1QJAdnwVXkPUDGKJsn,Ancient Wisdom,5,0.337,0.989,0.15,https://api.spotify.com/v1/audio-analysis/6LkI1QJAdnwVXkPUDGKJsn
+2s2Bsb5er9lPjs7zsjhgjz,Calm Singing Birds,4,0.0278,0.778,0.919,https://api.spotify.com/v1/audio-analysis/2s2Bsb5er9lPjs7zsjhgjz
+4xKWuhc9ZtRpoLVRXVyfJ6,Drömmar,6,0.113,0.795,0.11,https://api.spotify.com/v1/audio-analysis/4xKWuhc9ZtRpoLVRXVyfJ6
+5UTsff1Q0MYVxOPVeXUnPQ,Reducir el Estrés,12,0.0389,0.753,0.299,https://api.spotify.com/v1/audio-analysis/5UTsff1Q0MYVxOPVeXUnPQ
+3WT1FbKWFwWoWI6tUJQTBN,Zen Massage & Relaxation,5,0.163,0.666,0.366,https://api.spotify.com/v1/audio-analysis/3WT1FbKWFwWoWI6tUJQTBN
+043genSQdrwjitJVJ9AQCI,Alma do Egito,0,0.548,0.97,0.158,https://api.spotify.com/v1/audio-analysis/043genSQdrwjitJVJ9AQCI
+1xpbqwAYHRKdn0eKn45lSq,Toque Sanador,0,0.0512,0.972,0.028,https://api.spotify.com/v1/audio-analysis/1xpbqwAYHRKdn0eKn45lSq
+2wpPF5PoQnSqQ4URns9tzN,Stress Relief,6,0.0439,0.661,0.353,https://api.spotify.com/v1/audio-analysis/2wpPF5PoQnSqQ4URns9tzN
+0hyLJXcnp47TagBlp9DRCM,Nightly Rest,7,0.138,0.839,0.405,https://api.spotify.com/v1/audio-analysis/0hyLJXcnp47TagBlp9DRCM
+0Qe3mC0hkeIkzP3rUy7pOq,Crystal Night,4,0.0874,0.77,0.114,https://api.spotify.com/v1/audio-analysis/0Qe3mC0hkeIkzP3rUy7pOq
+4y4mVa5jFqzs2WaPoYr3Ja,Free Like a Bird,12,0.148,0.988,0.0954,https://api.spotify.com/v1/audio-analysis/4y4mVa5jFqzs2WaPoYr3Ja
+7oYofxSvFCBi1nmVryx1ts,Majestic Rain,2,0.0163,0.744,0.996,https://api.spotify.com/v1/audio-analysis/7oYofxSvFCBi1nmVryx1ts
+6nX0p7qFCOx0AdTNR7UaiF,Tibetan Bells with Quiet Waves,9,0.0314,0.966,0.107,https://api.spotify.com/v1/audio-analysis/6nX0p7qFCOx0AdTNR7UaiF
+5BACBmaZa0waykHAK3Pgq0,Massothérapie,0,0.039,0.842,0.11,https://api.spotify.com/v1/audio-analysis/5BACBmaZa0waykHAK3Pgq0
+6UR7g4ylhF6J91VHAgkzw1,Secrets of the Woodland,9,0.0388,0.721,0.127,https://api.spotify.com/v1/audio-analysis/6UR7g4ylhF6J91VHAgkzw1
+3a1pTF5uLycAr3BJiSCVFe,Giardino giapponese,6,0.198,0.789,0.348,https://api.spotify.com/v1/audio-analysis/3a1pTF5uLycAr3BJiSCVFe
+5Tic4hRzkV1bQfURRwmBxC,Retiro Oriental,3,0.0834,0.937,0.437,https://api.spotify.com/v1/audio-analysis/5Tic4hRzkV1bQfURRwmBxC
+1PcmwqnuPp0jVI6XdcT6DW,Calming Lavender,6,0.115,0.98,0.0726,https://api.spotify.com/v1/audio-analysis/1PcmwqnuPp0jVI6XdcT6DW
+7qbj5nXLtsqkBpsbb3pNc8,Relaxing Guitar,0,0.44,0.895,0.325,https://api.spotify.com/v1/audio-analysis/7qbj5nXLtsqkBpsbb3pNc8
+5UHT6fjk5ToAnMdafDUEXt,Stress-Free,1,0.106,0.97,0.452,https://api.spotify.com/v1/audio-analysis/5UHT6fjk5ToAnMdafDUEXt
+64sIhheZf8fwZuAAYnBJwS,Natural Awakening,1,0.0684,0.949,0.155,https://api.spotify.com/v1/audio-analysis/64sIhheZf8fwZuAAYnBJwS
+348tsHz1ha4dYHbE25k1bd,La tranquillité est la santé,1,0.0283,0.786,0.18,https://api.spotify.com/v1/audio-analysis/348tsHz1ha4dYHbE25k1bd
+17AeWkxofGUrfC5OLBXtCD,Energy Renewal,3,0.0674,0.913,0.341,https://api.spotify.com/v1/audio-analysis/17AeWkxofGUrfC5OLBXtCD
+5RVcdDs32oEmOo9CqAMnq1,Autocompassivo,1,0.812,0.963,0.223,https://api.spotify.com/v1/audio-analysis/5RVcdDs32oEmOo9CqAMnq1
+6ijDvElKzoliFlkigFdbKx,Slow Music for Destress,2,0.142,0.766,0.489,https://api.spotify.com/v1/audio-analysis/6ijDvElKzoliFlkigFdbKx
+3hnersz3eSDWpG0KOHAIRi,Fantasy Harp,0,0.0609,0.731,0.346,https://api.spotify.com/v1/audio-analysis/3hnersz3eSDWpG0KOHAIRi
+6x6eTl8ZULgAxs5cXATqkk,Counting Stars,3,0.0391,0.254,0.175,https://api.spotify.com/v1/audio-analysis/6x6eTl8ZULgAxs5cXATqkk
+4Ye8r8Xpc2e7gOch6SE9wk,Montanhas Zen,3,0.07,0.922,0.247,https://api.spotify.com/v1/audio-analysis/4Ye8r8Xpc2e7gOch6SE9wk
+1s2TzUTdqLB3HqfH103G0D,Rain Mist of Time,4,0.0687,0.916,0.0724,https://api.spotify.com/v1/audio-analysis/1s2TzUTdqLB3HqfH103G0D
+3ahxMIUbLNLveU63use4jf,Calm Oasis,11,0.0895,0.884,0.176,https://api.spotify.com/v1/audio-analysis/3ahxMIUbLNLveU63use4jf
+302yF7U66cHXgzVvwdkxCU,Close to You,4,0.279,0.75,0.591,https://api.spotify.com/v1/audio-analysis/302yF7U66cHXgzVvwdkxCU
+3w1NxU8f1zeBvh6edlDYll,Mind Stimulation,0,0.277,0.873,0.136,https://api.spotify.com/v1/audio-analysis/3w1NxU8f1zeBvh6edlDYll
+7tsBXjSyC65Ofuvm8kq3ZZ,Andetaget av lugn,3,0.0846,0.917,0.0726,https://api.spotify.com/v1/audio-analysis/7tsBXjSyC65Ofuvm8kq3ZZ
+3qEUwjcomePSiv8Kfs5MCa,Kobido Relax,3,0.0859,0.956,0.0505,https://api.spotify.com/v1/audio-analysis/3qEUwjcomePSiv8Kfs5MCa
+7cIchSMrKRmyrN8AcZYK58,Kalimba Meditation,2,0.286,0.944,0.0076,https://api.spotify.com/v1/audio-analysis/7cIchSMrKRmyrN8AcZYK58
+3OPmdyPmroomif2hBF9WPh,EMDR Therapy 250Hz,3,0.0487,0.842,0.219,https://api.spotify.com/v1/audio-analysis/3OPmdyPmroomif2hBF9WPh
+3Tbj2AJcpZT0jzURXqgZb2,Clarity of Thoughts,2,0.109,0.95,0.342,https://api.spotify.com/v1/audio-analysis/3Tbj2AJcpZT0jzURXqgZb2
+2zhiFbS1jLLctqMm0GITHS,Tissue Massage,3,0.148,0.873,0.0605,https://api.spotify.com/v1/audio-analysis/2zhiFbS1jLLctqMm0GITHS
+2Ytom7Qne1ZrjYBk6Gk1GF,Water Immersion,10,0.19,0.754,0.501,https://api.spotify.com/v1/audio-analysis/2Ytom7Qne1ZrjYBk6Gk1GF
+2DfLYC0CxK4RyGSKh1H7OB,Calmness In Heart,4,0.0617,0.987,0.0904,https://api.spotify.com/v1/audio-analysis/2DfLYC0CxK4RyGSKh1H7OB
+263fBd0XeBGrfGTzaZb8oA,Life Reflections,5,0.0478,0.985,0.0356,https://api.spotify.com/v1/audio-analysis/263fBd0XeBGrfGTzaZb8oA
+4Pq1NPDfqh2nLwdVyEozIH,Stress Release,1,0.0624,0.491,0.703,https://api.spotify.com/v1/audio-analysis/4Pq1NPDfqh2nLwdVyEozIH
+4DAG5qQVo3Vtyk2uEEtwNx,Full Body Healing,5,0.0389,0.984,0.0787,https://api.spotify.com/v1/audio-analysis/4DAG5qQVo3Vtyk2uEEtwNx
+2cFIoq16TJKyDbbQc23mHT,Cleansing Aromatherapy,0,0.0822,0.938,0.0973,https://api.spotify.com/v1/audio-analysis/2cFIoq16TJKyDbbQc23mHT
+3Ni9WKVrpnTpDDpyrul1LI,Buddha Spirit,3,0.0486,0.994,0.239,https://api.spotify.com/v1/audio-analysis/3Ni9WKVrpnTpDDpyrul1LI
+4udIB613vzquKQF08wi7MZ,Norway Wellness,3,0.249,0.993,0.328,https://api.spotify.com/v1/audio-analysis/4udIB613vzquKQF08wi7MZ
+0njPweT1lIsl0b3qP7BrIN,Water-element,9,0.00585,0.418,1.0,https://api.spotify.com/v1/audio-analysis/0njPweT1lIsl0b3qP7BrIN
+4toKTCiRwONrPwpJHdhxOw,Deep Breaths,1,0.0537,0.993,0.0436,https://api.spotify.com/v1/audio-analysis/4toKTCiRwONrPwpJHdhxOw
+2Yq9gcdODhAOBQWhRYPK0Q,Asian Spa Relaxation,11,0.376,0.832,0.555,https://api.spotify.com/v1/audio-analysis/2Yq9gcdODhAOBQWhRYPK0Q
+6Bgq51E9U4mCFljV8kOPy2,Zenová relaxácia,1,0.217,0.325,0.237,https://api.spotify.com/v1/audio-analysis/6Bgq51E9U4mCFljV8kOPy2
+7yKQ6P6rGFmhybSE0iyWEB,Moment of Silence,4,0.422,0.958,0.293,https://api.spotify.com/v1/audio-analysis/7yKQ6P6rGFmhybSE0iyWEB
+4Xv3ntXnJ9XvyjypXgI9m2,Feel Your Breath,3,0.0393,0.874,0.0616,https://api.spotify.com/v1/audio-analysis/4Xv3ntXnJ9XvyjypXgI9m2
+5FqYaLJ0yM2ECjtK3SdcdE,Natural Calm,0,0.092,0.937,0.183,https://api.spotify.com/v1/audio-analysis/5FqYaLJ0yM2ECjtK3SdcdE
+5JETBMfRW14DsMmEyQapHn,Mindful Living,3,0.0344,0.748,0.229,https://api.spotify.com/v1/audio-analysis/5JETBMfRW14DsMmEyQapHn
+7hNJEZBRTbZT1lvqUCgLn7,Healing Journey to Enlightenment,3,0.123,0.862,0.341,https://api.spotify.com/v1/audio-analysis/7hNJEZBRTbZT1lvqUCgLn7
+0ZXJXJXnWWcqZUZMExhpRz,Your Love Will Return to You,2,0.185,0.974,0.0677,https://api.spotify.com/v1/audio-analysis/0ZXJXJXnWWcqZUZMExhpRz
+1TMAqFgcPasRF2qL58Re1T,Positive Attitude Towards Future,2,0.205,0.887,0.194,https://api.spotify.com/v1/audio-analysis/1TMAqFgcPasRF2qL58Re1T
+5EFCt6Vxzz9GyIixKaTAvh,Keep Moving Ahead,2,0.0385,0.891,0.105,https://api.spotify.com/v1/audio-analysis/5EFCt6Vxzz9GyIixKaTAvh
+1rE8GfbN66mc9qnivpyoM6,Water Soundscapes,7,1e-05,0.679,1.0,https://api.spotify.com/v1/audio-analysis/1rE8GfbN66mc9qnivpyoM6
+430SYUM9wlDYAk0TUPt4Xx,Be Kind to Your Mind,4,0.0363,0.927,0.18,https://api.spotify.com/v1/audio-analysis/430SYUM9wlDYAk0TUPt4Xx
+7oNHb5zqPv1f9EMmy5mnd1,Solar Plexus Chakra Music,0,0.0789,0.995,0.113,https://api.spotify.com/v1/audio-analysis/7oNHb5zqPv1f9EMmy5mnd1
+4LhzIAQcnTQgYOCp6w4c8u,Blessing of Peace,11,0.221,0.989,0.0616,https://api.spotify.com/v1/audio-analysis/4LhzIAQcnTQgYOCp6w4c8u
+71BqlxgmIqwXgGGyNY2N7Y,Delightful Relaxation,3,0.157,0.923,0.247,https://api.spotify.com/v1/audio-analysis/71BqlxgmIqwXgGGyNY2N7Y
+1q0wRXWn92X5NNCQnymmvO,Breathing In and Out,1,0.0785,0.928,0.0443,https://api.spotify.com/v1/audio-analysis/1q0wRXWn92X5NNCQnymmvO
+7x8tmEIVDGYS1kSysjjLcH,Bambusový les,1,0.403,0.71,0.486,https://api.spotify.com/v1/audio-analysis/7x8tmEIVDGYS1kSysjjLcH
+1lLPb4JvMzetVnN92E0sTs,Tranquil Meditation,2,0.0399,0.946,0.17,https://api.spotify.com/v1/audio-analysis/1lLPb4JvMzetVnN92E0sTs
+6gr3osT1HNWC82FoeXboqV,Yoga Zen Moods,0,0.177,0.496,0.301,https://api.spotify.com/v1/audio-analysis/6gr3osT1HNWC82FoeXboqV
+7zSDolWpvrYcoJTPfQGOBG,A Slow Flow,0,0.127,0.989,0.0756,https://api.spotify.com/v1/audio-analysis/7zSDolWpvrYcoJTPfQGOBG
+2ThVilSjcDDktEmrdq4d2w,Time for Reflection,2,0.245,0.975,0.276,https://api.spotify.com/v1/audio-analysis/2ThVilSjcDDktEmrdq4d2w
+3DZX6dz38FvhFVuh8fh98b,Walking in Space,0,0.038,0.68,0.095,https://api.spotify.com/v1/audio-analysis/3DZX6dz38FvhFVuh8fh98b
+7Ee0VRBEsEiON2izUmpAaI,Soothing Remedy,3,0.15,0.808,0.1,https://api.spotify.com/v1/audio-analysis/7Ee0VRBEsEiON2izUmpAaI
+5lTujeBnYZdWsQyVOGsf8j,Break for Thoughts,2,0.0568,0.977,0.0683,https://api.spotify.com/v1/audio-analysis/5lTujeBnYZdWsQyVOGsf8j
+7xtHZt0opV4PKbp7XI6ZpG,Calm Down and Relax,0,0.0334,0.368,0.0872,https://api.spotify.com/v1/audio-analysis/7xtHZt0opV4PKbp7XI6ZpG
+0uSVUzeCcVsWn9w6oG9SOd,Calma e Serenità,0,0.115,0.977,0.0526,https://api.spotify.com/v1/audio-analysis/0uSVUzeCcVsWn9w6oG9SOd
+1RUEw3AwuM6OPHixB4XX7l,Inner Bliss,2,0.0627,0.947,0.156,https://api.spotify.com/v1/audio-analysis/1RUEw3AwuM6OPHixB4XX7l
+5YbywwVbfHD4yrcWcggWcj,Stress Reduction,4,0.0395,0.968,0.0127,https://api.spotify.com/v1/audio-analysis/5YbywwVbfHD4yrcWcggWcj
+1WmVrX3cUAxYIuFL4qCzBC,Peaceful Ambience,0,0.216,0.803,0.115,https://api.spotify.com/v1/audio-analysis/1WmVrX3cUAxYIuFL4qCzBC
+0lUgMfDwed3CjuKTctfVBg,Relaxing Rain,2,0.0384,0.982,0.0384,https://api.spotify.com/v1/audio-analysis/0lUgMfDwed3CjuKTctfVBg
+66LC2CP3nbySyo3Zxz6l39,Mindfulness,2,0.144,0.944,0.478,https://api.spotify.com/v1/audio-analysis/66LC2CP3nbySyo3Zxz6l39
+3omguYGHP4j3W9hq3ev6Yh,Touch of Silence,0,0.284,0.875,0.198,https://api.spotify.com/v1/audio-analysis/3omguYGHP4j3W9hq3ev6Yh
+3AHu60jDzO5RrxgR0dCvZ1,Deep Night Meditation,2,0.0752,0.89,0.188,https://api.spotify.com/v1/audio-analysis/3AHu60jDzO5RrxgR0dCvZ1
+7qoP43J2gyYADVTbUCShNR,Yasashisa-Ni Tsutsumaretanara,23,0.632,0.946,0.301,https://api.spotify.com/v1/audio-analysis/7qoP43J2gyYADVTbUCShNR
+6EboGPaOSGi27xHIKRahie,Always with Me,24,0.505,0.859,0.351,https://api.spotify.com/v1/audio-analysis/6EboGPaOSGi27xHIKRahie
+1QF2NRL14fVlxrFSWm3Z4l,You've Got a Friend in Me,23,0.176,0.87,0.273,https://api.spotify.com/v1/audio-analysis/1QF2NRL14fVlxrFSWm3Z4l
+63hbinOk4rsEC86LeFkFbd,Umi-No Mieru Machi,23,0.482,0.9,0.372,https://api.spotify.com/v1/audio-analysis/63hbinOk4rsEC86LeFkFbd
+0O61MXrPleUDU9jgJEFE4s,A Dream Is a Wish Your Heart Makes,25,0.362,0.926,0.427,https://api.spotify.com/v1/audio-analysis/0O61MXrPleUDU9jgJEFE4s
+4vubIm2wSXpte0IOp4ry6X,One Summer's Day,22,0.262,0.926,0.26,https://api.spotify.com/v1/audio-analysis/4vubIm2wSXpte0IOp4ry6X
+1SI2XmBv51Dsrtq0bRd4gM,Some Day My Prince Will Come,24,0.391,0.913,0.275,https://api.spotify.com/v1/audio-analysis/1SI2XmBv51Dsrtq0bRd4gM
+5R2C5GR5JjDiqzSPuVGGxw,Clair de lune,23,0.12,0.94,0.213,https://api.spotify.com/v1/audio-analysis/5R2C5GR5JjDiqzSPuVGGxw
+0JEF8QlsNAGify2EMwEXhg,"Take Me Home, Country Roads",22,0.498,0.925,0.196,https://api.spotify.com/v1/audio-analysis/0JEF8QlsNAGify2EMwEXhg
+7dQ6lSP94nwKMpSRVCumtu,Gymnopédie,22,0.337,0.841,0.272,https://api.spotify.com/v1/audio-analysis/7dQ6lSP94nwKMpSRVCumtu
+4ANgaiBlVkHMUHz0Lv1iMR,Message by Rouge,17,0.221,0.984,0.143,https://api.spotify.com/v1/audio-analysis/4ANgaiBlVkHMUHz0Lv1iMR
+635aN9bBj7NvTfNABRrQsZ,Carrying You,17,0.148,0.993,0.0388,https://api.spotify.com/v1/audio-analysis/635aN9bBj7NvTfNABRrQsZ
+19tt81oivU7HpC7F3t9jO8,When I Remember This Life,19,0.23,0.982,0.158,https://api.spotify.com/v1/audio-analysis/19tt81oivU7HpC7F3t9jO8
+5VcNeAHisJ6xK7wrDm16hb,Moon River,21,0.0811,0.994,0.0415,https://api.spotify.com/v1/audio-analysis/5VcNeAHisJ6xK7wrDm16hb
+25uFVIvTHWyOz3MNrveYEP,The Rose,19,0.215,0.99,0.0825,https://api.spotify.com/v1/audio-analysis/25uFVIvTHWyOz3MNrveYEP
+04xJk29WVWX6F8dWTOe49T,Over the Rainbow,19,0.0683,0.993,0.0475,https://api.spotify.com/v1/audio-analysis/04xJk29WVWX6F8dWTOe49T
+1Ssb3I5gUx9eJz5V0xsvVH,Kokoroga Karukunaru,4,0.138,0.993,0.207,https://api.spotify.com/v1/audio-analysis/1Ssb3I5gUx9eJz5V0xsvVH
+54PpxQoFEj3ex2Ob3RKeyL,Maemukina Kimochi,4,0.493,0.982,0.357,https://api.spotify.com/v1/audio-analysis/54PpxQoFEj3ex2Ob3RKeyL
+30J9CffG1WUrpdayWHXccq,Odayakana Nami,4,0.0797,0.977,0.243,https://api.spotify.com/v1/audio-analysis/30J9CffG1WUrpdayWHXccq
+6BqoJNkrhp80ydbsv4taX8,Deep Breath,4,0.0393,0.984,0.318,https://api.spotify.com/v1/audio-analysis/6BqoJNkrhp80ydbsv4taX8
+21IyufzrEc8ujk2h2lhtJu,Ochitsuita Kokoro,4,0.145,0.996,0.0932,https://api.spotify.com/v1/audio-analysis/21IyufzrEc8ujk2h2lhtJu
+0gwGTHagGiycA8hOqyRDCe,Kokorowo Shizumete,4,0.237,0.99,0.223,https://api.spotify.com/v1/audio-analysis/0gwGTHagGiycA8hOqyRDCe
+0lIxk9nPg0IsHkiDPKnRAQ,Komorebi,4,0.307,0.689,0.263,https://api.spotify.com/v1/audio-analysis/0lIxk9nPg0IsHkiDPKnRAQ
+4v6JqNlNyH4Hr5DKIo15cK,New Day,4,0.605,0.971,0.235,https://api.spotify.com/v1/audio-analysis/4v6JqNlNyH4Hr5DKIo15cK
+02MqsWGCAhnVnTg3MyGXdd,Akarui Kimochi,3,0.336,0.871,0.234,https://api.spotify.com/v1/audio-analysis/02MqsWGCAhnVnTg3MyGXdd
+6Tyb0309S98JfdNSFNdN5K,Kokochiyoi Kuuki,3,0.22,0.912,0.21,https://api.spotify.com/v1/audio-analysis/6Tyb0309S98JfdNSFNdN5K
+3D5Tv0qEMQY6iz5amidA8T,Day Dream,3,0.305,0.596,0.243,https://api.spotify.com/v1/audio-analysis/3D5Tv0qEMQY6iz5amidA8T
+4irVFqewYFaJ9wo17Z8Jvq,Free as a Bird,3,0.285,0.841,0.259,https://api.spotify.com/v1/audio-analysis/4irVFqewYFaJ9wo17Z8Jvq
+5Ng9MhPGsdyJ0lBWBf2Geh,Rainy Day,3,0.181,0.984,0.224,https://api.spotify.com/v1/audio-analysis/5Ng9MhPGsdyJ0lBWBf2Geh
+66BfGN35GRmqC21RjlA1L9,Healing Rain,3,0.0442,0.976,0.143,https://api.spotify.com/v1/audio-analysis/66BfGN35GRmqC21RjlA1L9
+7ejrMc2nQ2UmIgeCNos9Zd,Ansei,3,0.295,0.957,0.244,https://api.spotify.com/v1/audio-analysis/7ejrMc2nQ2UmIgeCNos9Zd
+4B1lAp9JhsDLRvvuLbOI9l,Slowly,3,0.291,0.989,0.212,https://api.spotify.com/v1/audio-analysis/4B1lAp9JhsDLRvvuLbOI9l
+4NkVn2SqigsSrulbaWh9dN,Shizukana Ketsui,3,0.348,0.986,0.231,https://api.spotify.com/v1/audio-analysis/4NkVn2SqigsSrulbaWh9dN
+0zNq6YO0vWKHVVlE0XeOFi,Dandanto Shuchu,3,0.4,0.932,0.345,https://api.spotify.com/v1/audio-analysis/0zNq6YO0vWKHVVlE0XeOFi
+4sAHLi2Plm7fDynMJ8NQPT,Negaitsudukeru,3,0.219,0.823,0.419,https://api.spotify.com/v1/audio-analysis/4sAHLi2Plm7fDynMJ8NQPT
+1sGk9ERulOwCBPwoqoI3hm,Angel Voice,3,0.272,0.9,0.578,https://api.spotify.com/v1/audio-analysis/1sGk9ERulOwCBPwoqoI3hm
+4bsNMsWNZwNu7hBle22KyN,Kokorowo Hiraite,3,0.0849,0.321,0.446,https://api.spotify.com/v1/audio-analysis/4bsNMsWNZwNu7hBle22KyN
+3JWkfc5MuWELSXZeJ5nkoT,Sunset,3,0.0533,0.977,0.382,https://api.spotify.com/v1/audio-analysis/3JWkfc5MuWELSXZeJ5nkoT
+7hRAxDdVcpCsC4qxk3qc2r,Twilight Time,3,0.211,0.896,0.396,https://api.spotify.com/v1/audio-analysis/7hRAxDdVcpCsC4qxk3qc2r
+5qk0jWfHp5x4ThoNo7PBhO,Yudutsu,3,0.163,0.351,0.536,https://api.spotify.com/v1/audio-analysis/5qk0jWfHp5x4ThoNo7PBhO
+0u5UJFkfvW2973Se9kR88x,Silence,3,0.189,0.874,0.258,https://api.spotify.com/v1/audio-analysis/0u5UJFkfvW2973Se9kR88x
+2uxGyGtnguQkFnU4NYWuuL,Jiyuna Kokoro,3,0.344,0.891,0.21,https://api.spotify.com/v1/audio-analysis/2uxGyGtnguQkFnU4NYWuuL
+3l46mFs4Ee5tSEyJV2V8UO,Botto,3,0.341,0.937,0.199,https://api.spotify.com/v1/audio-analysis/3l46mFs4Ee5tSEyJV2V8UO
+04WTIa7vt5coCrIaMbeSac,Senzai Ishiki,3,0.32,0.923,0.235,https://api.spotify.com/v1/audio-analysis/04WTIa7vt5coCrIaMbeSac
+0KKrJqXjC8ELAcg4sEQ7TR,Shizenni Ikiru,3,0.189,0.886,0.32,https://api.spotify.com/v1/audio-analysis/0KKrJqXjC8ELAcg4sEQ7TR
+3S9vckvQVrkDt3E3i4uCXE,Nagai Tabi,3,0.286,0.898,0.226,https://api.spotify.com/v1/audio-analysis/3S9vckvQVrkDt3E3i4uCXE
+6Ngr1RbV34Md8RY3UVUf9b,Shizukana Neiro,7,0.343,0.994,0.0683,https://api.spotify.com/v1/audio-analysis/6Ngr1RbV34Md8RY3UVUf9b
+2IVuhgJi7UlZlCIgoI5O2X,Yoruno Hajimari,3,0.313,0.995,0.0779,https://api.spotify.com/v1/audio-analysis/2IVuhgJi7UlZlCIgoI5O2X
+4b37NtyNmJ4sYHWfTGgegy,Shizukana Yoru,6,0.164,0.994,0.0623,https://api.spotify.com/v1/audio-analysis/4b37NtyNmJ4sYHWfTGgegy
+5LMOXI0eyIuRFnogcEplzn,Hosizora,3,0.0604,0.96,0.236,https://api.spotify.com/v1/audio-analysis/5LMOXI0eyIuRFnogcEplzn
+4lpZ5BB7v22xt0DtyLKsvV,Hosizorawo Nagamete,3,0.261,0.995,0.0617,https://api.spotify.com/v1/audio-analysis/4lpZ5BB7v22xt0DtyLKsvV
+1F8MnE9TIdtWYhvbFu5pOm,Hoshizorano Hirogari,3,0.249,0.972,0.156,https://api.spotify.com/v1/audio-analysis/1F8MnE9TIdtWYhvbFu5pOm
+0CphAhwESR9r75EQfREOgj,Hoshizorano Kakera,3,0.458,0.931,0.184,https://api.spotify.com/v1/audio-analysis/0CphAhwESR9r75EQfREOgj
+2v5rb1xB8vL7AytgGub9mf,Nemurini Sasoware,3,0.0756,0.957,0.282,https://api.spotify.com/v1/audio-analysis/2v5rb1xB8vL7AytgGub9mf
+2pTlUzNfVz9mopFn5C7IIe,Madoromi,3,0.0581,0.995,0.0721,https://api.spotify.com/v1/audio-analysis/2pTlUzNfVz9mopFn5C7IIe
+2mYEHEZveSDFzdvj35Te2r,Odayakana Nemuri,3,0.4,0.99,0.177,https://api.spotify.com/v1/audio-analysis/2mYEHEZveSDFzdvj35Te2r
+6XjXcUA97WdjbTbJOJslPg,Yumeno Nakahe,4,0.172,0.989,0.167,https://api.spotify.com/v1/audio-analysis/6XjXcUA97WdjbTbJOJslPg
+0tB2dtgPGgDodf8n0elgiw,Mukashino Yume,3,0.321,0.995,0.0699,https://api.spotify.com/v1/audio-analysis/0tB2dtgPGgDodf8n0elgiw
+6KrsRO24oIXDGpjuX3Jdge,Setsunai Yume,4,0.206,0.983,0.143,https://api.spotify.com/v1/audio-analysis/6KrsRO24oIXDGpjuX3Jdge
+1pi5ZdkC6dsyHb3MgSwpwq,Yumeno Sekai,3,0.04,0.978,0.312,https://api.spotify.com/v1/audio-analysis/1pi5ZdkC6dsyHb3MgSwpwq
+7jFNVm5sqSqrrwRCU7qMGq,Hushigina Yume,2,0.19,0.666,0.219,https://api.spotify.com/v1/audio-analysis/7jFNVm5sqSqrrwRCU7qMGq
+1wMo6taYOoTVgtIZ5uKtjE,Kuusou,3,0.473,0.968,0.176,https://api.spotify.com/v1/audio-analysis/1wMo6taYOoTVgtIZ5uKtjE
+1YdTMbMiogTSDINE20llh5,Musou,3,0.138,0.986,0.11,https://api.spotify.com/v1/audio-analysis/1YdTMbMiogTSDINE20llh5
+3Ykoq2bHTlLJik31BEQC9O,Meisou,3,0.37,0.991,0.116,https://api.spotify.com/v1/audio-analysis/3Ykoq2bHTlLJik31BEQC9O
+2UBGCFNSCfZP4uVGX9qzA6,Gensou,3,0.347,0.994,0.133,https://api.spotify.com/v1/audio-analysis/2UBGCFNSCfZP4uVGX9qzA6
+3UbHEOLUW9OOAsSLeio80L,Huritsumoru Omoi,3,0.326,0.995,0.101,https://api.spotify.com/v1/audio-analysis/3UbHEOLUW9OOAsSLeio80L
+2P23TqDPYnAZnTIRELdx3W,Kibouno Neiro,3,0.394,0.994,0.0919,https://api.spotify.com/v1/audio-analysis/2P23TqDPYnAZnTIRELdx3W
+3mJh6cSOLGW8utsZx2c9Sx,Yurikago,3,0.313,0.996,0.0709,https://api.spotify.com/v1/audio-analysis/3mJh6cSOLGW8utsZx2c9Sx
+759GBdgmtG2GB2LbqCNNJt,Komoriuta,3,0.229,0.498,0.306,https://api.spotify.com/v1/audio-analysis/759GBdgmtG2GB2LbqCNNJt
+1wJebbqKXhpJEwQO8Zf49J,Tokino Nagare,3,0.453,0.953,0.154,https://api.spotify.com/v1/audio-analysis/1wJebbqKXhpJEwQO8Zf49J
+4nphVVMhaJFo44n7sf0Q3o,Tookumade,3,0.372,0.98,0.267,https://api.spotify.com/v1/audio-analysis/4nphVVMhaJFo44n7sf0Q3o
+1I2Q1ZmeoSHU9ndAv7G5Yz,Mayonakano Hikari,4,0.296,0.991,0.149,https://api.spotify.com/v1/audio-analysis/1I2Q1ZmeoSHU9ndAv7G5Yz
+7pojIEIoUfOEgU3prJ51hP,Yoruno Owari,3,0.0359,0.823,0.317,https://api.spotify.com/v1/audio-analysis/7pojIEIoUfOEgU3prJ51hP
+0MwMWQ9CbMsWSDNEQg4rwK,Mata Ashita,3,0.271,0.981,0.228,https://api.spotify.com/v1/audio-analysis/0MwMWQ9CbMsWSDNEQg4rwK
+12Z4vFy4FpvCaFzIMQiyL1,Hukai Nemuri,3,0.368,0.992,0.131,https://api.spotify.com/v1/audio-analysis/12Z4vFy4FpvCaFzIMQiyL1
+1nhnMWPV3QO2E1KCLZ88EM,Yasashii Neiro,3,0.324,0.995,0.0997,https://api.spotify.com/v1/audio-analysis/1nhnMWPV3QO2E1KCLZ88EM
+1yVnkZo0nBKiLofEP5zNzm,Tibetan Music,16,0.0741,0.845,0.261,https://api.spotify.com/v1/audio-analysis/1yVnkZo0nBKiLofEP5zNzm
+4vpVnkmDSaCnPxxIPAPArK,Meditation,12,0.0381,0.654,0.291,https://api.spotify.com/v1/audio-analysis/4vpVnkmDSaCnPxxIPAPArK
+2hf4vb21loiPY5GAF2RRSG,Eternity,8,0.0366,0.321,0.226,https://api.spotify.com/v1/audio-analysis/2hf4vb21loiPY5GAF2RRSG
+3TGwJrcY9glOZakasn4LvZ,Buddhist Music for Wellness,13,0.0384,0.803,0.161,https://api.spotify.com/v1/audio-analysis/3TGwJrcY9glOZakasn4LvZ
+1CmgHy8wpsoMTGRPK5Hycp,Tibetan Lullaby Song,11,0.0442,0.844,0.23,https://api.spotify.com/v1/audio-analysis/1CmgHy8wpsoMTGRPK5Hycp
+0ZPVYmMjzeh9F56ISxKJmf,Spa,7,0.201,0.988,0.151,https://api.spotify.com/v1/audio-analysis/0ZPVYmMjzeh9F56ISxKJmf
+7Kps2gommYOXP6KXm1usRU,New Age Nature Music,10,0.0578,0.508,0.163,https://api.spotify.com/v1/audio-analysis/7Kps2gommYOXP6KXm1usRU
+27oa9x0lGp4eDRW30wtbaf,Harmony,10,0.155,0.931,0.193,https://api.spotify.com/v1/audio-analysis/27oa9x0lGp4eDRW30wtbaf
+7bkvd2z1FkGHz9TKR1Pnvj,Tibetan Relaxation (Word Music),9,0.0392,0.733,0.118,https://api.spotify.com/v1/audio-analysis/7bkvd2z1FkGHz9TKR1Pnvj
+0XOmrC0TNVsLespWzZ2iPL,Sounds of Nature: Water Sound,9,0.0363,0.778,0.136,https://api.spotify.com/v1/audio-analysis/0XOmrC0TNVsLespWzZ2iPL
+0OUkBzycnLkhjpkfRI0QeV,Deep Sleep,17,0.145,0.989,0.263,https://api.spotify.com/v1/audio-analysis/0OUkBzycnLkhjpkfRI0QeV
+4EiblYqASM0bcJQycBRVG0,Tibetan Singing Bowls for Meditation,8,0.0556,0.747,0.242,https://api.spotify.com/v1/audio-analysis/4EiblYqASM0bcJQycBRVG0
+1aqC4rJDqYYaWFtQHkHubL,Relieve Stress,8,0.167,0.967,0.129,https://api.spotify.com/v1/audio-analysis/1aqC4rJDqYYaWFtQHkHubL
+6ycvZEMdwveGCDOWof1PYX,Peaceful Music,5,0.0368,0.782,0.177,https://api.spotify.com/v1/audio-analysis/6ycvZEMdwveGCDOWof1PYX
+4776ZOVukdiwvJl3ff0yVN,Yoga,8,0.0393,0.839,0.203,https://api.spotify.com/v1/audio-analysis/4776ZOVukdiwvJl3ff0yVN
+5ZMKoWJgeUKDtxw8v0PKSO,Ancient Spirit,7,0.057,0.964,0.151,https://api.spotify.com/v1/audio-analysis/5ZMKoWJgeUKDtxw8v0PKSO
+0JdeigUMkFbF7XYihXbhWy,Nature Sounds for Yoga Music,8,0.0369,0.694,0.238,https://api.spotify.com/v1/audio-analysis/0JdeigUMkFbF7XYihXbhWy
+0ht4pOMaiCJcjj6HHddDM1,Massage Music,4,0.0345,0.843,0.163,https://api.spotify.com/v1/audio-analysis/0ht4pOMaiCJcjj6HHddDM1
+7xLdjfI9EEsnFN7VDk5WTL,Sleep Song,5,0.0412,0.586,0.105,https://api.spotify.com/v1/audio-analysis/7xLdjfI9EEsnFN7VDk5WTL
+2qTc9ZWHiX3HQ0xSmvka0C,Rebirthing (Healing Music Therapy),5,0.344,0.966,0.209,https://api.spotify.com/v1/audio-analysis/2qTc9ZWHiX3HQ0xSmvka0C
+0rvhtVIUYANdcTjcrFwzaK,Tibet Calming Music,7,0.046,0.843,0.189,https://api.spotify.com/v1/audio-analysis/0rvhtVIUYANdcTjcrFwzaK
+5KZllsX5PQFZr7yaryiLhG,Baby Lullabies,4,0.0669,0.873,0.268,https://api.spotify.com/v1/audio-analysis/5KZllsX5PQFZr7yaryiLhG
+14AGdzFUxiopN7Pjodo4Pe,Chakra Balancing,7,0.0314,0.762,0.188,https://api.spotify.com/v1/audio-analysis/14AGdzFUxiopN7Pjodo4Pe
+2YdZqg132x22tcSAxHlLJN,Meditation Music,7,0.033,0.805,0.15,https://api.spotify.com/v1/audio-analysis/2YdZqg132x22tcSAxHlLJN
+36RrclBliVraGu68iiHYBJ,Relax Music,9,0.301,0.995,0.0234,https://api.spotify.com/v1/audio-analysis/36RrclBliVraGu68iiHYBJ
+5NXH6EOWIOEM15ibpcTrRt,Good Night (Sleep Songs),7,0.0388,0.742,0.225,https://api.spotify.com/v1/audio-analysis/5NXH6EOWIOEM15ibpcTrRt
+6RJOvTf73GvAyJ3gYt9AqV,Sleep Music,6,0.0553,0.789,0.23,https://api.spotify.com/v1/audio-analysis/6RJOvTf73GvAyJ3gYt9AqV
+7iHzBIgxY0q3LI7ojSANgT,Oriental Music,7,0.0373,0.706,0.162,https://api.spotify.com/v1/audio-analysis/7iHzBIgxY0q3LI7ojSANgT
+6kMSAZCV9YNcTiyZaBWOcH,Water Sound Therapy,6,0.0363,0.655,0.202,https://api.spotify.com/v1/audio-analysis/6kMSAZCV9YNcTiyZaBWOcH
+4EYsK3e9gqxzyXskTq6VdV,Ambient Music for Relaxing Atmosphere,7,0.0306,0.857,0.126,https://api.spotify.com/v1/audio-analysis/4EYsK3e9gqxzyXskTq6VdV
+07FizUDlz69h31NYA1zAWj,Sound Healing,9,0.0373,0.643,0.255,https://api.spotify.com/v1/audio-analysis/07FizUDlz69h31NYA1zAWj
+78txMBOsUrb455C8SgGMv3,Lullaby,5,0.0604,0.496,0.17,https://api.spotify.com/v1/audio-analysis/78txMBOsUrb455C8SgGMv3
+6rzxzXGKerAUfl32FlBm3c,Inner Peace (Sound of Nature),6,0.043,0.691,0.168,https://api.spotify.com/v1/audio-analysis/6rzxzXGKerAUfl32FlBm3c
+5WfQNXcZm8V91570mXsL0m,Lullaby Song,4,0.0661,0.859,0.185,https://api.spotify.com/v1/audio-analysis/5WfQNXcZm8V91570mXsL0m
+17lUqXGUPuMuiNzNwkGIPq,Delta Waves and Sound of Rain,6,0.0313,0.928,0.0292,https://api.spotify.com/v1/audio-analysis/17lUqXGUPuMuiNzNwkGIPq
+2HvyCkk8ADavGlfr3OtytF,Relaxation Meditation,7,0.0743,0.85,0.279,https://api.spotify.com/v1/audio-analysis/2HvyCkk8ADavGlfr3OtytF
+4ePX9hqRY8yZC6QBUPzVEM,Spa Music,4,0.0526,0.777,0.194,https://api.spotify.com/v1/audio-analysis/4ePX9hqRY8yZC6QBUPzVEM
+0VuQPRAGGPWkqt8eM7JAyY,Nature Sounds,3,0.159,0.985,0.142,https://api.spotify.com/v1/audio-analysis/0VuQPRAGGPWkqt8eM7JAyY
+2WJ0DiayRhUkKJCpIBbDcO,Relax,3,0.573,0.99,0.177,https://api.spotify.com/v1/audio-analysis/2WJ0DiayRhUkKJCpIBbDcO
+6bxoFYb6tX2JCGdfOW5TGC,Feel Good Music,3,0.0642,0.875,0.3,https://api.spotify.com/v1/audio-analysis/6bxoFYb6tX2JCGdfOW5TGC
+3BiB0UVUF2dhE4gnSWHsO9,Water Sounds for Deep Sleep and Yoga Exercices,4,0.0336,0.679,0.277,https://api.spotify.com/v1/audio-analysis/3BiB0UVUF2dhE4gnSWHsO9
+0hwULnpZyPWIaDhz8fpNJD,Spiritual Healing (Peace Music),4,0.0291,0.922,0.0243,https://api.spotify.com/v1/audio-analysis/0hwULnpZyPWIaDhz8fpNJD
+4uCaifWdUfiAqCW74T4Qbs,Zen Meditation Music,8,0.0358,0.851,0.11,https://api.spotify.com/v1/audio-analysis/4uCaifWdUfiAqCW74T4Qbs
+6D6dr3lysMFv7oP0S9j7VO,Sleeping Songs,4,0.0389,0.974,0.133,https://api.spotify.com/v1/audio-analysis/6D6dr3lysMFv7oP0S9j7VO
+6JhjJxgwA3AvjSUl25thGI,New Age for Daily Life,3,0.0647,0.97,0.0261,https://api.spotify.com/v1/audio-analysis/6JhjJxgwA3AvjSUl25thGI
+0nkG6KCVTI63MhK13C38Up,Tibetan Bowl Gongs for Chakra Balance and Meditation,3,0.0324,0.96,0.00192,https://api.spotify.com/v1/audio-analysis/0nkG6KCVTI63MhK13C38Up
+55tC1MFlP5nrfS4bg7brpc,Tibetan Singing Bowls Music,3,0.121,0.937,0.00262,https://api.spotify.com/v1/audio-analysis/55tC1MFlP5nrfS4bg7brpc
+0K3lEr4qqUdKGAYKzKhxbd,High Singing Bowl for Meditation and Relaxation,2,0.0186,0.783,0.000528,https://api.spotify.com/v1/audio-analysis/0K3lEr4qqUdKGAYKzKhxbd
+2i5nAA70jg6xifgaasWKF5,Powerful Crystal Tibetan Singing Bowl for Chakra Balance and Meditation,5,0.348,0.827,0.00255,https://api.spotify.com/v1/audio-analysis/2i5nAA70jg6xifgaasWKF5
+4fig8liq6E9DhTrFmygObh,Tibetan Meditation,3,0.0315,0.895,0.0286,https://api.spotify.com/v1/audio-analysis/4fig8liq6E9DhTrFmygObh
+0f2c29cBZJHHscUGTfOk6x,"Tibetan Singing Bowls for Yoga, Massage, Relaxaation and Meditation",2,0.0478,0.932,0.00967,https://api.spotify.com/v1/audio-analysis/0f2c29cBZJHHscUGTfOk6x
+6hLRYOYnLIm2gVE3FAD7u5,The Eternal Balance,2,0.0356,0.746,0.0384,https://api.spotify.com/v1/audio-analysis/6hLRYOYnLIm2gVE3FAD7u5
+6I9mB3WYoYFaih5DVpcBcE,Healing Gong Waves for Chakra Tune Up,2,0.0237,0.925,0.00303,https://api.spotify.com/v1/audio-analysis/6I9mB3WYoYFaih5DVpcBcE
+3see4qyXuhg0a7D5gg0q0C,Tibetan Healing Prayer,2,0.574,0.978,0.000539,https://api.spotify.com/v1/audio-analysis/3see4qyXuhg0a7D5gg0q0C
+6eF0kyw0kjw9chYj6nYPLR,Thai Gong Meditation for Sound Therapy,2,0.0292,0.993,0.0016,https://api.spotify.com/v1/audio-analysis/6eF0kyw0kjw9chYj6nYPLR
+1D9pzSZrM7KdFpiOdc06ny,Tibetan Monks,2,0.0317,0.905,0.00864,https://api.spotify.com/v1/audio-analysis/1D9pzSZrM7KdFpiOdc06ny
+0Bw1XeIr9dzBQCnsEOCM05,Tibetan Singing Bowl,11,0.0279,0.991,0.0018,https://api.spotify.com/v1/audio-analysis/0Bw1XeIr9dzBQCnsEOCM05
+6Wywk3FOCKeir6eWA3I6UZ,Large Tibetan Singing Bowls,2,0.274,0.905,0.00287,https://api.spotify.com/v1/audio-analysis/6Wywk3FOCKeir6eWA3I6UZ
+7u3PNv0xneGfCqjFWVPEEX,"Root Chakra: Tibetan Singing Bowls for Relaxation, Meditation and Chakra Balancing",22,0.348,0.827,0.00255,https://api.spotify.com/v1/audio-analysis/7u3PNv0xneGfCqjFWVPEEX
+3HJH8g52JMXC5Lt0EfqM9o,Relaxing Singing Bowls for Chakra Balancing &yoga,14,0.0186,0.783,0.000528,https://api.spotify.com/v1/audio-analysis/3HJH8g52JMXC5Lt0EfqM9o
+1FaBWB2h6g5eT9FjhnOyi7,Harmonic Crystal Bowls: Chakra Balancing Melody for Meditation and Energy Balance,14,0.121,0.937,0.00262,https://api.spotify.com/v1/audio-analysis/1FaBWB2h6g5eT9FjhnOyi7
+0OQMAbGLH8U7Z2ptU5gNVx,Brow Chakra: High Tibetan Singing Bowl Harmonics,14,0.0478,0.932,0.00967,https://api.spotify.com/v1/audio-analysis/0OQMAbGLH8U7Z2ptU5gNVx
+24N8bBi3zaJho6mR0fLPoW,Crown Chakra: Thai Gong for Chakra Meditation and Relaxation,17,0.0292,0.993,0.0016,https://api.spotify.com/v1/audio-analysis/24N8bBi3zaJho6mR0fLPoW
+413FVDSFhQ0jdhJq5qQwXa,"Crystal Singing Bowl for Relaxation, Meditation and Chakra Balancing",14,0.0315,0.895,0.0286,https://api.spotify.com/v1/audio-analysis/413FVDSFhQ0jdhJq5qQwXa
+7poJecS0TaGFKAg0uprakP,"Sacral Chakra: Mystic Energy Gong for Body, Mind and Soul",10,0.0324,0.96,0.00192,https://api.spotify.com/v1/audio-analysis/7poJecS0TaGFKAg0uprakP
+6xYTI9V1Q43DGgABrF7Ovl,Tibetan Singing Bowl With Om Chant Monks for Chakra Meditation and Energy Balance,11,0.0317,0.905,0.00864,https://api.spotify.com/v1/audio-analysis/6xYTI9V1Q43DGgABrF7Ovl
+363HvNh30zfoqrqiTgG39J,Heart Chakra: Continuous Gong for Meditation,28,0.0279,0.991,0.0018,https://api.spotify.com/v1/audio-analysis/363HvNh30zfoqrqiTgG39J
+5oknkjJnil8YxV19iM3neF,Throat Chakra: Tibetan Singing Bowls and Harmonic Crystal Bows,12,0.274,0.905,0.00287,https://api.spotify.com/v1/audio-analysis/5oknkjJnil8YxV19iM3neF
+7weUeC3qo047pydnB8OrKt,Solar Plexus Chakra: Various Energy Gongs for Meditation,10,0.0316,0.964,0.00291,https://api.spotify.com/v1/audio-analysis/7weUeC3qo047pydnB8OrKt
+0mqEEOQPTLZgSf6fOarBQr,Huge Energy Gong Struck In Intervals for Deep Meditaion and Relaxation,9,0.574,0.978,0.000539,https://api.spotify.com/v1/audio-analysis/0mqEEOQPTLZgSf6fOarBQr
+07zmDTMQ3TdTyU6oUOj0Bw,Chakra Tune Up: Gongs for Chakra Energy Balancing and Yoga,8,0.0237,0.925,0.00303,https://api.spotify.com/v1/audio-analysis/07zmDTMQ3TdTyU6oUOj0Bw
+685wVKi9g8Y7HvIjTrPlsu,"Exhale: Chakra Balance for Body, Mind and Soul",16,0.0356,0.746,0.0384,https://api.spotify.com/v1/audio-analysis/685wVKi9g8Y7HvIjTrPlsu
+6baQGt9kipQUxjbvfgHGt2,Waterfall Of Love,7,0.0707,0.971,0.121,https://api.spotify.com/v1/audio-analysis/6baQGt9kipQUxjbvfgHGt2
+28xPUImE1FFwwftqoM54fL,Free,26,0.0685,0.925,0.0513,https://api.spotify.com/v1/audio-analysis/28xPUImE1FFwwftqoM54fL
+5pPThmXDtfI6Hbct1dNh8F,In The Moment,6,0.119,0.983,0.0327,https://api.spotify.com/v1/audio-analysis/5pPThmXDtfI6Hbct1dNh8F
+79DgbUnTPIjdksd2SiNMk5,7 Years,48,0.0523,0.988,0.00379,https://api.spotify.com/v1/audio-analysis/79DgbUnTPIjdksd2SiNMk5
+58017hB26pVs8drfeXTjoi,Wonderful Life 432 Hz,22,0.0589,0.967,0.12,https://api.spotify.com/v1/audio-analysis/58017hB26pVs8drfeXTjoi
+1HqASPBVzL9EVPiTRe6cU8,Serenity,21,0.0904,0.915,0.055,https://api.spotify.com/v1/audio-analysis/1HqASPBVzL9EVPiTRe6cU8
+2hlJsKlUkYpVfzDW3bxP1F,Dancing in the Moonlight,43,0.247,0.983,0.00687,https://api.spotify.com/v1/audio-analysis/2hlJsKlUkYpVfzDW3bxP1F
+3rL6qUGoOGLybnouK5AZ4h,Love For Life,20,0.037,0.966,0.175,https://api.spotify.com/v1/audio-analysis/3rL6qUGoOGLybnouK5AZ4h
+6Rw7wN7ePVEw7YGCKwF6dj,Sun,19,0.0517,0.778,0.127,https://api.spotify.com/v1/audio-analysis/6Rw7wN7ePVEw7YGCKwF6dj
+7EQBWig47J945uLJYz2se0,Mountain Bliss,26,0.0394,0.962,0.0824,https://api.spotify.com/v1/audio-analysis/7EQBWig47J945uLJYz2se0
+0vgpOtEHvLTBB7qESeaIEf,In Peaceful Light,5,0.0867,0.925,0.0896,https://api.spotify.com/v1/audio-analysis/0vgpOtEHvLTBB7qESeaIEf
+1b8zjZ8MuJrequIXVukG3k,528 Hz Calm Mind,22,0.0556,0.905,0.0816,https://api.spotify.com/v1/audio-analysis/1b8zjZ8MuJrequIXVukG3k
+1qz3yRIrVy6kuTW1KOUtJ8,Sunny Beach,5,0.0592,0.994,0.0337,https://api.spotify.com/v1/audio-analysis/1qz3yRIrVy6kuTW1KOUtJ8
+1528QDxI81F3Da9QGtilHD,Undiscovered,47,0.235,0.962,0.0563,https://api.spotify.com/v1/audio-analysis/1528QDxI81F3Da9QGtilHD
+7dR8c2DKDOaCgU8xLH7Xdv,Nirvana,18,0.0397,0.93,0.0512,https://api.spotify.com/v1/audio-analysis/7dR8c2DKDOaCgU8xLH7Xdv
+6EHpKQkf3P5IWI0nTkaaUM,Harp For Love,5,0.0747,0.967,0.0856,https://api.spotify.com/v1/audio-analysis/6EHpKQkf3P5IWI0nTkaaUM
+3DdoF7x1C1DGKjvQnVTGys,Palm Tree 432 Hz,17,0.0988,0.99,0.0855,https://api.spotify.com/v1/audio-analysis/3DdoF7x1C1DGKjvQnVTGys
+65CZFW7hW057vuIKVrmEoY,528 Hz Increase Awareness,21,0.0522,0.922,0.212,https://api.spotify.com/v1/audio-analysis/65CZFW7hW057vuIKVrmEoY
+3hlY9DRLP6Rqj46zX1SjRR,A Day In Paradise,23,0.265,0.785,0.143,https://api.spotify.com/v1/audio-analysis/3hlY9DRLP6Rqj46zX1SjRR
+1pNUXqAsUUjiNMd5CnElGp,Sweet Dreams,20,0.057,0.804,0.0436,https://api.spotify.com/v1/audio-analysis/1pNUXqAsUUjiNMd5CnElGp
+6lZAFA5lStrmkcEBADus51,Relaxation Tonight,22,0.149,0.813,0.0644,https://api.spotify.com/v1/audio-analysis/6lZAFA5lStrmkcEBADus51
+0NmON195FgvTX6AcZjIfxO,Beautiful Sunset,22,0.169,0.891,0.0866,https://api.spotify.com/v1/audio-analysis/0NmON195FgvTX6AcZjIfxO
+4vTr8kAQV6wO7L5dKDFaat,Mountain Glow,17,0.101,0.854,0.274,https://api.spotify.com/v1/audio-analysis/4vTr8kAQV6wO7L5dKDFaat
+2DTdNeAK2sLmAKKKcVyA17,White Sand,24,0.0382,0.985,0.136,https://api.spotify.com/v1/audio-analysis/2DTdNeAK2sLmAKKKcVyA17
+5Cc1G9dVVCbz7iNK0MgBpr,Forest Euphoria,24,0.0866,0.953,0.0389,https://api.spotify.com/v1/audio-analysis/5Cc1G9dVVCbz7iNK0MgBpr
+3yDx7RJTwuPnMW9yjWXXZE,Hawaii Dreams,22,0.0738,0.995,0.0785,https://api.spotify.com/v1/audio-analysis/3yDx7RJTwuPnMW9yjWXXZE
+5NuoRUeixufSxZfqoHIHcj,Sleep Well My Friend,20,0.0792,0.433,0.0409,https://api.spotify.com/v1/audio-analysis/5NuoRUeixufSxZfqoHIHcj
+1AEXMktNj0bA0JuFdih0kF,528 Hz Miracle Frequency,20,0.359,0.97,0.0699,https://api.spotify.com/v1/audio-analysis/1AEXMktNj0bA0JuFdih0kF
+0SINQbGB1GyBf4eBBSM43S,One More Time,17,0.123,0.945,0.0757,https://api.spotify.com/v1/audio-analysis/0SINQbGB1GyBf4eBBSM43S
+5HvS3GWbrI2hzzOGqe52UG,Sea of Light,32,0.073,0.861,0.204,https://api.spotify.com/v1/audio-analysis/5HvS3GWbrI2hzzOGqe52UG
+3UeAWDSUSSdD6Q22FF1CKS,Manifest Your Dreams,20,0.121,0.87,0.132,https://api.spotify.com/v1/audio-analysis/3UeAWDSUSSdD6Q22FF1CKS
+7sJBTKp7kDAFTSOvZdxt5M,Healing Frequencies,19,0.0549,0.801,0.211,https://api.spotify.com/v1/audio-analysis/7sJBTKp7kDAFTSOvZdxt5M
+3fFmopLshn7SqDp73YMC0R,Dreamy Atmos,15,0.0938,0.0153,0.156,https://api.spotify.com/v1/audio-analysis/3fFmopLshn7SqDp73YMC0R
+40qeYynobNzqF9HfPkSFR3,Gratefulness,32,0.165,0.939,0.212,https://api.spotify.com/v1/audio-analysis/40qeYynobNzqF9HfPkSFR3
+1vMBGdmYP17ClvMsvzJ36j,Let The River Flow 528 Hz,19,0.0348,0.87,0.338,https://api.spotify.com/v1/audio-analysis/1vMBGdmYP17ClvMsvzJ36j
+1trtE9nzsd6sxE9lccwfiM,Magic Sundown,24,0.0359,0.887,0.034,https://api.spotify.com/v1/audio-analysis/1trtE9nzsd6sxE9lccwfiM
+3bdKmyBycEFKuWX4EWYsfo,Lovely Piano,15,0.031,0.951,0.068,https://api.spotify.com/v1/audio-analysis/3bdKmyBycEFKuWX4EWYsfo
+3mepkDWf14j0McMxcIbmjc,Clouds,19,0.0393,0.988,0.033,https://api.spotify.com/v1/audio-analysis/3mepkDWf14j0McMxcIbmjc
+3WoGNWSOstLosLTgT8NxdC,Astrolabe,32,0.0343,0.921,0.0467,https://api.spotify.com/v1/audio-analysis/3WoGNWSOstLosLTgT8NxdC
+3szW3gOKExfC57GdSCnhMb,Paradise Garden,14,0.0374,0.993,0.147,https://api.spotify.com/v1/audio-analysis/3szW3gOKExfC57GdSCnhMb
+4QdpiEwT4Sv6tfXNqhpGgc,Albatross,33,0.0558,0.614,0.151,https://api.spotify.com/v1/audio-analysis/4QdpiEwT4Sv6tfXNqhpGgc
+19gAXiE6FYuQ87LAZzR55k,Rain From Heaven,15,0.0353,0.941,0.161,https://api.spotify.com/v1/audio-analysis/19gAXiE6FYuQ87LAZzR55k
+07ZgnSI0FGVwxCovl1HLal,Relaxing Waves,15,0.0565,0.903,0.0289,https://api.spotify.com/v1/audio-analysis/07ZgnSI0FGVwxCovl1HLal
+0L8U0b9O7lQO9VipV3i6xN,Mist,31,0.0586,0.984,0.0934,https://api.spotify.com/v1/audio-analysis/0L8U0b9O7lQO9VipV3i6xN
+78B6wBP42xID4pI70ik5qx,Spring River,16,0.176,0.991,0.0809,https://api.spotify.com/v1/audio-analysis/78B6wBP42xID4pI70ik5qx
+7qvIhhgREvAP8sf8osi9MY,Polar Descent,32,0.107,0.92,0.112,https://api.spotify.com/v1/audio-analysis/7qvIhhgREvAP8sf8osi9MY
+4RPxFFNwl0awElXJIRnxSQ,Summarizing Sunrises,32,0.0352,0.971,0.0951,https://api.spotify.com/v1/audio-analysis/4RPxFFNwl0awElXJIRnxSQ
+5fuX8gwk2TGrpIKX6RR4Y3,Selina's Lullaby,40,0.0664,0.911,0.0768,https://api.spotify.com/v1/audio-analysis/5fuX8gwk2TGrpIKX6RR4Y3
+0zMVJBjdegDLhwhG0Iu9nS,Entering The Clockwork Halls,33,0.0326,0.971,0.0437,https://api.spotify.com/v1/audio-analysis/0zMVJBjdegDLhwhG0Iu9nS
+0t971nk22Z8LHCPp2XksxA,Peaceful Mind,32,0.061,0.85,0.085,https://api.spotify.com/v1/audio-analysis/0t971nk22Z8LHCPp2XksxA
+6ncThVkW6xywHK9FxZbcYD,A Mirror Appears,44,0.297,0.995,0.00556,https://api.spotify.com/v1/audio-analysis/6ncThVkW6xywHK9FxZbcYD
+5k5b3ig0xlbvN2jVMKDsF5,Naslednjič,31,0.0548,0.942,0.0486,https://api.spotify.com/v1/audio-analysis/5k5b3ig0xlbvN2jVMKDsF5
+2pDkdTLCqR7lqqUUjep4RJ,Magic Moments,17,0.125,0.288,0.0636,https://api.spotify.com/v1/audio-analysis/2pDkdTLCqR7lqqUUjep4RJ
+61JqDmHZeYLK2RclRBSr9F,Reversoothes,31,0.0378,0.988,0.0249,https://api.spotify.com/v1/audio-analysis/61JqDmHZeYLK2RclRBSr9F
+7fOQxJRvf3RApjE7klyFPn,Crystal Clear,13,0.0661,0.972,0.0653,https://api.spotify.com/v1/audio-analysis/7fOQxJRvf3RApjE7klyFPn
+4ofswta82cpa2mJv6jrpyb,High Flyer,31,0.0381,0.994,0.0589,https://api.spotify.com/v1/audio-analysis/4ofswta82cpa2mJv6jrpyb
+6np4zSSMdnXu3nHzaFK7vY,Calming Vibes,16,0.0484,0.99,0.0393,https://api.spotify.com/v1/audio-analysis/6np4zSSMdnXu3nHzaFK7vY
+1E8X81mDNXxPlzIWGdwFmg,Ethereal,62,0.0343,0.878,0.00946,https://api.spotify.com/v1/audio-analysis/1E8X81mDNXxPlzIWGdwFmg
+2ZC9pIlwUXquQDWRcsCtKp,Sea Angel,49,0.0363,0.963,0.233,https://api.spotify.com/v1/audio-analysis/2ZC9pIlwUXquQDWRcsCtKp
+0anklQlrvEVe3ZqW7c6brt,Breathe,22,0.0985,0.995,0.00847,https://api.spotify.com/v1/audio-analysis/0anklQlrvEVe3ZqW7c6brt
+7k59hF8Vc7Ob9HYO8fnbLF,Inner Peace,70,0.136,0.977,0.00488,https://api.spotify.com/v1/audio-analysis/7k59hF8Vc7Ob9HYO8fnbLF
+2QjHg0IKNKgURtYuRaOSVh,Drømme,63,0.0469,0.983,0.00666,https://api.spotify.com/v1/audio-analysis/2QjHg0IKNKgURtYuRaOSVh
+4TbaG2d0oHVSL5WWHr3paT,Distant Oceans,61,0.074,0.968,0.00271,https://api.spotify.com/v1/audio-analysis/4TbaG2d0oHVSL5WWHr3paT
+2e0GYT1cwyJTcWy9hiN1xZ,Healing Waves,60,0.04,0.993,0.00543,https://api.spotify.com/v1/audio-analysis/2e0GYT1cwyJTcWy9hiN1xZ
+6g11H9Qg8lcJwEIS39e6GN,Driftwood,58,0.0459,0.888,0.0253,https://api.spotify.com/v1/audio-analysis/6g11H9Qg8lcJwEIS39e6GN
+6QNrpzKEYLzQsBqQQphfue,When We Touch,58,0.163,0.861,0.26,https://api.spotify.com/v1/audio-analysis/6QNrpzKEYLzQsBqQQphfue
+4lMmoawRGvO419cZgRP9mV,Stargaze,57,0.0381,0.972,0.0495,https://api.spotify.com/v1/audio-analysis/4lMmoawRGvO419cZgRP9mV
+36ohYATGnjB8KVRhsglPDP,Before Sunrise,57,0.101,0.994,0.0179,https://api.spotify.com/v1/audio-analysis/36ohYATGnjB8KVRhsglPDP
+5CPNW8gaWplZXw9ltkTqQu,Eudaimonia,56,0.0312,0.995,0.00695,https://api.spotify.com/v1/audio-analysis/5CPNW8gaWplZXw9ltkTqQu
+679ajBE0hA1KXeV4ksYifn,Shapes of Solitude,56,0.0383,0.912,0.0343,https://api.spotify.com/v1/audio-analysis/679ajBE0hA1KXeV4ksYifn
+1JuU4qEEZgSZbXotwMRpQF,Cíes,55,0.0371,0.884,0.032,https://api.spotify.com/v1/audio-analysis/1JuU4qEEZgSZbXotwMRpQF
+2p2mFunyYlzwWAOomLVEKt,My Halo Orbit,53,0.0729,0.82,0.0291,https://api.spotify.com/v1/audio-analysis/2p2mFunyYlzwWAOomLVEKt
+4zXfPzjyYjS59WBpaBJSbs,Silent Whispers,51,0.199,0.969,0.182,https://api.spotify.com/v1/audio-analysis/4zXfPzjyYjS59WBpaBJSbs
+357UXnSLfG3RTRrRMc7YiU,Maja's Miracle,51,0.0939,0.883,0.00735,https://api.spotify.com/v1/audio-analysis/357UXnSLfG3RTRrRMc7YiU
+3Y1uYjKIPFZ4PBNOYkTFqR,What If,51,0.033,0.987,0.0367,https://api.spotify.com/v1/audio-analysis/3Y1uYjKIPFZ4PBNOYkTFqR
+1fNzrF4LItKYRmCquXrMVE,Deep Down,50,0.038,0.97,0.00898,https://api.spotify.com/v1/audio-analysis/1fNzrF4LItKYRmCquXrMVE
+7xvgRpkb45ZJXd6jkguIrr,Healing Elves,35,0.0833,0.956,0.173,https://api.spotify.com/v1/audio-analysis/7xvgRpkb45ZJXd6jkguIrr
+4Kx7N7sHcJ0MamSpuDKfV5,Soft harp world,38,0.0386,0.992,0.0142,https://api.spotify.com/v1/audio-analysis/4Kx7N7sHcJ0MamSpuDKfV5
+1EdOIy6n6U8Is6bv3tmPua,Deepspring Sanctum,23,0.346,0.982,0.21,https://api.spotify.com/v1/audio-analysis/1EdOIy6n6U8Is6bv3tmPua
+5hTRQp4L8g9K0F8xawKo4o,Inochi-No Namae,35,0.128,0.992,0.216,https://api.spotify.com/v1/audio-analysis/5hTRQp4L8g9K0F8xawKo4o
+6Cud8uXpTeGvEpz5exMoxO,Skyshards,0,0.23,0.995,0.0302,https://api.spotify.com/v1/audio-analysis/6Cud8uXpTeGvEpz5exMoxO
+1uBvpHFfu3mJe7zOMr4fRO,Calm Sea,38,0.0591,0.931,0.0117,https://api.spotify.com/v1/audio-analysis/1uBvpHFfu3mJe7zOMr4fRO
+5dZmLsJaCN9hWhPss0nj1o,Réflexions,2,0.0392,0.982,0.0183,https://api.spotify.com/v1/audio-analysis/5dZmLsJaCN9hWhPss0nj1o
+3NUJHmLG2sJgKQabuK0SK9,Stay Calm,14,1e-05,0.505,0.999,https://api.spotify.com/v1/audio-analysis/3NUJHmLG2sJgKQabuK0SK9
+48Oi9r8JD4ambAJbt9JFDr,Guitar Music for Spa,8,0.0369,0.964,0.182,https://api.spotify.com/v1/audio-analysis/48Oi9r8JD4ambAJbt9JFDr
+7b4rOLH0FpyHnDoxld0Wst,Liberation of Mind,5,0.0351,0.995,0.0101,https://api.spotify.com/v1/audio-analysis/7b4rOLH0FpyHnDoxld0Wst
+0q00salo3O7h40yOMUUEC5,Enhanced Spiritual Energy,8,0.431,0.851,0.488,https://api.spotify.com/v1/audio-analysis/0q00salo3O7h40yOMUUEC5
+2z6CYGTEtN5DYmKE8ooTIx,Emotional Stability Goal,4,0.0414,0.153,0.0725,https://api.spotify.com/v1/audio-analysis/2z6CYGTEtN5DYmKE8ooTIx
+6U9z7IcAcWzcTpxqyPQWBF,A Moment of Zen,1,0.552,0.467,0.428,https://api.spotify.com/v1/audio-analysis/6U9z7IcAcWzcTpxqyPQWBF
+0Qkaw3iNgABij8GeN9EQE1,Stardust,31,0.365,0.989,0.167,https://api.spotify.com/v1/audio-analysis/0Qkaw3iNgABij8GeN9EQE1
+74jdFBI7LmTV2FMdd5qTh3,Seasons,66,0.0676,0.955,0.0038,https://api.spotify.com/v1/audio-analysis/74jdFBI7LmTV2FMdd5qTh3
+51cHdrCG6qyH5r9BPRK2K0,Incipits,56,0.112,0.961,0.00478,https://api.spotify.com/v1/audio-analysis/51cHdrCG6qyH5r9BPRK2K0
+2HsdgQQdg2z5zJ73XclFg6,Moonpool,0,0.116,0.00581,0.941,https://api.spotify.com/v1/audio-analysis/2HsdgQQdg2z5zJ73XclFg6
+25Eazeq2jR3OAXKVyn5A46,Astral,63,0.167,0.95,0.0291,https://api.spotify.com/v1/audio-analysis/25Eazeq2jR3OAXKVyn5A46
+09a8Ur35uRNugKT4X2Ia0W,Another Galaxy,62,0.0371,0.924,0.0333,https://api.spotify.com/v1/audio-analysis/09a8Ur35uRNugKT4X2Ia0W
