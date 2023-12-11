@@ -1,10 +1,11 @@
-# STAT605-Project (Fall 2023)
-### Group #10 
+# Spotify Popularity Insights: Top Correlated Song Features in Genres
 
-## Project Proposal: 
-https://niharika-chunduru.github.io/STAT605-Project/project-proposal
+## STAT605-Project (Fall 2023) - Group #10:
 
-## Members:
++ __[Project Proposal](https://niharika-chunduru.github.io/STAT605-Project/project-proposal)__
++ __[Project Report](https://niharika-chunduru.github.io/STAT605-Project/project-report)__
+
+## Team members:
 1. Niharika Chunuduru
 2. Vaishnavi Borwankar
 3. Sreeja Kodati
