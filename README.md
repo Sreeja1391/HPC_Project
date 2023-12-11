@@ -2,7 +2,7 @@
 ### Group #10 
 
 ## Project Proposal: 
-https://niharikacnr.github.io/STAT605-Project/project-proposal
+https://niharika-chunduru.github.io/STAT605-Project/project-proposal
 
 ## Members:
 1. Niharika Chunuduru
