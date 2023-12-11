@@ -1,0 +1,16 @@
+# Python build file
+
+universe = vanilla
+log = interactive.log
+
+# If building on CentOS 8 (Recommended)
+transfer_input_files = http://proxy.chtc.wisc.edu/SQUID/chtc/el8/python310.tar.gz
+
++IsBuildJob = true
+# Indicate which version of Linux (CentOS) you want to build your packages on
+requirements = (OpSysMajorVer =?= 8)
+request_cpus = 1
+request_memory = 4GB
+request_disk = 2GB
+
+queue
