@@ -2,8 +2,8 @@
 
 ## STAT605-Project (Fall 2023) - Group #10:
 
-+ __[Project Proposal]([https://niharika-chunduru.github.io/Spotify-Song-Feature-Analysis/project-proposal])__
-+ __[Project Report]([https://niharika-chunduru.github.io/Spotify-Song-Feature-Analysis/project-report])__
++ __[Project Proposal](https://niharika-chunduru.github.io/Spotify-Song-Feature-Analysis/project-proposal)__
++ __[Project Report](https://niharika-chunduru.github.io/Spotify-Song-Feature-Analysis/project-report)__
 
 ## Team members:
 1. Niharika Chunuduru
